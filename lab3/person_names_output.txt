@@ -1,0 +1,5932 @@
+1	Roland Franklin
+1	Frank Kane
+2	FRANK KANE
+3	Roland Franklin
+3	IT SEEMS
+5	Pembridge Investments
+8	Mr Franklin
+18	Sir James Goldsmith
+18	The Franklin
+19	Keyser Ullman
+19	Mr Franklin
+22	Sir James
+27	Basildon Bond
+31	Stock Exchange
+31	Square Mile
+32	JOHN MOORE
+34	International Stock Exchange
+35	International Stock Exchange
+36	Automated Registration
+36	Uncertificated Stock
+42	Big Bang
+44	Big Bang
+46	Citicorp Scrimgeour Vickers
+46	Anthony Preece
+50	General Investments
+50	Andrew Palmer
+54	Bill Widdis
+59	Investment Brokers Association
+59	Brokers Regulatory Association
+59	Financial Intermediaries
+59	British Insurance
+65	David Palmer
+65	Lord Elton
+72	International Stock Exchange
+73	United Securities Fondkommission
+76	LARRY BLACK
+78	La Guardia Airport
+78	New York
+79	Braniff Airlines
+79	Big Eight
+80	Transportation Secretary Samuel Skinner
+82	Mr Skinner
+82	On Friday
+83	United Airlines
+83	British Airways
+84	Mr Skinner
+86	Federal Aviation Act
+87	Los Angeles
+87	Al Checchi
+88	Mr Skinner
+90	United Airlines
+90	Mr Skinner
+92	Transportation Secretary
+93	Mr Skinner
+94	British Department
+95	Wall Street
+95	Mr Skinner
+96	Mr Skinner
+100	Mr Skinner
+102	United Airlines
+104	Democrat Robert Byrd
+104	Mr Skinner
+106	New York
+107	Mr Skinner
+108	Global Aviation
+108	Jon Ash
+111	JOHN SHEPHERD
+112	Lincat Group
+112	THE SHARE
+114	Abbey Clocks
+117	Abbey Clocks
+119	Colbrook Equipment
+122	Martin Craddock
+124	Beeson Gregory
+124	Guy Bell
+126	JERRY CONNOLLY
+127	Metal Box
+127	MB GROUP
+133	Murray Stuart
+135	French Carnaud
+135	Metal Box
+146	Kent Garden Centres
+147	JERRY CONNOLLY
+148	Kent Garden Centres
+148	Jerry Connolly
+148	THE MANAGEMENT
+149	Retail Corporation
+150	Malcolm Parkinson
+151	Mr Parkinson
+152	Alan Greensides
+152	John Kennedy
+157	MARY FAGAN
+159	Fintech Mobile Communications
+159	British Telecom
+159	Racal Telecom
+162	Deutsche Bundespost
+162	West Germany
+165	MARY FAGAN
+166	Fenchurch Insurance Group
+166	Robert Maxwell
+167	Guiness Peat Group
+167	Lord Kissin
+167	Mr Maxwell
+168	New Zealand Equiticorp
+169	Hambro Magan
+169	Alton Irby
+177	Intermediate Capital Group
+178	National Westminster Bank
+179	Economic Outlook
+180	SARAH HOGG
+181	The Chancellor
+182	Conservative Party
+183	If Mr Lawson
+186	Nigel Lawson
+190	International Monetary Fund
+191	First World War
+194	Mr Lawson
+201	Mr Lawson
+205	European Monetary System
+206	Mr Lawson
+208	Mrs Thatcher
+210	Mr Lawson
+213	Treasury Through
+216	The Chancellor
+218	International Economics
+218	Fred Bergsten
+221	But Mr Lawson
+222	Compagnie Bancaire
+222	Corporate Profile
+222	Michael Prest
+222	Le Mortgage
+223	MICHAEL PREST
+224	Compagnie Bancaire
+225	Le Mortgage
+227	Le Mortgage
+238	Enterprises Francaises
+238	Second World War
+238	Union Financiere
+239	Chairman Emeritus
+243	Paris Bourse
+244	Andre Levy
+245	Stanford University
+245	Ecole Polytechnique
+257	United Kingdom
+257	Levy-Lang
+257	Mr Levy
+259	Levy-Lang
+259	Mr Levy
+267	Levy-Lang
+267	Mr Levy
+270	Levy-Lang
+270	Mr Levy
+273	Levy-Lang
+273	Mr Levy
+284	Levy-Lang
+284	Mr Levy
+289	Le Life Policy
+289	Le Mortgage
+289	Le Loan
+290	City Summary
+291	MICHAEL PREST
+296	West Germany
+301	West Germany
+305	MICHAEL PREST
+306	International Coffee Organisation
+311	Richard Howell
+318	The Economist Intelligence Unit
+318	World Commodity Outlook
+321	International Monetary Fund
+321	United States Department
+324	The Irish
+326	Sri Lanka
+328	Since Sri Lanka
+342	The Soviet Union
+344	Mr Howell
+345	Soviet Union
+346	Mr Howell
+350	Sri Lanka
+354	Sri Lanka
+357	London Fox
+360	International Capital Markets
+361	DAVID FRANK
+362	International Accounting Standards Committee
+362	Financial Statements
+365	International Harmonisation
+365	Financial Statements
+371	When British Telecom
+385	Euromoney Bondware
+385	The Eurobond
+388	Technology Correspondent
+388	MARY FAGAN
+389	Ferranti International
+390	Hill Samuel
+391	Christopher Baker
+391	Hill Samuel
+392	Derek Alun-Jones
+392	Sir Derek Alun
+393	International Signal
+397	Hill Samuel
+397	Sir Derek
+399	The Hill Samuel
+403	Mr Baker
+409	Banking Correspondent
+409	PATRICK HOSKING
+410	Chancellor Nigel Lawson
+411	West Germany
+414	The Government
+415	Bill Martin
+419	Mr Martin
+420	British Industry
+424	Australian Mutual
+425	Assistant City Editor
+425	JOHN MOORE
+426	Australian Mutual Provident
+426	DAVID ANDERSON
+426	Einion Holland
+426	Pearl Group
+427	Australian Mutual Provident
+428	Mr Holland
+429	Mr Anderson
+434	New Zealand
+435	Australian Mutual Provident
+436	In June
+437	Australian Mutual
+439	London Life
+441	Buying Pearl
+447	If Pearl
+448	Sir Ron Brierley
+448	New Zealand
+451	MARY FAGAN
+452	Richard Branson
+452	Virgin Group
+453	Mary Fagan
+456	Virgin Records
+457	Management Company Entertainment
+457	Virgin Vision
+457	Virgin Group
+457	In August
+458	Virgin Records
+464	Chrysalis Records
+465	Island Records
+466	Both Virgin
+468	Leading Article
+469	MARY FAGAN
+471	General Workers Union
+472	But Ron Todd
+473	Mr Kinnock
+474	Downing Street
+474	Prime Minister
+475	Labour Party
+482	Mr Kinnock
+483	Mr Kinnock
+484	Ken Livingstone
+484	Dennis Skinner
+484	Eric Heffer
+484	Tony Benn
+485	Arthur Scargill
+486	Potential Labour
+486	Neil Kinnock
+491	Mr Kinnock
+492	Mrs Thatcher
+495	Mr Kinnock
+496	Mr Kinnock
+499	MILES KINGTON
+500	DO YOU
+505	Milton Keynes University
+505	Professor James Leotard
+505	Body Culture
+541	Tate Gallery
+545	Special Offer
+545	This Week
+547	From Dr Armand Pastor
+547	Armand Pastor GP
+552	AN ANNOUNCEMENT
+557	INDEPENDENT TROLLEY TRAINER
+560	Leading Article
+561	MILES KINGTON
+563	Prime Minister
+564	Conservative Party
+564	Prime Minister
+567	Prime Minister
+568	If Dr Runcie
+569	Mrs Thatcher
+570	Dr Runcie
+574	Andreas Papandreou
+575	Dr Runcie
+580	Prime Minister
+581	Dr Runcie
+585	JONATHAN INGLESFIELD
+585	From Mr
+586	Peter Wilby
+593	From Professor The
+593	EARL RUSSELL
+594	The Vice Chancellors
+595	Vice Chancellors
+597	Vice Chancellors
+602	The Vice Chancellors
+606	Private Sector Borrowing Requirement
+609	Labour Party Conference
+610	MR DAVID SOSKIN
+613	Labour Party Conference
+614	MS MOLLY MEACHER
+615	Labour Party
+617	West Germany
+619	Further Education
+620	Education Act
+625	Labour Party Conference
+626	MR JOHN PERTWEE
+628	Royal Commission
+629	Mr Kinnock
+630	Mrs Thatcher
+631	Labour Party Conference
+632	MR DENIS
+633	Labour Party
+633	If Labour
+639	High Court
+640	Labour Party
+642	NERISSA JONES
+642	From The Rev
+643	The Independent
+643	On Saturday
+645	The Independent
+645	Crypt Centre
+645	St Botolph
+650	From The Rev
+651	Sarah Helm
+652	European Community
+658	Terrorism Act
+663	JIMMY DONOGHUE
+663	From Mr
+664	The North
+665	Jesuit Farm Street Church
+665	George Basil Hume
+665	Newcastle United
+665	Cardinal Hume
+667	ALAN HASELHURST MP
+667	From Mr
+668	European Community
+668	William Cash
+669	Second World War
+671	The United Kingdom
+675	Mr Cash
+682	Mr Cash
+684	The Americans
+685	Mr Cash
+688	Eastern Europe
+689	Soviet Union
+691	Mr Cash
+693	ROGER COOMBS
+693	From Mr
+694	Marcel Berlins
+698	BEVERLEY HALSTEAD
+698	From Dr
+700	French Revolution
+701	Sir Isaac Newton
+702	Charles Darwin
+704	From Professor
+709	Anthony Storr
+709	BOOK REVIEW
+709	Black Dog
+710	MICHAEL CHURCH
+711	Winston Churchill
+711	ISAAC NEWTON
+711	Franz Kafka
+713	Anthony Storr
+714	Black Dog
+718	As Storr
+721	First World War
+728	Franz Kafka
+730	Anthony Storr
+733	Like Einstein
+736	Black Dog
+738	What Kinnock
+738	Giles Radice
+739	GILES RADICE
+740	Labour Party
+740	NEIL KINNOCK
+742	Harold Wilson
+750	Mr Kinnock
+753	Mr Kinnock
+755	Here Mr Kinnock
+757	Gordon Brown
+757	John Smith
+761	Mr Kinnock
+766	Labour Party
+767	Mr Kinnock
+772	European Community
+774	Mrs Thatcher
+777	Mr Kinnock
+779	WILLIAM REES
+780	THE HISTORIC
+781	Margaret Thatcher
+781	Professor Hayek
+782	Prime Minister
+782	St Paul
+799	Catholic Church
+801	The Renaissance
+806	The Netherlands
+806	Van Gogh
+808	Thomas More
+811	Arts Council
+824	Francis Bacon
+826	The European
+830	Johann Wolfgang Von Goethe Germany
+830	Wolfgang Amadeus Mozart Austria
+830	Desiderius Erasmus Netherlands
+830	Rembrandt Van Rijn Netherlands
+830	Michelangelo Buonarroti Italy
+830	Thomas Robert Malthus Britain
+830	Johann Sebastian Bach Germany
+830	Jacques Rousseau Switzerland
+830	Ludwig Van Beethoven Germany
+830	William Shakespeare Britain
+830	Christopher Columbus Italy
+830	Niccolo Machiavelli Italy
+830	Johann Gutenberg Germany
+830	Geoffrey Chaucer Britain
+830	Albert Einstein Germany
+830	Charles Dickens Britain
+830	Samuel Johnson Britain
+830	Richard Wagner Germany
+830	Igor Stravinsky Russia
+830	Charles Darwin Britain
+830	Francis Bacon Britain
+830	Sigmund Freud Austria
+830	Ignatius Loyola Spain
+830	Dante Alighieri Italy
+830	Galileo Galilei Italy
+830	Rene Descartes France
+830	Martin Luther Germany
+830	Adolf Hitler Austria
+830	Thomas Aquinas Italy
+830	Count Tolstoy Russia
+830	Isaac Newton Britain
+830	Paul Cezanne France
+830	Jane Austen Britain
+830	James Joyce Ireland
+830	Pablo Picasso Spain
+830	Georg Hegel Germany
+830	Adam Smith Britain
+830	Lord Byron Britain
+830	Victor Hugo France
+830	John Locke Britain
+830	Karl Marx Germany
+830	Montaigne France
+830	Gogh Netherlands
+830	Voltaire France
+830	Moliere France
+830	George Gordon
+830	Assisi Italy
+830	Lenin Russia
+830	Avila Spain
+830	Vinci Italy
+830	Arc France
+831	Tiananmen Square
+831	Andrew Higgins
+832	ANDREW HIGGINS
+834	Liberation Army
+840	Tiananmen Square
+840	Chen Xitong
+841	Deng Xiaoping
+843	Communist Party
+845	Soviet Union
+847	Forbidden City
+847	Eternal Peace
+849	Liberation Army
+854	Across China
+856	Communist Party
+859	Mao Tse
+862	The Monument
+868	Tiananmen Square
+869	Deng Xiaoping
+871	Chen Yun
+873	Great Hall
+874	Prime Minister
+874	When Li Peng
+874	Chou En
+875	Mr Li
+880	Zhang Fuxin
+881	Mr Zhang
+884	Communist Party
+884	Jiang Zemin
+884	Long March
+884	Red Army
+886	Chou En
+887	Liberation Army
+889	Gu Yue
+890	Forbidden City
+892	In Peking
+893	Tiananmen Square
+902	Eternal Peace
+902	Li Peng
+908	Great Wall
+909	Addis Ababa
+910	RICHARD DOWDEN
+910	Addis Ababa
+911	THE ETHIOPIAN
+913	Liberation Front
+913	Tigrayan People
+913	Addis Ababa
+916	Dire Dawa
+917	Third Army
+919	Addis Ababa
+922	Soviet Deputy Defence Minister
+922	General Varrenikov
+922	Addis Ababa
+924	President Mengistu
+924	The Russians
+926	President Mengistu
+927	Saharan Africa
+927	The Ethiopian
+930	Airborne Division
+931	Liberation Front
+931	Eritrean People
+933	Adi Kwala
+935	Addis Ababa
+938	President Mengistu
+938	Addis Ababa
+939	President Mengistu
+941	Revolutionary Democratic Movement
+941	Ethiopian People
+941	Leninist League
+941	Enver Hoxha
+948	JOHN CARLIN
+951	South Africa
+951	Great Place
+952	South Africa
+953	South African
+954	Nelson Mandela
+955	Mr Mandela
+957	South Africa
+958	African National Congress
+960	South African Communist Party
+961	Mr Mandela
+962	Mass Democratic Movement
+963	King Sabata Dalindyebo
+968	The Matanzimas
+969	General Bantu Holomisa
+974	General Holomisa
+975	Mr Mandela
+976	Mrs Mandela
+976	Cape Town
+977	Mr Mandela
+978	General Holomisa
+981	South Africa
+982	United Nations
+983	JOHN CARLIN
+984	South West Africa People
+985	United Nations
+987	Democratic Turnhalle Alliance
+989	TONY ALLEN
+992	Uttar Pradesh
+999	Soviet Union
+1001	Uttar Pradesh
+1005	The Siberian
+1009	Dr Lalitha Vijayam
+1010	The Maharajahs
+1011	Lord Linlithgow
+1013	Salim Ali
+1014	Keoladeo Ghana National Park
+1016	Everywhere Birds
+1022	Bombay Natural History Society
+1022	Dr Vijayan
+1030	Dr Vijayan
+1033	New Delhi
+1039	AHMED RASHID
+1040	THE SOVIET UNION
+1042	Salang Highway
+1044	Salang Tunnel
+1045	Salang Tunnel
+1047	General Mohammed Hakim
+1047	Soviet Union
+1048	General Hakim
+1051	General Hakim
+1052	General Hakim
+1055	President Najibullah
+1057	The Soviet
+1060	The Soviet Union
+1060	Suleman Laeq
+1062	Saudi Arabia
+1064	Soviet Union
+1065	Senate Foreign Relations Committee
+1065	Claiborne Pell
+1066	Mr Pell
+1068	ANDREW HIGGINS
+1069	Liberation Army
+1070	Tiananmen Square
+1070	Heavenly Peace
+1070	Deng Xiaoping
+1070	Mao Tse
+1076	Peking University
+1077	Communist Party
+1078	Mr Deng
+1079	North Korea
+1080	East Germany
+1080	Soviet Union
+1081	Prime Minister
+1081	Most Western
+1081	Li Peng
+1082	Many Western
+1084	The Peking Daily
+1085	The Chinese
+1086	HONG KONG
+1087	Hong Kong
+1087	Szeto Wah
+1088	Patriotic Democratic Movement
+1088	Hong Kong Alliance
+1090	ANDREW HIGGINS
+1092	National Liberation Front
+1092	Khmer People
+1092	Ieng Mouli
+1094	Dien Del
+1098	Heng Samrin
+1099	Khmer Rouge
+1100	Abdul Gaffar Peang
+1100	Ak Sutsakorn
+1100	Khmer Rouge
+1101	Moe Kyaw Thu
+1101	Zwa Gyi
+1101	Nyi Nyi
+1102	CAROLINE MOOREHEAD
+1107	National League
+1108	Insein Prison
+1113	The Karen National Union
+1115	Amnesty International
+1115	Moe Kyaw Thu
+1115	Zaw Gyi
+1115	Nyi Nyi
+1117	KEVIN HAMLIN
+1118	Ferdinand Marcos
+1118	Corazon Aquino
+1119	Salvador Laurel
+1119	Supreme Court
+1119	Mrs Aquino
+1120	Supreme Court
+1120	Mrs Aquino
+1122	Mrs Aquino
+1123	Mrs Aquino
+1124	The Aquino
+1126	Calling Mrs Aquino
+1126	Mr Laurel
+1127	Supreme Court
+1127	Mrs Aquino
+1128	Mr Laurel
+1130	Saturday Mrs Aquino
+1135	CHARLES RICHARDS
+1136	THE ISRAELI
+1137	President Mubarak
+1141	Mr Mubarak
+1142	The Israeli Prime Minister
+1142	Yitzak Shamir
+1144	The Defence Minister
+1144	President Mubarak
+1144	Yitzhak Rabin
+1144	James Baker
+1144	Mr Mubarak
+1144	Mr Arens
+1144	Mr Peres
+1147	Mr Rabin
+1148	Palestine Liberation Organisation
+1150	But Mr Shamir
+1151	West Bank
+1154	Saudi Arabia
+1154	ROBERT FISK
+1155	Lebanese Parliament
+1155	IT IS
+1163	Intercontinental Hotel
+1163	Saudi Foreign Minister
+1163	Prince Saud
+1163	Arab League
+1164	General Michel Aoun
+1166	Saeb Salam
+1167	Sunni Muslim
+1167	Mr Salam
+1174	Saudi Arabia
+1174	ROBERT FISK
+1175	Yvonne Brigden
+1175	First Edition
+1177	Saudi Arabia
+1177	ROBERT FISK
+1178	Communist Party
+1178	Boris Yeltsin
+1181	AHMED RASHID
+1182	Ahmed Rashid
+1186	AHMED RASHID
+1187	President Robert Mugabe
+1187	Joshua Nkomo
+1190	AHMED RASHID
+1191	Mount Dena
+1194	AHMED RASHID
+1195	Prime Minister
+1195	Toshiki Kaifu
+1196	Liberal Democratic Party
+1196	Mr Kaifu
+1198	AHMED RASHID
+1199	The Queen
+1200	Nicholas Barrington
+1200	High Commissioner
+1201	British High Commissioner
+1201	British Ambassador
+1203	AHMED RASHID
+1204	Charles De Gaulle
+1204	Fateh Revolution
+1206	AHMED RASHID
+1208	Chemical Mace
+1210	JOHN BULLOCH
+1211	African National Congress
+1211	South Africans
+1211	John Bulloch
+1212	Oliver Tambo
+1212	Thabo Mbeki
+1213	Constitutional Planning Minister
+1213	Gerrit Viljoen
+1213	South Africa
+1216	JOHN BULLOCH
+1217	Chancellor Helmut Kohl
+1217	Christian Democrats
+1217	West Germany
+1217	North Rhine
+1219	The Social Democrats
+1220	The World This Week
+1221	FIONA LENEY
+1222	East Germany
+1222	THERE WILL
+1225	Romanian President
+1225	Nicolae Ceausescu
+1225	Milos Jakes
+1226	Prime Minister
+1226	The Chinese
+1226	Yao Yilin
+1227	Mikhail Gorbachev
+1227	East Berlin
+1228	Wojciech Jaruzelski
+1228	East Germany
+1229	Nobel Peace Prize
+1231	Nobel Foundation
+1232	Communist Party
+1233	Imre Pozsgay
+1234	General Secretary
+1234	Karoly Grosz
+1236	Janos Kadar
+1236	Mr Grosz
+1238	Far East
+1238	The Pope
+1239	International Eucharistic Congress
+1241	President Roh Tae Woo
+1241	The Pope
+1242	East Timor
+1243	The Soviet Defence Minister
+1243	Defence Secretary
+1243	Dmitri Yazov
+1243	Dick Cheney
+1245	Airborne Division
+1245	North Carolina
+1245	Civil War
+1247	European Commission
+1248	The British
+1249	The French
+1252	Botswana Democratic Party
+1252	President Quett Masire
+1253	The Moulin Rouge
+1255	EDWARD LUCAS
+1256	West German
+1256	East German
+1258	Dietrich Genscher
+1258	United Nations
+1258	West Germany
+1260	Oskar Fischer
+1260	Mr Genscher
+1260	East German
+1261	East Germans
+1261	West Germany
+1262	East Germany
+1263	East Germany
+1268	Auld Lang Syne
+1269	East Germans
+1269	West Germany
+1272	East Germans
+1272	At Liben
+1274	Long Live Genscher
+1274	Long Live Germany
+1274	West German
+1278	East Germany
+1279	East German
+1285	EDWARD LUCAS
+1287	Kalvariskii Church
+1289	Yan Adamovich
+1292	On Saturday
+1296	ANNE APPLEBAUM
+1297	West Germany
+1297	East German
+1299	East Germans
+1299	West Germany
+1299	East Station
+1301	East German
+1302	East Berliner
+1302	West Berlin
+1305	West German
+1307	The East German
+1307	West German
+1308	West German
+1308	East German
+1309	East German
+1310	West Germans
+1311	East Germany
+1312	West German Foreign Minister
+1312	Soviet Foreign Minister
+1312	Hans Dietrich Genscher
+1312	Krzystof Skubiszewski
+1312	Eduard Shevardnadze
+1312	United Nations
+1312	New York
+1314	MARCUS TANNER
+1315	THE PEOPLE
+1320	Montenegrin President
+1320	Cetinje Square
+1320	Branko Kostic
+1322	Montenegrin Central Committee
+1322	Srdan Darmanovic
+1325	Socialist Republic
+1325	Conservative Party
+1325	John Kennedy
+1328	Marko Radoman
+1329	First World War
+1329	King Alexander
+1329	Rebecca West
+1331	Ottoman Empire
+1332	Russian Tsarina Alexandra
+1336	But Nicholas
+1338	MICHAEL SHERIDAN
+1339	Italian Catholic
+1339	EVEN THOSE
+1341	Christian Democrat
+1342	Giulio Andreotti
+1342	Prime Minister
+1343	Christian Democracy
+1343	Ciriaco De Mita
+1344	Mr Andreotti
+1345	Cardinal Ugo Poletti
+1345	Christian Democrats
+1345	The Pope
+1346	Il Sabato
+1348	Christian Democrats
+1349	The Pope
+1350	Third World
+1351	Christian Democrats
+1351	Osservatore Romano
+1352	Pietro Giubilo
+1353	Mr Andreotti
+1353	The Shark
+1354	Yet Mr Andreotti
+1355	The Shark
+1356	Mr Sbardella
+1356	Mr De Mita
+1356	Il Sabato
+1357	Mr Sbardella
+1357	Il Sabato
+1358	The Bishops
+1359	Mr Andreotti
+1360	Prime Minister
+1363	JOHN LICHFIELD
+1364	President Reagan
+1364	President Bush
+1365	The Democratic
+1365	Mr Bush
+1366	Senator George Mitchell
+1367	Capitol Hill
+1367	White House
+1368	Mr Bush
+1371	The Republicans
+1372	The Democratic
+1374	White House
+1375	White House
+1377	White House
+1379	JOHN LICHFIELD
+1381	Evaristo Porras Ardila
+1381	El Tiempo
+1382	Mr Porras
+1383	Mr Porras
+1385	In Medellin
+1387	JOHN LICHFIELD
+1388	John Lichfield
+1388	Third World
+1397	Court Circular
+1398	JOHN LICHFIELD
+1399	The Princess Royal
+1399	BUCKINGHAM PALACE
+1399	Deputy Lieutenant
+1400	Southampton Vessel Traffic Services Centre
+1400	Litre World Powerboat Championships
+1400	Royal Yachting Association
+1400	Her Royal Highness
+1401	The Princess Royal
+1401	The Queen
+1402	Major Nicholas Barne
+1403	Dornoch Cathedral Parish
+1403	The Prince
+1404	Lawson Memorial Hospital
+1404	His Royal Highness
+1405	Commander Richard Aylard
+1406	Design Class Division Invitation Race
+1406	Royal Lymington Yacht Club
+1406	The Princess Royal
+1406	Mr John Guillaume
+1407	Her Royal Highness
+1407	The Queen
+1408	ROYAL ENGAGEMENTS
+1408	Crouch End Hill
+1408	The Princess
+1409	National Agricultural Centre Rural Trust
+1409	Occupational Therapists
+1409	National Tape Magazine
+1409	England Primary School
+1409	Hassy Carrot Growers
+1409	The Princess Royal
+1409	New Bolingbroke
+1409	Whitehall Farm
+1409	Lilac Cottage
+1409	New Packhouse
+1409	Sons Factory
+1409	George Adams
+1409	Bain Church
+1409	St James
+1410	British Overseas Board
+1410	Vice Chairman
+1410	The Duke
+1411	South Bank Television Centre
+1411	Cancer Relief Macmillan Fund
+1411	Europe Against Cancer Year
+1411	London Weekend Television
+1411	The Duchess
+1413	JOHN LICHFIELD
+1414	Gen Sir Christopher Airy
+1414	Private Secretary
+1414	Sir John Riddell
+1414	The Prince
+1415	GO Whittaker
+1415	BGJ Canty
+1416	Admiral Sir Derek Reffell
+1416	Marshal Sir Peter Terry
+1416	Air Chief
+1417	British Importers Confederation
+1417	Mr Christopher Starns
+1418	Mr Angus Stewart Macdonald
+1418	Crown Estate Commissioner
+1418	Sir Iain Mark Tennant
+1419	Mr John Nigel Courtenay James
+1419	Mr Oscar Henry Colburn
+1421	JOHN LICHFIELD
+1422	British Council
+1422	Brigham Young
+1422	Royal Charter
+1422	Fayal Island
+1422	Royal Naval
+1422	Queen Mary
+1424	Gazette Page
+1425	Louis Tixier
+1426	PATRICK MARNHAM
+1427	General Raoul Salan
+1427	Armee Secrete
+1427	THE HIGHPOINT
+1427	Louis Tixier
+1428	Maitre Tixier
+1429	Paris Bar
+1430	Action Francaise
+1431	Marshal Petain
+1431	Third Republic
+1431	In July
+1432	Deputy Secretary
+1437	Algerie Francaise
+1439	Delta Commando
+1439	Marie Bastien
+1439	Lt Degueldre
+1439	Col Jean
+1442	Rassemblement National
+1443	Prime Minister Michel Debre
+1444	Prime Minister
+1445	Since Tixier
+1446	Michel Debre
+1448	Prime Minister
+1454	General Salan
+1457	Jean Lecanuet
+1458	Mr Mitterrand
+1461	Evening Standard
+1461	Sam White
+1462	Maitre Jacques Verges
+1462	Jean Marie Le Pen
+1462	Front National
+1462	Klaus Barbie
+1463	Les Halles
+1465	Virgil Thomson
+1466	PETER DICKINSON
+1467	VIRGIL THOMSON
+1468	Kansas City
+1469	Gertrude Stein
+1469	His Missouri
+1469	Erik Satie
+1471	Nadia Boulanger
+1473	Philip Glass
+1473	Four Saints
+1473	Three Acts
+1473	The Mother
+1473	Us All
+1474	In Four Saints Thomson
+1475	Morning Prayer
+1477	Frederick Ashton
+1478	The Mother
+1478	Us All
+1479	Aaron Copland
+1479	The River
+1479	The Plow
+1480	Louisiana Story
+1480	Pulitzer Prize
+1481	Aaron Copland
+1488	The State
+1489	New York Herald Tribune
+1490	American Music
+1490	Virgil Thomson
+1498	John Cage
+1502	William Blake
+1502	Edward Lear
+1502	Five Songs
+1504	Chelsea Hotel
+1504	New York
+1510	Thomas Keller
+1511	HUGH MATHESON
+1512	THOMI KELLER
+1513	Federation Internationale
+1515	Gaston Mullegg
+1519	Student Winter Games
+1520	Eduard Keller Ltd
+1525	International Sports Federations
+1525	International Olympic Committee
+1525	General Assembly
+1529	Henley Royal Regatta
+1533	Eduard Keller Ltd
+1540	World Championship Regatta
+1541	The Bar Conference
+1542	PATRICIA WYNN DAVIES
+1542	Legal Correspondent
+1543	Lord Donaldson
+1544	Lord Chancellor
+1544	Lord Donaldson
+1544	Green Papers
+1544	Lord Mackay
+1545	Lord Donaldson
+1551	Lord Donaldson
+1552	Lord Donaldson
+1553	Law Society
+1554	Lord Chancellor
+1554	Lord Donaldson
+1554	Supreme Court
+1558	Green Papers
+1559	Lord Donaldson
+1560	Crown Court
+1561	Lord Donaldson
+1562	Desmond Fennell
+1562	Lord Donaldson
+1563	Roger Henderson
+1563	Lord Donaldson
+1563	Green Paper
+1563	White Paper
+1564	Law Society
+1564	John Hayes
+1566	The Master
+1567	Lord Donaldson
+1567	White Paper
+1568	The Bar Conference
+1569	PATRICIA WYNN DAVIES
+1569	Legal Correspondent
+1570	TRIAL SCHEME
+1572	George Pulman
+1572	Bar Council
+1574	Mr Pulman
+1576	But Mr Pulman
+1578	Legal Aid Board
+1578	John Pitts
+1580	Law Society
+1580	John Hayes
+1583	Mr Hayes
+1584	The Bar Conference
+1585	PATRICIA WYNN DAVIES
+1585	Legal Correspondent
+1586	Lord Donaldson
+1588	Lord Donaldson
+1592	Citizens Advice Bureaux
+1594	Lord Donaldson
+1599	Lord Donaldson
+1600	Lord Chancellor
+1600	Lord Mackay
+1601	Lord Donaldson
+1601	Lord Mackay
+1601	White Paper
+1602	White Paper
+1604	The Bar Conference
+1605	PATRICIA WYNN DAVIES
+1605	Legal Correspondent
+1606	Commercial Court
+1606	High Court
+1607	Richard Williams
+1613	Commercial Court
+1614	Mr Williams
+1615	The Bar Conference
+1616	PATRICIA WYNN DAVIES
+1616	Legal Correspondent
+1617	Dr Danya Glaser
+1624	The Bar Conference
+1625	PATRICIA WYNN DAVIES
+1625	Legal Correspondent
+1626	Criminal Bar Association
+1626	David Cocks
+1628	Mr Cocks
+1630	Mr Cocks
+1631	Young Persons Act
+1634	Mr Cocks
+1638	First Birdwatching Fair
+1638	Rutland Water
+1639	PATRICIA WYNN DAVIES
+1639	Legal Correspondent
+1640	Birdwatching Fair
+1640	Rutland Water
+1642	Contemporary Art Market
+1643	EDWARD LUCIE
+1644	British Romanticism
+1644	MUCH OF
+1645	Bernard Jacobson
+1645	William Tillyer
+1647	Ivon Hitchens
+1648	Helen Frankenthaler
+1651	Redfern Gallery
+1651	Kark Weschke
+1653	British Romantic
+1653	Gordale Scar
+1653	Tate Gallery
+1653	James Ward
+1654	German Expressionism
+1654	First World War
+1657	Len Tabner
+1661	David Brown
+1665	The Scottish Gallery
+1665	Roderick Carmichael
+1667	Pop Art
+1671	JAMES DALRYMPLE
+1672	Second World War
+1673	Royal Warwickshire Regiment
+1675	Royal Warwickshire
+1675	Jeff Rooker
+1677	Charity Commission
+1678	Perry Barr
+1678	Mr Rooker
+1680	Mr Rooker
+1684	Mr Rooker
+1687	Brigadier Jimmy Chater
+1687	Royal Warwickshire
+1694	Families Association
+1695	Sir Angus Fraser
+1695	Whitehall Watch
+1695	Peter Hennessy
+1695	Civil Service
+1696	PETER HENNESSY
+1697	Sir Angus Fraser
+1697	Prime Minister
+1697	Sir Robin Ibbs
+1699	Civil Service
+1699	Next Steps
+1699	Sir Robin
+1701	Civil Service
+1701	Sir Angus
+1703	Sir Angus
+1704	Civil Service
+1704	Next Steps
+1705	The Next Steps
+1705	Cabinet Office
+1705	Peter Kemp
+1706	Prime Minister
+1706	Lord Rayner
+1706	Sir Angus
+1708	Social Security
+1708	Home Office
+1713	Margaret Thatcher
+1716	Sir Angus
+1718	Prime Minister
+1718	Civil Service
+1718	Sir Angus
+1719	Civil Service
+1720	The Treasury
+1724	Prime Minister
+1734	Sir Angus
+1735	Next Steps
+1738	Civil Service
+1742	BARRIE CLEMENT
+1742	Labour Editor
+1743	PAY RISES
+1744	Reward Group
+1749	In September
+1750	West Midlands
+1751	West Midlands
+1760	CHRISTIAN WOLMAR
+1761	High Court
+1763	Audit Commission
+1763	Deloitte Haskins
+1763	Fulham Council
+1763	Anthony Hazell
+1770	February Nicholas Ridley
+1774	Mr Ridley
+1784	Education Reporter
+1784	SIMON MIDGLEY
+1787	National Association
+1787	Women Teachers
+1790	Fred Smithies
+1792	Mr Smithies
+1794	University Teachers
+1796	Independent Schools Information Service
+1799	Green Party
+1801	Education Reporter
+1801	SIMON MIDGLEY
+1803	National Union
+1803	Tower Hamlets
+1808	Tower Hamlets
+1809	Inner London
+1810	Inner London Teachers
+1810	Mike Loosley
+1812	Tower Hamlets
+1813	Embryo Bill
+1814	Home Affairs Correspondent
+1814	SARAH HELM
+1817	Phyllis Bowman
+1817	Unborn Child
+1819	The Government
+1822	British Pregnancy Advisory Service
+1823	Diane Munday
+1826	Ann Winterton
+1826	Life Group
+1828	Education Research Trust
+1828	Godfrey Bradman
+1829	Mrs Winterton
+1833	Mrs Winterton
+1833	Alton Bill
+1834	Baroness Warnock
+1834	The Government
+1836	The Bill
+1838	Phyllis Bowman
+1841	Health Services Correspondent
+1841	NICHOLAS TIMMINS
+1843	St Bartholomew
+1843	In London
+1844	Tower Hamlets
+1845	In King
+1846	In Kettering
+1848	East Thames
+1848	West Thames
+1850	Clive Minty
+1860	Health Services Correspondent
+1860	NICHOLAS TIMMINS
+1861	First Edition
+1863	Health Services Correspondent
+1863	NICHOLAS TIMMINS
+1866	Health Services Correspondent
+1866	NICHOLAS TIMMINS
+1867	White Cliffs Experience
+1867	The White Cliffs
+1867	Walter Kent
+1869	Health Services Correspondent
+1869	NICHOLAS TIMMINS
+1872	Health Services Correspondent
+1872	NICHOLAS TIMMINS
+1873	Frenchay Hospital
+1873	Severn Bridge
+1874	Army Apprentice College
+1874	Dean White
+1876	Health Services Correspondent
+1876	NICHOLAS TIMMINS
+1878	Chester Crown Court
+1878	Richard Dennick
+1878	East Sussex
+1881	Health Services Correspondent
+1881	NICHOLAS TIMMINS
+1883	Young People
+1885	Health Services Correspondent
+1885	NICHOLAS TIMMINS
+1890	Health Services Correspondent
+1890	NICHOLAS TIMMINS
+1891	Irish Republic
+1891	Damien Hulme
+1891	Co Louth
+1894	Health Services Correspondent
+1894	NICHOLAS TIMMINS
+1895	Broadwater Farm
+1896	Scotland Yard
+1899	London Weekend Television
+1901	Chess Correspondent
+1901	WILLIAM HARTSTON
+1903	Jan Timman
+1904	Pilkington Glass World Championship
+1904	Anatoly Karpov
+1904	Artur Yusupov
+1909	Garry Kasparov
+1912	Artur Yusupov
+1919	While Speelman
+1923	Pilkington Glass
+1924	Garry Kasparov
+1926	Viktor Korchnoi
+1929	JAMES DALRYMPLE
+1931	Dr Robert Runcie
+1932	Conservative Party
+1932	Downing Street
+1932	Lambeth Palace
+1932	Dr Runcie
+1947	Downing Street
+1947	Dr Runcie
+1948	Ivor Stanbrook
+1949	The Archbishop
+1951	Frank Field
+1951	Dr Runcie
+1952	Northern Ireland
+1952	Peter Bottomley
+1953	Dr Runcie
+1958	JAMES DALRYMPLE
+1962	Sidlow Bridge
+1964	Supt John Hoyle
+1969	In Harlow
+1976	Elmstone Hardwicke
+1977	Birmingham City
+1977	Third Division
+1980	NICHOLAS SCHOON
+1981	Salman Rushdie
+1982	The Satanic Verses
+1982	Margaret Thatcher
+1982	Ahmed Deedat
+1982	Albert Hall
+1982	Mr Rushdie
+1983	But Sheikh Deedat
+1983	South Africa
+1983	Mr Rushdie
+1984	The Satanic Verses
+1989	Mr Rushdie
+1990	The Satanic Verses
+1990	Mrs Thatcher
+1993	Sheikh Deedat
+1994	Central Park
+1994	New York
+2000	Medical Correspondent
+2000	LIZ HUNT
+2001	Therapeutics Bulletin
+2003	The Bulletin
+2012	Political Correspondent
+2012	COLIN BROWN
+2013	HEALTH MINISTERS
+2014	Conservative Party
+2014	Kenneth Clarke
+2015	Mr Clarke
+2021	Mr Clarke
+2022	Mr Clarke
+2023	Sir Geoffrey Howe
+2023	Foreign Secretary
+2023	John Major
+2024	Mr Clarke
+2025	The Government
+2028	Mr Clarke
+2032	Mr Clarke
+2034	The Labour Party Conference
+2035	Political Correspondent
+2035	COLIN HUGHES
+2036	AN INCOMING
+2037	Environmental Protection
+2037	Legal Administration
+2037	Consumer Affairs
+2041	Civil Service
+2044	Competitive Economy
+2046	Civil Service
+2048	Economic Affairs
+2048	Harold Wilson
+2048	George Brown
+2051	Consumer Affairs
+2056	Home Office
+2057	Legal Administration
+2057	Sentencing Council
+2058	Home Office
+2059	Equal Opportunities Commission
+2059	Sex Discrimination Act
+2059	Equal Pay Act
+2061	Environmental Protection
+2066	Food Standards Agency
+2070	Quality Commission
+2070	Audit Commission
+2072	Environmental Protection Executive
+2072	Independent Sentencing Council
+2072	Health Technology Commission
+2072	Education Standards Council
+2072	Health Quality Commission
+2072	Fair Wages Commission
+2072	Social Insurance Fund
+2073	The Labour Party Conference
+2074	COLIN HUGHES
+2074	COLIN BROWN
+2075	Shadow Cabinet
+2075	AN IMPASSIONED
+2076	Robin Cook
+2077	Labour Co
+2079	Labour Party
+2079	Mr Cook
+2080	Mr Cook
+2083	Mr Cook
+2084	Mr Cook
+2087	Ken Livingstone
+2087	Clare Short
+2087	John Evans
+2087	Mr Cook
+2088	Mr Livingstone
+2089	Roy Hattersley
+2089	Neil Kinnock
+2090	Mr Hattersley
+2091	Thatcher Government
+2091	Mr Kinnock
+2093	Mr Kinnock
+2094	Mr Kinnock
+2095	Mr Kinnock
+2097	National Union
+2099	The Labour Party Conference
+2100	COLIN HUGHES
+2100	COLIN BROWN
+2101	ARTHUR SCARGILL
+2102	National Union
+2102	Barnsley West
+2102	Mr Scargill
+2104	Mr Scargill
+2105	Barnsley West
+2106	McKay
+2107	General Workers
+2107	Mr Scargill
+2107	Mr Kinnock
+2108	Mr Scargill
+2110	The Labour Party Conference
+2111	COLIN HUGHES
+2112	JOHN PRESCOTT
+2113	Colin Hughes
+2114	Shadow Cabinet
+2114	Neil Kinnock
+2114	Mr Prescott
+2116	Clapham Junction
+2116	Mr Prescott
+2117	National Union
+2119	Nicholas Soames
+2120	Mr Prescott
+2121	Labour Party
+2121	Bryan Gould
+2121	John Smith
+2122	Mr Prescott
+2125	When Mr Prescott
+2125	Roy Hattersley
+2125	Neil Kinnock
+2127	Mr Prescott
+2127	Mr Kinnock
+2128	Shadow Cabinet
+2128	Mr Prescott
+2129	The Sunday Correspondent
+2129	Mr Prescott
+2131	The Labour Party Conference
+2132	STEPHEN GOODWIN
+2133	AN ATTEMPT
+2135	But Larry Whitty
+2139	Retail Services
+2139	Les Huckfield
+2142	National Executive Committee
+2143	Ken Slater
+2145	Florrie North
+2146	Brighton Kemptown
+2146	Martin Smith
+2147	Mr Whitty
+2149	The Labour Party Conference
+2150	BARRIE CLEMENT
+2150	Labour Editor
+2151	NEIL KINNOCK
+2153	General Workers
+2153	The Transport
+2154	Amalgamated Engineering Union
+2157	Mr Kinnock
+2159	Bill Morris
+2160	Roy Hattersley
+2160	Mr Kinnock
+2162	Neil Kinnock
+2162	John Edmonds
+2166	The Labour Party Conference
+2167	JOHN PIENAAR
+2169	Ken Livingstone
+2169	Dennis Skinner
+2169	Tony Benn
+2170	As Labour
+2171	Labour Party Democracy
+2171	Mr Benn
+2172	Labour Party
+2173	Shadow Cabinet
+2176	Mr Skinner
+2177	Neil Kinnock
+2177	Bryan Gould
+2179	Shadow Cabinet
+2180	Mr Livingstone
+2181	The Labour Party Conference
+2182	JUDY JONES
+2183	DENNIS SKINNER
+2183	Labour Party
+2185	Mrs Thatcher
+2185	Labour Party
+2187	Mr Skinner
+2189	Neil Kinnock
+2189	Mr Skinner
+2191	Foreign Secretary
+2191	John Major
+2192	John Wakeham
+2193	Chris Patten
+2194	The Prime Minister
+2195	Jim White
+2195	PUB ROCK
+2196	JIM WHITE
+2198	Belgian New Beat
+2198	Jive Bunny
+2199	Sweaty Backroom House
+2199	Hip Malt
+2199	Pub Acid
+2201	Country Club
+2201	Kentish Town
+2202	Baedeker Guide
+2202	Last Thursday
+2202	Time Out
+2204	Do Not Bend
+2209	Chris Waddle
+2213	Blue Guitar
+2213	Girl With
+2222	Jim White
+2222	PUB ROCK
+2223	JIM WHITE
+2224	Sir George Robey
+2224	Finsbury Park
+2224	GENERAL TIPS
+2230	WHO TO WATCH
+2230	Black Box
+2231	New Fast Automatic Daffodils
+2231	The Wandering Crutchless
+2231	The Gordon Jackson Five
+2231	Daisy Chainsaw
+2231	Benny Profane
+2231	Bald Howlin
+2233	Bop Brothers Blues Band The
+2233	PLAYING THIS WEEK TONIGHT
+2233	Blues Brothers
+2233	John Belushi
+2237	Newington Green Rd
+2237	Weavers Arms
+2238	Near Death Experience Hopefully
+2240	Head Fulham
+2241	Well Loaded Much
+2243	Liverpool Rd
+2243	Pied Bull
+2244	The Vapour Corporation Power
+2245	Kennington Oval
+2246	Johnny Mars Blues Band Unrepentant Smiths
+2246	Johnny Marr
+2247	Great Marlborough St
+2248	Primal Scream Not
+2250	Plough Kenton
+2250	Kenton Rd
+2251	The Medics Silly
+2251	Roy Wood
+2253	Mickey Hutton In
+2253	Steve Marriott
+2254	Lazy Sunday Afternoon
+2254	The Small Faces
+2258	Shaftesbury Ave
+2258	The Monday Club
+2258	The Limelight
+2259	Kentish Town Rd
+2259	WHERE TO GO
+2261	Lester Piggott
+2262	Southgate Rd
+2264	Dublin Castle
+2266	Fulham Greyhound
+2266	Fulham Palace Rd
+2268	Lower Richmond Rd
+2268	Half Moon Putney
+2269	Fulham High St
+2271	New Pegasus
+2271	Green Lanes
+2274	Sir George Robey
+2274	Seven Sisters Rd
+2277	Wilko Johnson
+2278	JIM WHITE
+2279	Wilko Johnson
+2280	Chuck Berry
+2280	Dr Feelgood
+2281	Bassist Norman Watt Roy
+2281	Barry Norman
+2281	Ian Dury
+2285	Back In The Night
+2286	Fulham Greyhound
+2286	George Michael
+2287	Liverpool Rd
+2289	Janet Ahlberg
+2289	Celia Dodd
+2290	CELIA DODD
+2296	The Jolly Postman
+2296	Burglar Bill
+2296	The Baby
+2300	The Ahlbergs
+2300	Bye Bye Baby
+2304	The Wind
+2305	Bye Bye Baby
+2306	Allan Ahlberg
+2307	Janet Ahlberg
+2307	Bye Bye Baby
+2309	The Ahlberg
+2317	Allan Ahlberg
+2320	Roald Dahl
+2320	The Beano
+2321	Mothercare Catalogue
+2321	The Baby
+2329	Daily Mirror
+2339	New Men
+2340	Smarties Award
+2341	Allan Ahlberg
+2343	Helen Womack
+2344	HELEN WOMACK
+2345	Communist Party
+2349	Yelena Khudiakova
+2349	Iron Curtain
+2350	Economic Achievements
+2350	Ms Khudiakova
+2351	Moscow Institute
+2355	Varvara Stepanova
+2356	Ms Khudiakova
+2367	Communist Party
+2375	Soviet Central Asia
+2376	Ms Khudiakova
+2376	Dom Modi
+2378	Slava Zaitsev
+2379	Mr Zaitsev
+2380	Christian Wolmar
+2381	CHRISTIAN WOLMAR
+2384	Ashley Dobbs
+2386	In Mr Dobbs
+2389	Mr Dobbs
+2396	Telecottages International
+2396	Henning Albrechsten
+2401	Islands Development Board
+2401	British Telecom
+2402	British Telecom
+2402	Colin Pavey
+2406	Mr Dobbs
+2411	National Federation
+2413	Mr Dobbs
+2414	Henning Albrechsten
+2415	In Scandinavia
+2416	In Britain
+2417	Rural Development Commission
+2418	Mr Dobbs
+2424	As Mr Dobbs
+2435	Henning Albrechsten
+2438	Despite Mr Dobbs
+2439	Chris Barnard
+2440	CHRIS BARNARD
+2448	Chimpanzee Politics
+2452	What Yeroen
+2455	Anne Keddy Hector
+2455	Michael Raleigh
+2455	Robert Seyfarth
+2456	Old World
+2461	Keddy Hector
+2481	Nottingham University
+2481	Dr Chris Barnard
+2482	David Spark
+2483	DAVID SPARK
+2484	World Health Organisation
+2486	Consumer Research Laboratory
+2496	The Harpenden
+2506	Ken Mills
+2514	Cundell Decorprint
+2518	Technology Viewpoint
+2519	TOM WILKIE
+2545	Marsham Street
+2564	West German
+2565	Martyn Kelly
+2566	MARTYN KELLY
+2567	IN THE
+2571	In German
+2574	Reinhart Huttl
+2579	Bernard Ulrich
+2581	Bernard Prinz
+2582	Siegfried Fink
+2585	Central Electricity Generating Board
+2586	The Germans
+2587	Drs Keith Brown
+2587	Mike Roberts
+2589	Mike Roberts
+2598	West Germany
+2602	Natural Environment Research Council
+2602	Terrestrial Ecology
+2602	Mike Roberts
+2615	Mike Roberts
+2617	Cricket First Test
+2620	Mohammed Azharuddin
+2620	Graham Gooch
+2626	Ian Botham
+2628	Sanjay Manjrekar
+2629	Ravi Shastri
+2630	Ray Illingworth
+2633	Navjot Sidhu
+2634	Devon Malcolm
+2634	Angus Fraser
+2639	John Morris
+2639	But Fraser
+2641	When Chris Lewis
+2644	Jack Russell
+2645	Dilip Vengsarkar
+2646	Eddie Hemmings
+2656	Sachin Tendulkar
+2656	Bishen Bedi
+2658	Dickie Bird
+2663	Manoj Prabhakar
+2663	Kapil Dev
+2665	Graham Gooch
+2665	Graeme Hick
+2667	Fighting Senna
+2667	Motor Racing
+2668	MAURICE HAMILTON
+2669	Spanish Grand Prix
+2669	AYRTON SENNA
+2671	Gerhard Berger
+2671	Alain Prost
+2671	The Ferrari
+2674	While Senna
+2674	Grand Prix
+2682	If Senna
+2684	If Berger
+2688	Nigel Mansell
+2689	Grand Prix
+2700	While Prost
+2700	Jean Alesi
+2701	Martin Brundle
+2703	Derek Warwick
+2703	Nelson Piquet
+2706	St Andrews
+2706	TIM GLOVER
+2707	IT COULD
+2708	Even Americans
+2709	Dunhill Cup
+2710	Mark Calcavecchia
+2710	Curtis Strange
+2710	Tom Kite
+2711	The Belfry
+2713	Ryder Cup
+2715	Ryder Cup
+2717	Open Championship
+2717	St Andrews
+2718	Hajime Meshiai
+2719	Naomichi Ozaki
+2719	Koichi Suzuki
+2720	United States
+2733	Ronan Rafferty
+2733	Ryder Cup
+2734	Bob Hope Classic
+2736	West Germany
+2739	Mark James
+2739	Connor Jnr
+2741	United States
+2741	Swilken Burn
+2741	Connor Jnr
+2744	Connor Jnr
+2746	Rugby Union
+2747	STEVE BALE
+2748	Dean Richards
+2748	Lions No
+2749	The Stoop
+2750	Geoff Cooke
+2751	Paul Rendall
+2751	Wade Dooley
+2754	Chris Oti
+2755	London Irish
+2755	Will Carling
+2755	Mike Teague
+2756	First Division
+2757	South Africa
+2757	In Wales
+2758	Clive Rowlands
+2759	South African Rugby Board
+2760	Welsh Rugby Union
+2761	Rugby Board
+2762	International Board
+2762	But Terry Vaux
+2763	David Young
+2763	Home Unions
+2763	New Zealand
+2764	Jeff Probyn
+2765	Donal Lenihan
+2766	Damian Cronin
+2766	Rob Andrew
+2768	STEVE BALE
+2769	Football Association
+2769	Birmingham City
+2770	Adrian Titcombe
+2771	Chief Supt Kenneth
+2771	Crystal Palace
+2774	The Southern League
+2775	Littlewoods Cup
+2775	Kevin Drinkell
+2775	Coventry City
+2776	Manchester United
+2776	Peter Davenport
+2778	Nissan Classic
+2778	ROBIN NICHOLL
+2779	Eric Vanderaerden
+2779	Nissan Classic
+2779	Sean Kelly
+2780	The Belgian
+2782	Frenchman Charly Mottet
+2782	Thomas Wegmuller
+2786	Gary Baker
+2786	Sally Gap
+2789	Rugby League
+2790	PAUL WILSON
+2791	Knowsley Road
+2791	Alex Murphy
+2791	New Zealand
+2791	St Helens
+2792	Graham Lowe
+2792	Tony Gordon
+2793	Great Britain
+2793	That Saints
+2794	Neil Holding
+2794	Gary Freeman
+2794	Roy Haggerty
+2794	World Cup
+2795	David Watson
+2795	Alan Hunte
+2795	St Helens
+2795	The Kiwis
+2796	Kelly Shelford
+2796	New Zealand
+2796	Mark Elia
+2797	Cardiff Arms Park
+2797	Stuart Evans
+2798	Phil Veivers
+2798	David Tanner
+2798	Mark Bailey
+2798	New Zealand
+2798	Kevin Iro
+2799	Paul Forber
+2801	Mal Meninga
+2801	St Helens
+2803	NEIL WILSON
+2804	PETER ELLIOTT
+2805	Southwark Park
+2805	Steve Cram
+2806	Commonwealth Games
+2806	General Portfolio
+2808	Only Said Aouita
+2809	Abdi Bile
+2809	New York
+2811	Mark Rowland
+2816	Bev Nicholson
+2817	Rugby Union
+2818	STEVE BALE
+2821	The New Zealanders
+2824	Brian Nicholas
+2827	John Ryan
+2828	All Blacks
+2829	At Bridgend
+2833	But Wales
+2835	New Zealand
+2836	Brewery Field
+2838	Kevin Moseley
+2840	The All Blacks
+2843	Robert Jones
+2844	Owain Williams
+2844	Jeremy Cooper
+2844	Kevin Ellis
+2844	Mike Budd
+2845	Robert Jones
+2845	Arthur Emyr
+2846	Aled Williams
+2846	Huw Bevan
+2848	Cardiff Arms Park
+2850	Rugby Union
+2851	ROBERT COLE
+2853	Kevin Phillips
+2853	Since Neath
+2854	Welsh All Blacks
+2854	The Gnoll
+2856	The English Cup
+2857	Jack Rowell
+2864	Steaua Bucharest
+2866	Jonathan Callard
+2866	Richard Lee
+2866	Tony Swift
+2867	Allan Bateman
+2867	Colin Laity
+2868	Rugby Union
+2869	BARRIE FAIRALL
+2870	Courage First Division
+2872	Goldington Road
+2872	While Wasps
+2874	Mark Bailey
+2875	First Division
+2875	New Zealand
+2876	So Bedford
+2877	The Taranaki
+2877	Ian Snook
+2878	Grant Patterson
+2879	All Black
+2881	Rosslyn Park
+2882	Saturday Wasps
+2883	Simon Smith
+2883	From Bailey
+2884	Rugby Union
+2885	JIM HILL
+2886	Steve Bowling
+2893	Les Cusworth
+2895	Wayne Richardson
+2895	Andrew Lamerton
+2898	Rory Underwood
+2899	John Liley
+2900	Rugby Union
+2901	STUART ALEXANDER
+2902	Cambridge University
+2902	Light Blues
+2904	Tony Rodgers
+2906	Rob Wainright
+2906	John Wilby
+2908	John Ashworth
+2908	Simon Holmes
+2909	Andrew Davies
+2909	Alan Buzza
+2909	Paul Reed
+2910	Rugby Union
+2911	BILL LEITH
+2912	Scottish First Division
+2915	Gary Callander
+2915	John Jeffrey
+2916	New Zealanders Brian Bellingham
+2916	Steve Autogavea
+2917	Since Sean Lineen
+2918	In Bellingham
+2920	Cameron Glasgow
+2920	Gary Kenhard
+2920	Peter Steven
+2923	Rugby Union
+2924	PAUL STEPHENS
+2928	Steve Harris
+2928	John Orwin
+2928	John Dixon
+2928	John Howe
+2931	Simon Tipping
+2931	Peter Buckton
+2932	Paul Johnson
+2932	Simon Irving
+2932	Dave Cooke
+2934	DUNCAN HOOPER
+2935	Manchester Giants
+2935	Granby Halls
+2936	Most Valuable Player
+2936	Cola National Cup
+2936	Dale Roberts
+2937	Kevin Cadle
+2938	Dave Gardner
+2939	Jason Fogerty
+2939	Chris Kearney
+2940	Tony Balogun
+2941	Kevin St Kitts
+2941	Jerry Johnson
+2942	Paul James
+2942	Tom Seaman
+2944	Australian Rules
+2945	DUNCAN HOOPER
+2946	Victorian Football League
+2946	First Edition
+2949	Gary Ablett
+2950	Malcolm Blight
+2952	PATRICK BARCLAY
+2953	HOW TO
+2955	Stamford Bridge
+2956	Bobby Campbell
+2956	Theo Foley
+2959	European Cup
+2959	Bobby Robson
+2959	World Cup
+2962	Instead Liverpool
+2963	Manchester United
+2968	First Division
+2971	David Rocastle
+2971	Dave Beasant
+2971	Tony Adams
+2971	Alan Smith
+2974	As George Graham
+2977	But Paul Davis
+2979	Bryan Robson
+2979	Bobby Robson
+2980	Michael Thomas
+2981	Saudi Arabia
+2982	Mike Hazard
+2984	Kerry Dixon
+2986	Nigel Winterburn
+2986	Tony Dorigo
+2987	David Rocastle
+2988	Brian Clough
+2988	Bobby Robson
+2990	Graham Roberts
+2990	Steve Clarke
+2990	Perry Groves
+2993	JOE LOVEJOY
+2994	Tottenham Hotspur
+2994	Park Rangers
+2994	THE GROUND
+2995	White Hart Lane
+2995	The East Stand
+2995	Gary Lineker
+2996	Trevor Francis
+2996	Andy Sinton
+2999	Terry Venables
+3004	David Bardsley
+3005	Goodison Park
+3005	Derby County
+3005	Paul Stewart
+3005	Tony Cottee
+3005	Mark Wright
+3007	Mick Harford
+3007	West Ham
+3010	David Seaman
+3010	Paul Parker
+3022	Championship Group Three
+3023	JOE LOVEJOY
+3024	Championship Group Three
+3024	Jan Murray
+3025	Gillian Coultard
+3025	Peter Jay
+3027	PHIL SHAW
+3028	Derby County
+3028	Aston Villa
+3030	First Division
+3031	Graham Taylor
+3032	Nigel Callaghan
+3032	Ian Ormondroyd
+3032	The Villa
+3033	Kevin Drinkell
+3033	Doug Ellis
+3035	Peter Shilton
+3035	David Platt
+3036	Derek Mountfield
+3036	Chris Price
+3036	Kevin Gage
+3039	Trevor Francis
+3039	Dean Saunders
+3039	Paul Goddard
+3039	Villa Park
+3040	John Fashanu
+3040	Arthur Cox
+3041	John Sheridan
+3042	Littlewoods Cup
+3046	NICK DUXBURY
+3047	Norwich City
+3050	Cold Blow Lane
+3052	Teddy Sheringham
+3052	Tony Cascarino
+3053	Terry Hurlock
+3053	Mark Bowen
+3055	The Lions
+3056	First Division
+3056	Gary Waddock
+3058	Robert Fleck
+3059	As Bowen
+3061	DON LINDSAY
+3062	Charlie Nicholas
+3062	Cannonball Kid
+3065	Alex Smith
+3069	Craig Robertson
+3069	Brian Grant
+3069	In Jim Bett
+3069	Paul Mason
+3072	Joe Miller
+3074	European Football
+3075	PHIL SHAW
+3076	European Cup
+3076	Phil Shaw
+3076	THE FORM
+3078	Vastra Frolunda
+3079	Andrea Carnevale
+3079	Diego Maradona
+3080	Lothar Matthaus
+3080	Andreas Brehme
+3081	In Spain Real Madrid
+3081	Atletico Madrid
+3081	Bernd Schuster
+3081	Hugo Sanchez
+3082	Athletic Bilbao
+3084	Paolo Futre
+3085	Howard Kendall
+3087	JONATHAN FOSTER
+3088	Crystal Palace
+3090	Norman Whiteside
+3091	Crystal Palace
+3091	Steve Coppell
+3091	Ian Snodin
+3093	Geoff Thomas
+3093	Andy Gray
+3094	Neville Southall
+3094	Mark Bright
+3094	Ian Wright
+3095	Alan Pardew
+3096	Mike Newell
+3096	Pat Nevin
+3097	First Division
+3100	JOHN DOUGRAY
+3101	Sheffield United
+3101	Dave Bassett
+3101	Roker Park
+3104	Wimbledon Mk
+3105	Simon Tracey
+3108	Mark Morris
+3109	John Gannon
+3112	Second Division
+3113	Gordon Armstrong
+3113	Brian Deane
+3114	Ian Bryson
+3116	Sport Page
+3118	JOHN DOUGRAY
+3119	San Francisco Grand Prix
+3119	Anders Jarryd
+3119	Kevin Curren
+3120	Brad Gilbert
+3121	All England Club
+3122	Michael Chang
+3123	United States
+3123	West Germany
+3123	Soviet Union
+3123	South Korea
+3123	New Zealand
+3125	Sport Page
+3127	JOHN DOUGRAY
+3128	Leominster Leisure Centre
+3128	STAFFORD MURRAY
+3128	Peter Ratcliffe
+3130	Sport Page
+3132	Sport Page
+3134	Sport Page
+3136	Sport Page
+3137	Rhythmic Gymnastics
+3138	Sport Page
+3140	JOHN DOUGRAY
+3141	Britain Autoglass Tour
+3141	David Llewellin
+3141	Brands Hatch
+3143	JOHN DOUGRAY
+3144	THE SPORTS COUNCIL
+3145	English Open
+3146	Motor Racing
+3147	JOHN DOUGRAY
+3148	Klaus Niedzwiedz
+3148	DICK JOHNSON
+3148	Frank Biela
+3148	West German
+3148	Ford Sierra
+3148	John Bowe
+3150	JOHN DOUGRAY
+3151	Tallahassee Classic
+3151	BILL BRITTON
+3153	JOHN DOUGRAY
+3154	JEANNIE LONGO
+3157	Sport Page
+3159	JOHN DOUGRAY
+3160	World Boxing Association
+3160	JESUS ROJAS
+3160	Fidel Bassa
+3162	JOHN DOUGRAY
+3164	Mike Marsden
+3164	The Scots
+3164	Jim Muir
+3165	Willie Wood
+3165	Hugh Duff
+3165	Two Scots
+3167	JOHN DOUGRAY
+3168	Toronto Blue Jays
+3168	Oakland Athletics
+3168	Baltimore Orioles
+3168	American League
+3168	GEORGE BELL
+3171	JOHN DOUGRAY
+3172	Indonesian Eddy Kurniawan
+3172	ALLAN BUDI KUSUMA
+3172	Morten Frost
+3174	JOHN DOUGRAY
+3175	DOUGLAS WAKIIHURI
+3176	Angela Tooby
+3177	ROSA MOTA
+3178	American Football
+3179	Sport Page
+3180	Rugby League Round
+3181	PHIL SHAW
+3182	THE FORTUNES
+3183	Sheffield Eagles
+3184	Mark Conway
+3185	Mansfield Marksman
+3185	Nottingham City
+3185	Second Division
+3187	Harvey Hadden Stadium
+3188	Richard Fairbank
+3188	Craig Whitehead
+3188	Jason Ramshaw
+3189	First Division
+3190	Steve Clayton
+3191	The Boulevard
+3192	Richard Gay
+3193	Canberra Raider
+3193	Kevin Ashcroft
+3193	Ivan Henjak
+3194	Ryedale York
+3194	Paul Penrice
+3194	Dave Lowden
+3194	Basil Akey
+3195	Resurgent Fulham
+3197	BILL COLWILL
+3198	Typhoo National League
+3198	SUE HOLWELL
+3200	Rosie Goodridge
+3201	National League
+3201	Great Harwood
+3201	Chris Lysons
+3202	Against Slough
+3202	Lesley Hobley
+3202	Sue Chandler
+3202	Kate Parker
+3202	Karen Brown
+3203	Mandy Langridge
+3203	Jane Jagger
+3203	Joan Lewis
+3204	Andrea Gallyer
+3204	Anne Green
+3205	Sutton Coldfield
+3205	Jane Swinnerton
+3205	Sian Jones
+3206	Bristol University
+3207	Maggie Souyave
+3207	Jackie Crook
+3207	Sue Jones
+3210	BILL COLWILL
+3211	National Sports Centre
+3211	Bill Colwill
+3213	David Hacker
+3214	Owen Mackney
+3214	Jon Rees
+3215	Antony Colclough
+3215	Mark Lewis
+3215	Jeremy Fry
+3216	European Cup
+3216	As Welsh
+3217	English Poundstretcher League
+3219	From Our Correspondent
+3220	Federation Cup
+3220	Julie Salmon
+3220	Sara Gomer
+3220	Clare Wood
+3221	Ariake Tennis Centre
+3222	Anne Hobbs
+3222	Jo Durie
+3223	Ann Jones
+3231	The Soviet
+3232	Marty Reissen
+3233	Martina Navratilova
+3233	Gabriela Sabatini
+3233	Monica Seles
+3233	Chris Evert
+3234	Joe Lovejoy
+3235	JOE LOVEJOY
+3236	MR UNIVERSE
+3239	Charles Clairmonte
+3243	John Carl Grimek
+3244	West Germany
+3244	Edward Kawak
+3245	Carry On
+3248	Costa Brava
+3249	Torrey Canyon
+3251	Casey Kucharyk
+3251	Amateur Class
+3254	Hawaiian Tropic
+3255	Hampton Room Kawak
+3256	Tatyana Scholl
+3256	Miss Bikini
+3256	West German
+3257	Spitting Image
+3257	Bette Midler
+3258	Miss Bikini
+3258	Miss World
+3259	Tracey Citrone
+3260	Charlie Clairmonte
+3262	Flash Charlie
+3266	STUART ALEXANDER
+3267	American Skip Novak
+3267	Alexei Gryshenko
+3267	Whitbread Round
+3267	World Race
+3269	Pelle Petterson
+3269	The Card
+3270	Cape Finisterre
+3271	Satquote British Defender
+3272	Mandy Gallow
+3273	Fortuna Extra Lights
+3273	Charles Jourdan
+3276	JANICE HALE
+3277	Trentham Gardens
+3277	Stephen Hendry
+3277	STEVE DAVIS
+3277	Janice Hale
+3278	Hong Hong
+3279	Dubai Classic
+3279	European Open
+3280	Asian Open
+3282	Regal Scottish Masters
+3288	GENEVIEVE MURPHY
+3289	John Whitaker
+3289	Wembley Arena
+3289	Year Show
+3289	The Horse
+3290	Genevieve Murphy
+3291	Next Milton
+3292	Next International Masters
+3293	Olympic Star Spotters Championship
+3294	Paul Schockemohle
+3294	David Broome
+3295	New Zealand
+3295	Double Take
+3295	Mark Todd
+3297	RICHARD EATON
+3297	Kuala Lumpur
+3298	World Championships
+3298	Richard Eaton
+3298	Kuala Lumpur
+3298	Canadian No
+3298	SIMON PARKE
+3298	Sabir Butt
+3301	Another English
+3301	Jason Nicolle
+3301	British Under
+3301	Florian Possl
+3301	New Zealand
+3301	West German
+3301	England No
+3301	Del Harris
+3302	Australian Geoff Hunt
+3302	British Open
+3303	Maqsood Ahmed
+3305	Geoff Williams
+3305	The Pakistani
+3306	Jockeys Making The Running
+3306	The Trainers
+3306	The Flat
+3307	Sport Page
+3309	JOHN KARTER
+3310	Robert Sangster
+3310	Hoover Fillies
+3310	OIL RICH
+3311	Sheikh Mohammed
+3311	Silk Slippers
+3311	Moon Cactus
+3313	Silk Slippers
+3314	Sheikh Mohammed
+3315	Hamdan Al Maktoum
+3316	English Classic
+3316	Silk Slippers
+3317	Silk Slippers
+3317	Midway Lady
+3318	Silk Slippers
+3318	William Hill
+3319	Royal Lodge Stakes
+3320	Seattle Slew
+3321	Sheikh Mohammed
+3321	Bridal Toast
+3322	Polish Precedent
+3323	Walter Swinburn
+3323	Cup Mile
+3325	Khalid Abdullah
+3325	French Glory
+3325	Pat Eddery
+3326	Greville Starkey
+3326	Steve Cauthen
+3326	Guy Harwood
+3329	Royal Hunt Cup
+3329	Willie Carson
+3329	Red Paddy
+3330	John Sutcliffe
+3333	JOHN KARTER
+3336	Thomson Jones
+3337	Triomphe Modest
+3343	Double Dutch
+3346	Religious Affairs Correspondent
+3346	ANDREW BROWN
+3347	Dr Robert Runcie
+3347	Pope John Paul
+3347	THE ARCHBISHOP
+3347	St Peter
+3348	Christian Church
+3348	But Dr Runcie
+3349	Dr Runcie
+3350	Though Dr Runcie
+3350	Rev Ian Paisley
+3350	Holy Communion
+3351	Roman Catholics
+3351	Dr Runcie
+3352	Roman Catholicism
+3352	Dr Runcie
+3353	The Pope
+3354	St Augustine
+3354	Pope Gregory
+3354	San Gregorio
+3354	On Saturday
+3356	Christian Church
+3356	Dr Runcie
+3357	Roman Catholic Church
+3358	Second Vatican Council
+3361	Dr Runcie
+3364	Anglican Assistant Bishop
+3364	Rt Rev Barbara Harris
+3365	Bishop Harris
+3366	The Pope
+3367	American Roman Catholic
+3367	The Independent
+3367	Dr Runcie
+3368	The Roman Catholic Church
+3368	Sister Margaret Traxler
+3368	National Coalition
+3368	American Nuns
+3368	Dr Runcie
+3369	Dr Runcie
+3370	East Germany
+3371	PATRICIA CLOUGH
+3371	EDWARD LUCAS
+3372	East Germans
+3372	West Germany
+3372	AS SOME
+3373	West German
+3373	In Prague
+3375	The West German Ambassador
+3375	Hermann Huber
+3375	West Germany
+3376	West German Foreign Minister
+3376	Dietrich Genscher
+3377	East Germans
+3377	In Warsaw
+3378	East German
+3378	Let It Be
+3379	Red Cross
+3382	East Germany
+3383	East Germans
+3383	East Germany
+3384	West German
+3384	East German
+3386	Foreign Ministry
+3387	East German Foreign Ministry
+3387	Some East German
+3387	East Germany
+3387	West Germany
+3389	East Germany
+3390	West Germany
+3392	East Germany
+3393	East Germans
+3394	East Germany
+3396	East German
+3397	Mr Genscher
+3398	United Nations
+3398	Mr Genscher
+3398	East German
+3399	East Germany
+3400	President Gorbachev
+3400	East Germany
+3400	East Berlin
+3400	Mr Genscher
+3402	Political Editor
+3402	ANTHONY BEVINS
+3403	Labour Party
+3403	JOHN SMITH
+3405	Mr Smith
+3414	Mr Smith
+3416	Prime Minister
+3420	London Weekend Television
+3420	The Walden Interview
+3420	Ken Livingstone
+3420	Brent East
+3420	Mr Smith
+3422	Mr Livingstone
+3423	Labour Coordinating Committee
+3423	David Blunkett
+3425	Neil Kinnock
+3427	Ron Todd
+3429	Soviet Union
+3430	RUPERT CORNWELL
+3431	AN OMINOUS
+3433	President Mikhail Gorbachev
+3438	Vladimir Filanovsky
+3438	Deputy Oil Minister
+3438	Socialist Industry
+3444	Mikhail Shchadov
+3449	MARY DONALDSON
+3449	From Dame
+3459	Northern Europe
+3468	UK PCB
+3471	MARY DONALDSON
+3471	From Dame
+3473	Waste Disposal Authority
+3474	Her Majesty
+3476	Ellesmere Port
+3477	Ocean Environmental Management
+3477	Seal Sands
+3478	International Technology Corporation
+3478	Leigh Environmental
+3478	Northumbrian Water
+3485	What Rechem
+3486	MARY DONALDSON
+3486	From Dame
+3503	NICHOLAS ROE
+3508	Nick Roe
+3509	And Richard North
+3512	Rechem International
+3512	South Wales
+3518	Ellesmere Port
+3526	At Pontypool
+3529	David Wheeler
+3531	Mr Wheeler
+3534	Mr Wheeler
+3537	Keith Thomas
+3544	Leonard Hough
+3549	Keith Thomas
+3563	Mr Wheeler
+3566	Madeleine Cobbing
+3573	Mr Wheeler
+3576	Llew Smith
+3578	Mr Wheeler
+3588	Andy Matthews
+3597	General Workers Union
+3597	In Liverpool
+3602	Mr Wheeler
+3604	Canada Highway
+3604	In April
+3607	RICHARD NORTH
+3610	Commons Environment Committee
+3610	Environmental Pollution
+3610	Technology Committee
+3610	Royal Commission
+3610	Lords Science
+3610	The House
+3613	Hazardous Chemical
+3613	Her Majesty
+3613	David Mills
+3614	But Mr Mills
+3625	David Mills
+3628	David Mills
+3635	The Netherlands
+3642	Margaret Thatcher
+3644	Mrs Thatcher
+3644	Chris Patten
+3653	Cherrill Hicks
+3653	Elaine Heath
+3654	CHERRILL HICKS
+3655	ELAINE HEATH
+3660	But Elaine
+3668	The Independent
+3675	But Elaine
+3725	Bill Aitken
+3740	Renee Henry
+3740	The Gerson
+3741	Liz Hunt
+3742	LIZ HUNT
+3743	RENEE HENRY
+3749	Renee Henry
+3751	Mrs Henry
+3753	Mrs Henry
+3754	Renee Henry
+3763	Mrs Henry
+3764	Walter Mitty
+3765	Page Three
+3767	Mrs Henry
+3768	Dr Max Gerson
+3771	Dr Gerson
+3774	Dr Gerson
+3775	Gerson Cancer Therapy
+3777	Renee Henry
+3783	Renee Henry
+3789	New Covent Garden
+3795	Mrs Henry
+3797	Renee Henry
+3800	Mrs Henry
+3801	Europe Against Cancer Week
+3801	Karnak Charitable Trust
+3801	Sheila Mclean
+3802	Renee Henry
+3806	Health Update
+3807	OLIVIA TIMBS
+3811	Regional Addiction Treatment Unit
+3814	British Medical Journal
+3815	Health Update
+3816	OLIVIA TIMBS
+3823	British Medical Journal
+3827	OLIVIA TIMBS
+3828	RENEE HENRY
+3829	Dr Maurice Slevin
+3829	St Bartholomew
+3830	Mrs Henry
+3830	Dr Slevin
+3832	Dr Slevin
+3841	The Imperial Cancer Research Fund
+3841	Bristol Cancer Help Centre
+3841	Cancer Research Campaign
+3843	PETER DUNN
+3844	Net Book Agreement
+3844	The Nature Notes
+3844	The Sunday Times
+3844	Classic Bookshop
+3844	Michael Joseph
+3844	Edwardian Lady
+3844	Edith Holden
+3844	PETER FRASER
+3846	The Sunday Times
+3846	Michael Joseph
+3847	Mr Fraser
+3849	PETER DUNN
+3851	Princess Royal
+3851	Linda Joyce
+3851	Hard News
+3852	Princess Royal
+3852	Miss Joyce
+3853	Josephine Hunt
+3853	The Sun
+3855	PETER DUNN
+3856	British Parliament
+3856	Marketing Week
+3857	Sky Television
+3857	Rupert Murdoch
+3859	European Parliament
+3859	Supreme Soviet
+3861	PETER DUNN
+3862	Home Secretary
+3864	Rupert Murdoch
+3866	Radio Times
+3867	Radio Times
+3868	John Lichfield
+3869	JOHN LICHFIELD
+3871	Ben Cartwright
+3871	Little Joe
+3872	Wagon Train
+3873	Miami Vice
+3877	David Jacobs
+3878	The John Wayne
+3879	The Wild Bunch
+3879	Butch Cassidy
+3879	Soldier Blue
+3879	Sundance Kid
+3879	Lone Ranger
+3879	Cat Balou
+3881	Los Angeles Times
+3881	Howard Rosenberg
+3884	John Mantley
+3885	Bury My Heart
+3885	Wounded Knee
+3891	Gene Autry
+3896	David Jacobs
+3901	Lonesome Dove
+3903	Pony Express
+3903	Young Riders
+3905	Young Riders
+3906	Marlboro Lights
+3908	Los Angeles
+3910	David Jacobs
+3917	Mr Jacobs
+3919	John Mantley
+3922	Japanese Noh
+3926	All Creatures Great
+3928	The Young Riders
+3928	The Cosby Show
+3928	Golden Girls
+3931	Sarah Lambert
+3931	Le Monde
+3932	SARAH LAMBERT
+3933	THE LAST
+3934	Le Monde
+3935	Le Monde
+3937	French Establishment
+3938	Le Monde
+3939	Le Monde
+3945	Andre Fontaine
+3948	Le Monde
+3949	Le Monde
+3951	Mr Fontaine
+3953	Mr Fontaine
+3953	Le Monde
+3958	Mr Fontaine
+3959	Le Monde
+3960	Jean Bayle
+3960	Le Monde
+3961	Daniel Vernet
+3963	Le Monde
+3964	Andre Fontaine
+3964	Hubert Beuve
+3967	Le Monde
+3969	SARAH LAMBERT
+3974	Marie Claire
+3978	Anthony Lester
+3979	ANTHONY LESTER
+3981	United States
+3983	French Revolutions
+3985	European Convention
+3985	United Kingdom
+3985	Human Rights
+4003	Law Commission
+4004	High Court
+4005	Evershed Committee
+4009	Margaret Thatcher
+4015	Rose Theatre
+4015	High Court
+4017	Mergers Commission
+4017	Law Lords
+4020	European Community
+4020	United States
+4023	Sir William Wade
+4023	First World War
+4023	William Wade QC
+4029	Lord Denning
+4029	Lord Reid
+4036	Lord Diplock
+4038	The European Court
+4038	Supreme Courts
+4038	United States
+4038	Human Rights
+4041	United Kingdom
+4041	European Court
+4041	Human Rights
+4042	European Court
+4043	High Court
+4044	General Medical Council
+4044	Dr Colman
+4045	Dr Colman
+4047	Sinn Fein
+4048	European Human Rights Convention
+4048	Home Secretary
+4049	Divisional Court
+4049	European Court
+4049	Human Rights
+4050	Dr Colman
+4052	European Convention
+4052	British Bill
+4052	Lord Diplock
+4054	Victim Support
+4054	Pat Healy
+4055	PAT HEALY
+4056	VICTIM SUPPORT
+4058	Victim Support
+4059	Princess Royal
+4059	Home Office
+4060	Victim Support
+4060	Helen Reeves
+4062	Ms Reeves
+4063	Ms Reeves
+4068	Ms Reeves
+4077	Victim Support
+4079	Ms Reeves
+4081	Victim Support
+4082	Victim Support
+4083	Victim Support
+4084	In January
+4086	Ms Reeves
+4090	Stephen Gold
+4091	STEPHEN GOLD
+4109	In May
+4111	Defective Premises Act
+4124	Defective Premises Act
+4125	Meteorological Office
+4128	Bookshop Window
+4129	MISHA DONAT
+4130	IF THIS WAS HAPPINESS
+4130	Barbara Leaming
+4130	Orson Welles
+4131	Rita Hayworth
+4133	You Were Never Lovelier
+4133	Never Get Rich
+4133	Fred Astaire
+4135	The Lady
+4136	Ms Leaming
+4138	POETS AT WORK
+4139	The Paris Review
+4139	George Plimpton
+4140	Elizabeth Bishop
+4140	Allen Ginsberg
+4140	John Ashbery
+4142	Robert Frost
+4143	Claire Tomalin
+4143	BOOK REVIEW
+4144	Eighteenth Century Women Poets
+4145	Roger Lonsdale
+4146	CLAIRE TOMALIN
+4147	Charles Wesley
+4151	William Wright
+4155	And God
+4158	Century Women Poets
+4158	Roger Lonsdale
+4159	Dr Lonsdale
+4161	Lady Mary Wortley Montagu
+4161	Helen Maria Williams
+4161	Joanna Baillie
+4161	Mrs Barbauld
+4167	Dr Johnson
+4169	W-
+4175	Eighteenth Century Verse
+4175	The New Oxford Book
+4177	Cumbrian Susanna Blamire
+4177	Tom Paine
+4181	To Spleen
+4182	Lyrical Ballads
+4183	Elizabeth Barrett Browning
+4184	Mrs Browning
+4188	Elizabeth Hands
+4191	Sarah Siddons
+4191	John Downman
+4192	The National Portrait Gallery Collection
+4193	Advertisement Appearing
+4193	Elizabeth Hands
+4193	Morning Paper
+4193	Serving Maid
+4194	Miss Harriot Anderson
+4194	Sir Charles Grandison
+4195	Miss Belle
+4198	Miss Rhymer
+4199	Says Sir Timothy Turtle
+4200	Alice Walker
+4200	BOOK REVIEW
+4200	The Temple
+4200	The Women
+4201	JILL NEVILLE
+4202	Alice Walker
+4206	The Color Purple
+4209	My Familiar
+4209	The Temple
+4210	Gospel According
+4214	Old Miss Lissie
+4217	Shirley Maclean
+4228	Thomas Keneally
+4228	Towards Asmara
+4228	BOOK REVIEW
+4229	JEREMY BROOKS
+4230	Thomas Keneally
+4230	Booker Prize
+4230	Sister Rose
+4230	Blood Red
+4230	World War
+4230	WE HAVE
+4231	Towards Asmara
+4232	Trust Territory
+4232	Haile Selassie
+4232	Addis Ababa
+4235	President Jimmy Carter
+4236	The Eritreans
+4238	Bob Geldof
+4243	Lady Julie
+4244	Lady Julie
+4251	Lady Julie
+4255	Recommended Books
+4256	JEREMY BROOKS
+4257	Collins Harvill
+4257	Raymond Carver
+4257	New Path
+4259	Hugo Barnacle
+4260	London Fields
+4260	Martin Amis
+4262	Wendy Steiner
+4263	Michael Frayn
+4263	The Trick
+4265	Mark Lawson
+4266	Hans Magnus Enzensberger
+4268	Anthony Burgess
+4269	BOOK REVIEW
+4273	Bristol Rovers Supporters Club
+4276	Divine Comedy
+4277	Official Culture
+4277	Civil Service
+4283	Young Gentlemen
+4283	But Bristol
+4284	Nazified Berlin
+4284	Herr Issyvoo
+4285	The German
+4288	An Asiatic Romance
+4289	British Administration
+4289	Civil Servant
+4289	The Spirit
+4290	Of Pontius Pilate
+4291	The London Zoo
+4298	Christopher Homm
+4300	But Sisson
+4302	Collected Poems
+4306	The Pale Companion
+4306	Andrew Motion
+4306	BOOK REVIEW
+4307	MARTIN PACEY
+4308	Lord Byron
+4308	IT WAS
+4313	What Andrew Motion
+4314	Francis Mayne
+4320	Keith Ogilvie
+4322	Vietnam War
+4324	My God
+4334	The Bellarosa Connection
+4334	BOOK REVIEW
+4334	Saul Bellow
+4335	ANTHONY QUINN
+4336	The Bellarosa Connection
+4336	Robert Ludlum
+4338	Saul Bellow
+4341	Mnemosyne Institute
+4342	Russian Jews
+4342	New Jersey
+4343	Harry Fonstein
+4343	Billy Rose
+4343	Bella Rosa
+4344	New York
+4351	Confronting Billy
+4352	When Sorella
+4355	Does Bellow
+4358	Aunt Mildred
+4359	Thomas Mann
+4361	Act Up
+4365	The Bellarosa Connection
+4365	Martin Amis
+4367	Granta Books
+4367	John Berger
+4367	BOOK REVIEW
+4368	HUGO BARNACLE
+4369	John Berger
+4369	French Alps
+4369	THIS STRONG
+4370	Pig Earth
+4375	Pig Earth
+4380	When Boris
+4384	Here Berger
+4389	As Berger
+4402	James Ruppert
+4403	JAMES RUPPERT
+4406	British Isles
+4415	Unleaded Petrol Guide
+4419	Fiat Uno
+4424	Toyota Corolla
+4424	Nissan Sunny
+4433	The Germans
+4434	Stuttgart Taxi
+4436	Brett Fraser
+4437	BRETT FRASER
+4438	BACK IN
+4451	In Germany
+4495	Roger Bell
+4496	ROGER BELL
+4500	Triumph Stag
+4504	Aston Martins
+4505	If Austin Rover
+4507	Triumph Snag
+4524	Many Stags
+4528	Aston Martin
+4534	From February
+4536	The Stag
+4552	Stag Owner
+4554	ROGER BELL
+4555	Asian Week
+4555	IT IS
+4556	Middle East
+4556	East Asian
+4558	Homely Persian
+4559	The Iznik
+4565	Market Harborough
+4567	Roman Way
+4568	John Windsor
+4569	JOHN WINDSOR
+4572	Business Archives Council
+4574	The Sharper Image
+4574	San Francisco
+4575	Henry Melland
+4575	British Steel
+4575	The London
+4576	Living Memories
+4577	Terry Gourvish
+4577	London School
+4581	Peter Card
+4582	British Motor Industry Heritage Trust
+4585	Expanding City
+4587	Egyptian Dredging Company
+4588	Norwich Union Insurance Company
+4590	Business Archives Council
+4590	Serena Kelly
+4594	Rescue Support Group
+4594	United Newspapers
+4594	Baring Brothers
+4594	John Orbell
+4595	Guildhall Library
+4596	Living Memories
+4596	Pamela Scott
+4596	Garter Home
+4596	Royal Star
+4597	Jim Goodson
+4599	Edward Lucie
+4600	EDWARD LUCIE
+4604	Berkeley Square Gallery
+4604	Peter Osborne
+4613	Jasper Johns
+4613	Frank Stella
+4613	Sam Francis
+4613	Jim Dine
+4614	David Hockney
+4614	Henry Moore
+4622	Edvard Munch
+4624	The Berkeley Square Gallery
+4630	Mr Osborne
+4634	The Berkeley Square Gallery
+4634	Infanta Margarita
+4634	After Velazquez
+4636	German Expressionists
+4636	Neue Sachlichkeit
+4638	American Carol Summers
+4643	Le Samourai
+4645	Sam Francis
+4649	Vollard Suite
+4653	Mr Osborne
+4657	The Neo
+4660	First World War
+4662	Even Cezanne
+4663	Uncle Paul
+4665	Henrietta Green
+4666	HENRIETTA GREEN
+4667	WILD BOAR
+4671	British Wild Boar Association
+4680	As Robert Spencer Bernard
+4680	London Zoo
+4681	Dr Derek Booth
+4683	BBC TV
+4684	Dr Booth
+4685	Clearly Sam Weller
+4686	Wild Boar Company
+4690	Sam Weller
+4691	Food Research
+4691	Sam Weller
+4691	Jeff Woods
+4698	British Wild Boar Association
+4700	Patricia Lousada
+4700	Game Cookery
+4700	John Murray
+4702	Wild Boar Hamburgers Ingredients
+4705	LINDA SUE PARK
+4711	Greens Cook Book
+4712	German Gasthof
+4712	Frances Craig
+4713	Margaret Crisell
+4713	Torres Milmanda
+4716	Matusalem Oloroso
+4717	The Independent
+4717	Weekend Section
+4717	City Road
+4718	Filo Fruit Baskets
+4724	KEITH BOTSFORD
+4728	Wall Street Journal
+4733	Kids Kitchen
+4733	My Own Meal
+4733	Kid Cuisine
+4735	Consider Joel Weiner
+4735	Philip Morris
+4751	Consumer Network Inc
+4751	Mona Doyle
+4762	Raymond Blanc
+4765	Richard Nelson
+4769	The Journal
+4773	DEIRDRE MCQUILLAN
+4774	William Black
+4775	Alistair Little
+4775	Tante Claire
+4778	Jim Moran
+4781	Mr Moran
+4787	Mr Moran
+4800	Nicholas Roe
+4807	London Fish Merchants
+4807	Lou Hart
+4815	William Black
+4821	Mr Black
+4825	Dublin Bay
+4834	Alex Griffiths
+4840	Tim Lucas
+4842	But Jim Moran
+4846	The British
+4847	Nicholas Roe
+4851	Michael Jackson
+4852	MICHAEL JACKSON
+4886	Queen Victoria
+4886	In Strasburg
+4888	San Francisco
+4888	Thank God
+4888	New York
+4889	San Francisco
+4889	New York
+4891	Some Frenchmen
+4893	New Orleans
+4894	Bloody Mary
+4920	Drink Update
+4921	MICHAEL JACKSON
+4923	Young Cook
+4924	Downing Street
+4924	Prime Minister
+4924	Julia Noon
+4924	St Anne
+4926	Seriously Spanish
+4926	Drink Update
+4927	MICHAEL JACKSON
+4928	AS CHEAP
+4929	Benat Arroyabe
+4929	San Sebastian
+4929	Foley Street
+4930	Jose Ramon
+4931	Maria Jose Sevilla
+4931	Basque Country
+4934	Drink Update
+4935	MICHAEL JACKSON
+4938	Martin Wood
+4939	Mr Wood
+4940	The Good Food Guide
+4940	Sian Sutherland
+4940	Soho Newcomer
+4941	Sutherland-Dodd
+4941	Ms Sutherland
+4942	Nick Lander
+4943	Greenbank Centre
+4943	Martin Wood
+4943	Eaton Road
+4946	ANTHONY ROSE
+4947	AS WE
+4949	Laurent Perrier
+4950	Heidsieck Monopole
+4951	Veuve Clicquot
+4954	Gerrards Cross
+4954	Wine Rack
+4955	Bricourt Carte Noire
+4955	Charles Heidsieck
+4955	Wine Rack
+4956	Victoria Wine
+4956	Extra Dry
+4958	Baron Rocheau
+4958	Victoria Wine
+4959	Victoria Wine
+4960	Susan Ellicott
+4960	Going Out
+4961	SUSAN ELLICOTT
+4962	ONE PIE
+4966	Bermondsey Antiques Market
+4966	Tower Bridge Road
+4967	Graham Poole
+4973	Mr Poole
+4986	Dennis Thompson
+4990	Mr Poole
+4994	Smithfield Market
+4997	Mr Poole
+4998	On Saturdays
+5000	Roy Orbison
+5003	Mr Poole
+5004	Tower Bridge Road
+5005	Open Mon
+5006	Going Out
+5007	Ellen Galford
+5008	ELLEN GALFORD
+5010	East Coast America
+5016	Sauchiehall Street
+5016	Cambridge Street
+5016	Fazzi Brothers
+5016	In Glasgow
+5018	Clyde Street
+5024	San Daniele
+5028	As Fazzi Brothers
+5039	Victor Contini
+5041	Going Out
+5042	ELLEN GALFORD
+5043	LONDON UNCLE
+5044	Old World
+5047	Uncle Ian
+5049	Uncle Ian
+5050	Experienced Temple Fortune
+5052	Temple Fortune
+5052	Finchley Road
+5052	Emily Green
+5052	Uncle Ian
+5054	Gloria Ricot
+5054	La Galicia
+5061	The Ricots
+5062	Clapham Manor Street
+5062	Linda Sue Park
+5062	La Galicia
+5067	Lotte Lapidus
+5067	Although Laps
+5069	Eastern European
+5071	Bury Old Road
+5071	Martin Kelner
+5072	Open Tues
+5073	Chaim Bermant
+5074	CHAIM BERMANT
+5085	Eastern European Jew
+5086	But Jews
+5094	The Gorbals
+5101	Garden Update
+5102	MARC CHAMPION
+5103	Royal Horticultural Society
+5103	Greycoat Street
+5105	Garden Update
+5106	Weekend Garden Page
+5107	Garden Update
+5108	MARC CHAMPION
+5123	Anna Pavord
+5124	ANNA PAVORD
+5140	Berlin Wall
+5159	Anna Pavord
+5160	ANNA PAVORD
+5161	British Architects
+5161	Royal Institute
+5162	Margaret Richardson
+5162	Robert Smythson
+5162	Mark Girouard
+5162	Jill Lever
+5162	The Art
+5163	English Gardens
+5163	Portman Square
+5163	Jane Brown
+5163	The Art
+5166	Jane Brown
+5168	Baillie Scott
+5169	Charles Voysey
+5169	Ropes Lane
+5173	Mrs Chester
+5174	Oliver Hill
+5174	Moor Close
+5178	Jane Brown
+5179	Moody Botanic Gardens
+5179	Sir Geoffrey Jellicoe
+5179	Modern Movement
+5181	Jane Brown
+5182	Sir Jeffry Wyatville
+5182	Swiss Cottage
+5183	Landmark Trust
+5186	Jane Brown
+5188	Kingston Lacey
+5189	Great Exhibition
+5189	Crystal Palace
+5189	Joseph Paxton
+5190	Lady Rolle
+5191	Jane Brown
+5194	SUE FIELDMAN
+5195	Bob Fitzsimmons
+5196	Wendron Street
+5197	Alverton Manor Hotel
+5198	South Devon
+5198	Noss Mayo
+5199	National Trust
+5199	River Yealm
+5201	Forward Planning
+5201	Making Proposals
+5201	Allison Flight
+5202	ALLISON FLIGHT
+5206	Country Planning Act
+5207	Outstanding Natural Beauty
+5215	Local Government Ombudsman
+5250	Information Act
+5261	Property Update
+5262	ALLISON FLIGHT
+5263	Horsham St Faith
+5266	Property Update
+5267	ALLISON FLIGHT
+5269	Rental Purchase
+5269	Housing Act
+5269	The Case
+5270	Property Update
+5271	ALLISON FLIGHT
+5275	Loch Nevis
+5275	Loch Hourn
+5276	Property Update
+5277	ALLISON FLIGHT
+5279	The Retirement Care Group
+5280	Property Update
+5281	ALLISON FLIGHT
+5283	Three Corners Vineyard
+5284	Colonel Charles Galbraith
+5285	Property Update
+5286	ALLISON FLIGHT
+5289	Property Update
+5290	ALLISON FLIGHT
+5291	Building Employers Confederation
+5295	Property Update
+5296	ALLISON FLIGHT
+5297	Mrs Terry Jones
+5297	Witty Ad
+5299	Mrs Jones
+5302	Andrew Bibby
+5303	ANDREW BIBBY
+5304	Julie Widlake
+5304	South Molton
+5304	IN THE
+5309	Barnstaple Motel
+5310	Julie Widlake
+5312	West Property Services
+5312	Their South Molton
+5312	West Country
+5318	West Property Services
+5318	Graham Harrison
+5323	David Phillip
+5323	Dacre Son
+5328	Graham Harrison
+5334	David Phillip
+5342	In Bristol
+5343	Julie Widlake
+5347	Graham Harrison
+5350	Peter Crowther
+5354	Graham Harrison
+5356	West Property Services
+5356	West Country
+5357	Vinny Lee
+5358	VINNY LEE
+5359	Gerorge Trowark
+5361	Romney Marsh Smock
+5361	Morecambe Cockler
+5361	Norfolk Fenman
+5361	Thames Docker
+5362	Cornish Knit Frock
+5364	George Trowark
+5365	George Trowark
+5365	Martin Storey
+5370	The Independent
+5372	Martin Storey
+5379	Chunky Aran
+5384	Marble Arch
+5387	Cotton Aran
+5392	Thick Fairisle
+5397	James Street
+5401	Jonathan Glancey
+5402	JONATHAN GLANCEY
+5409	Galleria Vittore Emmanuele
+5409	La Scala
+5412	In Britain
+5413	British Transport Commission
+5418	National Health
+5421	Do Not Spit
+5424	In Milan
+5425	Klaus Giovanni Koenig
+5433	Docklands Light Railway
+5434	Greater Manchester Buses
+5438	Other British
+5442	British Rail
+5445	Jo Levin
+5446	JO LEVIN
+5448	Regent Street
+5453	Lynda Hillyer
+5453	Albert Museum
+5455	National Trust
+5473	National Trust
+5473	Bernard Dore
+5474	Sandown Road
+5475	Mr Dore
+5476	Galleries Commission
+5477	St James
+5478	Textile Galleries
+5478	Dress Collection
+5478	Albert Museum
+5479	Style Update
+5480	VINNY LEE
+5486	Style Update
+5487	VINNY LEE
+5488	MARYSE BOXER
+5489	Ms Boxer
+5493	Princes Street
+5493	Sloane Street
+5495	VINNY LEE
+5496	George Trowark
+5496	Jeremy Young
+5496	Vinny Lee
+5498	Club Class
+5498	New York
+5500	Mr Young
+5508	Mr Young
+5516	Mr Young
+5518	Mr Young
+5522	PETER DUNN
+5523	Independent Traveller
+5524	Godfrey Hodgson
+5524	Simon Turner
+5524	Red Rocker
+5525	Mr Turner
+5528	Red Rocker
+5531	Berlitz School
+5532	Mr Turner
+5534	Mr Turner
+5543	PETER DUNN
+5544	Guinness Book
+5544	Harold Wood
+5545	Les Quatre Saisons
+5551	PETER DUNN
+5554	Church Relief
+5555	Responsive Travel
+5555	Roger Millman
+5556	Sarah Bernhardt
+5556	Alison Lurie
+5557	ALISON LURIE
+5558	Isle Until
+5559	French Never Never Land
+5564	Paul Masson
+5567	Salvador Dali
+5567	Andre Breton
+5567	Cote Sauvage
+5574	Le Menhir
+5576	Le Palais
+5582	Placide Touiss
+5582	Messali Hadj
+5583	Karl Marx
+5587	The Atlantic
+5587	Cote Sauvage
+5588	Sarah Bernhardt
+5596	Cote Sauvage
+5599	Les Grands Sables
+5600	Cote Sauvage
+5612	Like Flaubert
+5613	Cornell University
+5613	Alison Lurie
+5613	New York
+5614	Lorin Jones
+5614	The Truth
+5615	Alison Lurie
+5616	FACT FILE
+5616	Brit Air
+5618	Brittany Ferries
+5622	Brittany Ferries
+5622	St Malo
+5627	Chris Gill
+5628	CHRIS GILL
+5632	The French
+5639	St Moritz
+5642	The Good Skiing Guide
+5647	St Moritz
+5647	In Davos
+5650	Swiss Alps
+5651	Austrian Alps
+5651	The French
+5655	Italian Cervinia
+5656	Saas Fee
+5658	Saas Fee
+5661	Skiing Update
+5662	CHRIS GILL
+5664	London City
+5665	Skiing Update
+5666	CHRIS GILL
+5673	Norton St Philip
+5673	The Old Forge
+5673	Chris Gill
+5674	The Good Skiing Guide
+5675	Skiing Update
+5676	CHRIS GILL
+5677	French Alps
+5677	IT IS
+5679	Angela Lambert
+5679	East Anglia
+5680	ANGELA LAMBERT
+5681	East Anglia
+5683	Long Melford
+5685	East Anglia
+5687	Long Melford
+5688	Ronald Blythe
+5690	East Anglia
+5691	Flatford Mill
+5691	Dedham Hall
+5694	Dedham Hall
+5695	The Slingos
+5697	If Dedham Hall
+5697	Old Vicarage
+5698	Margaret Parker
+5699	Long Melford
+5699	East Anglia
+5699	Black Lion
+5700	Janet Errington
+5701	Long Melford
+5704	Long Melford
+5704	East Anglia
+5706	Great War
+5709	East Anglia
+5710	Long Melford
+5711	Melford Hall
+5715	The Little Hall
+5716	The Great House
+5717	Stephen Spender
+5720	East Anglia
+5720	Things For
+5720	Boy To Do
+5724	Ely Cathedral
+5724	Lady Chapel
+5726	David Reed
+5727	DAVID REED
+5728	THE FIRST
+5738	Frances Higgins
+5740	Kathmandu Guest House
+5744	Royal Palace
+5754	Michael Jackson
+5755	Queen Aishwarya
+5755	King Birendra
+5756	The King
+5763	After Bhaktapur
+5770	Ms Higgins
+5775	The Restaurant
+5779	Ms Higgins
+5787	Royal Nepal Airlines
+5787	Babin Travel
+5787	FACT FILE
+5788	Pakistan Airlines
+5789	Himalayan Mountain Bikes
+5789	Kathmandu Guest House
+5792	America Nepal Mountain Bike Rental
+5792	Old Vienna Inn
+5793	Stephen Bezruchka
+5793	The Mountaineers
+5794	David Reed
+5796	Kensington Palace Gardens
+5796	Royal Nepalese Embassy
+5798	Kathmandu Valley
+5798	The Schneider
+5800	Travel Top Ten
+5800	Tavel Update
+5801	DAVID REED
+5802	English Tourist Board
+5803	Tavel Update
+5803	Neat Noel
+5804	DAVID REED
+5805	European Ferries
+5805	Christmas Eve
+5806	Short Trips
+5806	Le Havre
+5807	Tavel Update
+5808	DAVID REED
+5809	IF YOU
+5810	David Rundle
+5813	Mr Rundle
+5822	Mr Rundle
+5824	Ian Lindsey
+5824	Mr Rundle
+5825	Mr Lindsey
+5826	Hilly Janes
+5827	HILLY JANES
+5839	St John
+5840	The Blue Guide
+5842	The St John
+5844	Hans Memling
+5846	The Church
+5850	On Saturday
+5871	Die Fledermaus
+5872	Emperor Concerto
+5878	The Bruges
+5881	Eating Out
+5882	Michelin Benelux
+5886	Brugge Inside Out
+5886	Blue Guide
+5887	Tourist Information Office
+5887	From October
+5889	Agenda Brugge
+5890	European Ferries
+5890	Ostend Ferries
+5891	Zeebrugge Ferries
+5891	North Sea Ferries
+5893	European Ferries
+5897	Dunkirk Ferries
+5899	Jean Bart
+5902	Jonathan Glancey
+5902	Bull Ring
+5903	JONATHAN GLANCEY
+5904	Bull Ring
+5906	Bull Ring
+5907	Bull Ring
+5909	Laing Developments
+5909	The Bull Ring
+5910	Herbert Manzoni
+5910	Neville Borg
+5911	Bull Ring
+5912	Bull Ring
+5916	Chapman Taylor Partners
+5916	Edinburgh Trust
+5917	Joe Holyoak
+5919	Bull Ring
+5920	John Newman
+5920	Bull Ring
+5924	Bull Ring
+5925	The Galleries
+5925	High Street
+5925	New Street
+5925	St Paul
+5926	St Martin
+5928	West Midlands
+5928	The Galleries
+5930	Merry Hill Centre
+5930	Leamington Spa
+5930	Sandwell Mall
+5931	The Galleries
+5932	The Galleries
+5932	Rodney Karen
+5933	The Galleries
+5935	But Joe Holyoak
+5935	The Galleries
+5936	The Architects
+5938	Chapman Taylor Partners
+5938	The Galleries
+5938	Tony Ridell
+5939	The Galleries
+5940	Bull Ring
+5942	The People
+5947	City Centre Strategy
+5949	The Galleries
+5950	John Newman
+5958	Chapman Taylor
+5959	Chapman Taylor
+5959	Rodney Karen
+5962	The Galleries
+5964	Whether Birmingham
+5965	Does Birmingham
+5971	Both Joe Holyoak
+5972	Bankside Power Station
+5972	Gavin Stamp
+5972	St Paul
+5973	GAVIN STAMP
+5974	St Paul
+5977	Globe Theatre
+5977	Sam Wanamaker
+5978	Bankside Power Station
+5979	Royal Academicians
+5981	St Paul
+5985	Bankside Power Station
+5988	Sir Giles Gilbert Scott
+5988	Anglican Cathedral
+5988	Gothic Revival
+5989	Waterloo Bridge
+5991	London Power Company
+5993	John Betjeman
+5994	Sir Kenneth Clark
+5994	Charles Laughton
+5994	The Architects
+5994	Rebecca West
+5995	Guinness Factory
+5995	Park Royal
+5996	At Battersea
+5997	At Bankside
+6007	Industrial Revolution
+6007	But Bankside
+6010	English Heritage
+6010	Financial Times
+6010	Bracken House
+6011	English Heritage
+6011	Modern Movement
+6011	Lord Caithness
+6014	Thirty Year Rule
+6015	Virginia Bottomley
+6015	Thirties Society
+6015	English Heritage
+6016	Battersea Power Station
+6016	Michael Heseltine
+6017	Prime Minister
+6023	British Rail
+6025	Bankside Power Station
+6026	Architecture Update
+6027	GAVIN STAMP
+6028	Building Sites
+6028	Janet Street
+6028	THE BBC
+6029	Street-Porter
+6029	Piers Gough
+6029	Ms Street
+6031	Rochdale Council
+6032	Theme Park Britons
+6034	Architecture Update
+6035	GAVIN STAMP
+6036	Peter Smith
+6037	Leeds Polytechnic
+6038	Brunswick Building
+6038	Merrion Way
+6040	Architecture Update
+6041	GAVIN STAMP
+6042	Queen Elizabeth Hall
+6042	Hayward Gallery
+6042	South Bank
+6042	Ron Herron
+6042	THE WORK
+6044	Portman Square
+6044	Heinz Gallery
+6045	Composer Robin Holloway
+6046	ROBIN HOLLOWAY
+6051	Philip Glass
+6060	Leningrad Symphony
+6066	Fourteenth Symphony
+6077	Sixties Gurus
+6080	St Luke Passion
+6080	War Requiem
+6080	Arvo Part
+6080	St John
+6081	Jonathan Harvey
+6081	John Tavener
+6081	Desert Music
+6081	Steve Reich
+6107	Piano Concerto No
+6107	Seven Preludes Op
+6107	Chamber Symphony
+6107	RECORD REVIEWS
+6108	Moscow Virtuosi
+6108	Evgeny Kissin
+6109	Vladimir Spivakov
+6110	Preludes Op
+6111	Piano Sonata No
+6112	Lilya Zilberstein
+6114	SIMON MUNDY
+6115	IT IS
+6121	Lilya Zilberstein
+6121	Evgeny Kissin
+6122	Berlin Festival
+6123	First Piano Concerto
+6124	Moscow Virtuosi
+6125	Victor Poltoratsky
+6125	Chamber Symphony
+6125	Rudolph Barshai
+6125	Eighth Quartet
+6126	Lilya Zilberstein
+6128	First Sonata
+6129	Julian Lloyd Webber
+6130	Cello Sonata
+6132	The Sonata
+6134	Lloyd Webber
+6135	First Violin Concerto
+6135	Itzhak Perlman
+6137	Tel Aviv
+6139	Sophie Mutter
+6139	Oscar Shumsky
+6141	Queen Elizabeth Hall
+6142	TESS KNIGHTON
+6143	Magyarok Britain Salutes Hungary Festival
+6143	British Library
+6143	Wigmore Hall
+6144	Sir Charles Mackerras
+6144	The Creation
+6145	Anthony Rolfe Johnson
+6145	Julian Clarkson
+6145	Lynne Dawson
+6145	David Wilson
+6149	Glorious Work
+6150	The Creation
+6152	Lynne Dawson
+6152	The Birds
+6154	Days Like These
+6155	IAN IRVINE
+6156	RAYMOND ASQUITH
+6156	Lady Manners
+6159	STEPHEN SPENDER
+6161	Torn Between
+6171	TONY BENN
+6172	Neil Armstrong
+6172	Buz Aldrin
+6173	Pat Collins
+6174	George Brown
+6176	THOMAS SUTCLIFFE
+6177	AN OBJECT
+6178	The Fuhrer
+6179	Royal Academy
+6179	German Art
+6181	The Nazis
+6182	Volkischer Beobachter
+6188	The Victoria Palace
+6188	Mark Steyn
+6189	MARK STEYN
+6190	THE TEXANS
+6193	Jason Donovan
+6193	Glenn Miller
+6195	Buddy Holly
+6196	Decca Records
+6202	Oliver Reeds
+6202	Aled Jones
+6204	Judy Garland
+6204	John Lennon
+6205	Tel Golden Greats
+6205	Alan Janes
+6206	The Price Of Fame
+6207	The Inevitable Parting
+6208	The Little Woman Behind The Man
+6215	Fanny Brice
+6216	The Sound Of Music
+6216	Funny Girl
+6217	Buddy Holly
+6219	Buddy Holly
+6223	Chuck Berry
+6226	Blue Ridge Mountain It
+6226	The Hayriders
+6231	When Cupid
+6235	Hammersmith Palais
+6235	Capital Gold
+6236	Paul Hipp
+6237	Texaco Premium Type
+6237	Andy Walmsley
+6237	Van Heusen
+6238	Rob Bettinson
+6239	Victoria Palace
+6239	High Society
+6242	Waylon Jennings
+6242	Ritchie Valens
+6242	Big Bopper
+6245	American Pie
+6246	Roll On Friday
+6246	Peter Kemp
+6246	Roger Hall
+6247	PETER KEMP
+6248	Roll On Friday
+6250	New Zealand
+6252	Roger Hall
+6267	Plump Beryl
+6269	Annette Badland
+6269	Simon Slater
+6270	Roll On Friday
+6270	New Zealand
+6273	ALEX RENTON
+6274	David Garrick
+6275	Odyssey Theatre Company
+6275	Scottish Arts Council
+6278	In Bali
+6282	Nigel Jamieson
+6282	Far East
+6285	Clare Benedict
+6285	Lady Macbeth
+6287	Emma Bernard
+6292	Ian Halcrow
+6295	BEING DRAWN TO AN IMAGE
+6296	Guy Brett
+6299	The American
+6299	Maya Deren
+6304	Latin America
+6309	Latin American
+6310	Latin America
+6327	Luis Enrique Tord
+6327	The Peruvian
+6328	The Spanish
+6335	Dr Tord
+6336	Old World
+6338	The Archangel Raphael
+6338	Cuzco School
+6340	San Francisco
+6340	La Paz
+6341	Italian Bernardo Bitti
+6341	The Jesuits
+6343	Leopoldo Castedo
+6349	Bishop Manuel
+6350	Diego Quispe Tito
+6350	El Grecos
+6351	Saint Isidore
+6351	New World
+6353	St James
+6355	Tupac Amaru
+6356	American Dominions
+6356	Pelican History
+6364	Teresa Gisbert
+6364	The Bolivian
+6366	Pelican History
+6366	Martin Soria
+6367	Diego Quispe Tito
+6367	Teresa Gisbert
+6376	South America
+6382	The Spaniards
+6400	Leopoldo Castedo
+6402	Archangel Michael
+6402	San Lorenzo
+6402	Seven Masks
+6403	Castedo Pointedly
+6403	Archangel Michael
+6403	Latin America
+6403	Pope Pius
+6404	Cuzco School
+6408	Lake Titicaca School
+6410	Museo Nacional
+6410	La Paz
+6419	The Spanish
+6420	The Spanish
+6421	Teresa Gisbert
+6421	The Indian
+6426	Eduardo Mondlane
+6427	Christ Child
+6432	Latin America
+6433	Guillermo Gomez
+6433	Latin America
+6434	Juan Davila
+6441	Fernando Botero
+6441	Latin American
+6443	Tonton Macoute
+6444	Pablo Butcher
+6445	Archangel Michael
+6445	An Inca Warrior
+6448	Glauber Rocha
+6449	And Glauber
+6450	Latin American
+6450	Glauber Rocha
+6452	Third World
+6456	Latin American
+6457	Luis Enrique Tord
+6457	Leopoldo Castedo
+6457	Teresa Gisbert
+6458	FROCKING THE KAHLO CULT
+6458	HER DRESS HANGS HERE
+6459	Oriana Baddeley
+6462	Latin America
+6464	Frida Kahlo
+6465	Latin American
+6465	Diego Rivera
+6465	New York
+6467	Hayden Herrera
+6467	Laura Mulvey
+6467	Peter Wollen
+6468	Paul Leduc
+6469	Frida Kahlo
+6469	In May
+6472	Elle Magazine
+6474	Diego Rivera
+6475	While Kahlo
+6476	Van Gogh
+6478	Van Gogh
+6481	The Elle
+6486	The Independent
+6486	While Elle
+6492	Elle Magazine
+6496	Cropped Hair
+6496	In Self
+6497	The Mask
+6502	For Kahlo
+6503	Mexican Indian
+6504	The Tehuana
+6512	The Independent
+6513	In Kahlo
+6518	Frida Kahlo
+6519	Modern Art
+6519	New York
+6521	Frida Kahlo
+6521	The Mask
+6523	Dolores Olmeda
+6525	Frida Kahlo
+6525	The Tree
+6527	Isidore Ducasse Fine Arts Inc
+6532	Dorothy Hale
+6532	The Suicide
+6534	North America
+6534	New York
+6537	In Kahlo
+6542	Clare Boothe Luce
+6542	Dorothy Hale
+6542	Vanity Fair
+6546	New York
+6547	Dorothy Hale
+6551	Jean Franco
+6554	The Labyrinth
+6554	La Chingada
+6554	La Llorona
+6557	La Chingada
+6559	The Indian Mexico
+6562	Dorothy Hale
+6562	Frida Kahlo
+6562	The Suicide
+6563	Phoenix Art Museum
+6565	My Dress Hangs There
+6565	North American
+6567	My Dress
+6568	North America
+6569	Latin American
+6569	North America
+6574	My Dress
+6577	Mae West
+6579	My Dress Hangs There
+6579	Frida Kahlo
+6580	Leo Eloesser
+6582	Wall Street
+6582	The Church
+6594	Frida Kahlo
+6596	Mrs Manuel Reyero
+6598	The Two Fridas
+6598	Frida Kahlo
+6599	Arte Moderno
+6600	SPANISH HERITAGE AND THE WORK OF ALBERTO GIRONELLA
+6600	SURREALISING THE BAROQUE
+6601	Valerie Fraser
+6603	In Art History
+6605	Latin American
+6606	Oxford Art Journal
+6606	Latin American
+6608	Latin American
+6609	Mexican Alberto Gironella
+6610	Ida Rodriguez Prampolini
+6610	Shifra Goldman
+6610	Luis Cardoza
+6612	Octavio Paz
+6621	Golden Age
+6621	El Greco
+6622	Latin America
+6622	El Greco
+6624	Latin American
+6625	Latin America
+6627	Juan Bautista Maino
+6627	The Recapture
+6634	Great Masters
+6637	Latin America
+6638	Latin America
+6641	North American
+6641	Latin American
+6642	Great Masters
+6642	Latin America
+6645	Mona Lisa
+6646	Jasper Johns
+6648	Within Spanish
+6650	Alberto Gironella
+6651	Jorge Pablo
+6652	Mexico City
+6656	Golden Age
+6657	Universidad Nacional
+6657	Tiburcio Esquirla
+6657	Golden Age
+6661	Galeria Prisse
+6661	Mexico City
+6662	Luis Cuevas
+6663	Abstract Expressionism
+6664	Latin American
+6666	Juan Bautista
+6666	The Recapture
+6669	Queen Maria Luisa
+6669	Francisco Lezcano
+6670	Francisco Lezcano
+6670	Maria Luisa
+6672	Francisco Lezcano
+6674	Queen Maria Luisa
+6675	Metropolitan Museum
+6675	New York
+6676	Queen Mariana
+6687	Francisco Lezcano
+6687	The Child
+6687	El Nino
+6690	Queen Mariana
+6692	In The Black Queen
+6699	La Reina Negra
+6701	Latin America
+6704	Alberto Gironella
+6704	Reina Mariana
+6705	Maurice Reims
+6708	Alberto Gironella
+6708	Black Queen
+6708	Reina Negra
+6709	Private Collection
+6719	Spanish Golden Age
+6724	Queen Mariana
+6725	The Virgin
+6725	New World
+6727	In Mexico
+6729	Virgin Maria
+6732	Baltasar Carlos
+6738	Alberto Gironella
+6738	Reina Mariana
+6740	Las Meninas
+6742	Las Meninas
+6743	Francisco Lezcano
+6743	Queen Mariana
+6743	Las Meninas
+6744	Queen Mariana
+6746	Las Meninas
+6747	Queen Mariana
+6747	Reina Mariana
+6749	American Empire
+6752	Las Meninas
+6755	Alberto Gironella
+6756	Collection Maria Rodriquez
+6759	The Queen
+6762	Latin American
+6774	Virgin Maria
+6776	Alberto Gironella
+6776	Queen Mariana
+6776	Reina Mariana
+6779	Alberto Gironella
+6779	The Queen
+6779	La Reina
+6780	Luis Felipe
+6781	Bob Schalkwijk
+6783	Las Meninas
+6784	Las Meninas
+6785	Nicolas Pertusato
+6787	Edouard Jaguer
+6790	Latin America
+6791	Latin America
+6795	Catholic Kings
+6795	Las Conchas
+6796	Previous Convictions
+6797	Paul Wood
+6798	Against Postmodernism
+6798	Marxist Critique
+6798	Basil Blackwell
+6798	Alex Callinicos
+6798	Polity Press
+6816	Charles Jencks
+6816	Linda Hutcheon
+6816	Eugene Lunn
+6827	If Foucault
+6833	Long Boom
+6838	Terry Eagleton
+6844	Fredric Jameson
+6855	Franco Moretti
+6855	Carl Schmitt
+6856	Michael Lowy
+6863	Marshall Berman
+6863	Perry Anderson
+6871	And Callinicos
+6872	Socialist Realism
+6884	Neue Sachlichkeit
+6886	Contra Buchloh
+6889	For Callinicos
+6890	Perry Anderson
+6891	For Callinicos
+6895	Second World War
+6901	Warholian Manhattan
+6901	Van Goghs
+6906	Whither Brecht
+6921	Second World War
+6935	Walter Benjamin
+6936	The Author
+6960	Socialist Review
+6960	Arthur Scargill
+6971	Walter Benjamin
+6973	For Callinicos
+6990	THE ART OF SCIENCE
+6991	GEOFFREY CANTOR
+6992	Yale University Press
+6992	Optical Themes
+6992	Western Art
+6992	The Science
+6992	Martin Kemp
+6992	New Haven
+6994	Scientific Renaissance
+6995	Sears Roebuck
+7001	De Santillana
+7006	Martin Kemp
+7031	San Ignazio
+7040	Moses Harris
+7041	Louis Castel
+7045	Physiological Optics
+7045	James Clerk Maxwell
+7045	Modern Chromatics
+7045	Ogden Rood
+7064	Brook Taylor
+7065	Although Taylor
+7065	Royal Society
+7066	David Brewster
+7072	Scientific Revolution
+7093	Echoing Plato
+7097	An Essay Towards
+7097	George Berkeley
+7097	New Theory
+7098	Here Berkeley
+7105	Since Ptolemy
+7117	Scientific Revolution
+7118	Lodovico Cigoli
+7120	Unfortunately Kepler
+7130	Scientific Revolution
+7131	Scientific Revolution
+7132	Girard Desargues
+7132	Simon Stevin
+7142	SITUATIONIST NOSTALGIA
+7142	ON THE PASSAGE OF
+7142	FEW PEOPLE
+7143	PETER SMITH
+7145	Situationist Scrapbook
+7145	Iwona Blazwick
+7145	Malcolm Imrie
+7145	Peter Wollen
+7145	Mark Francis
+7147	Few People Through
+7147	Brief Moment
+7148	The Situationist International
+7148	Elisabeth Sussman
+7151	Centre Georges Pompidou
+7151	Few People Through
+7151	Contemporary Arts
+7151	On The Passage
+7151	Brief Period
+7152	Peter Wollen
+7152	Mark Francis
+7153	Situationist International
+7157	Few People Through
+7157	Brief Moment
+7157	Guy Debord
+7158	The Situationist Scrapbook
+7158	Situationist International
+7159	Psychogeographic Map
+7159	Ralph Rumney
+7162	Mark Francis
+7162	The Boston
+7166	The Lettrists
+7171	Massachusetts Council
+7171	Metropolitan Museum
+7171	Getty Grant Program
+7171	Lila Wallace Reader
+7171	American Wing
+7171	Digest Fund
+7171	The Boston
+7171	New York
+7172	Situationist International
+7172	Instituo Banco San Paulo
+7172	Action Artistique
+7172	The Scrapbook
+7172	Becks Bier
+7173	English Abrasives
+7173	Chemicals Ltd
+7177	The Boston
+7180	Experimental Laboratory
+7193	As Debord
+7203	The Cinema
+7203	Guy Debord
+7231	In Levin
+7241	Russian Constructivism
+7243	In Levin
+7253	Berlin Dada
+7255	The Situationists
+7258	Vivienne Westwood
+7258	Sex Pistols
+7258	Jamie Reid
+7258	King Mob
+7259	Henri Lefebvre
+7261	Anton Pannekoek
+7261	World War One
+7268	The Boston
+7273	Third World
+7285	Frank Mort
+7294	The Situationists
+7309	Conceptual Art
+7309	Arte Povera
+7312	Elisabeth Sussmann
+7315	George Steiner
+7315	Sunday Times
+7317	Christopher Gray
+7328	Rosa Luxembourg
+7332	The Situationists
+7333	The Frankfurt School
+7337	Council Communists
+7340	The Situationists
+7341	Raymond Williams
+7342	Another Surrealist
+7350	William Morris
+7355	Asger Jorn
+7364	The Situationist
+7369	The Situationists
+7373	Raymond Williams
+7377	Forget Kylie
+7378	Martin Wainwright
+7379	Starship Enterprise
+7379	Sam Coombes
+7381	Contemporary Music Festival
+7381	Oliver Messiaen
+7381	Pierre Boulez
+7381	John Cage
+7382	Bradford Road
+7383	Robert Worby
+7388	Four Minutes
+7389	Nicola Bradford
+7390	National Curriculum
+7390	Paul Chamberlain
+7391	Sunjeev Singh
+7395	Philippa Bradford
+7395	Tracy Redfern
+7397	Performing Arts
+7400	Joanne Faley
+7401	Stephen Montague
+7401	Robert Worby
+7403	Huddersfield Contemporary Music Festival
+7404	Huddersfield Polytechnic
+7406	Stephanie Nettell
+7408	Cambridge Arts Theatre
+7409	The Duchess Of Malfi
+7409	Tufnell Park Road
+7409	Cherub Company
+7409	St George
+7411	Population Concern
+7411	Northern Ireland
+7411	Antrim Grammar
+7411	St Wilfrid
+7412	Tottenham Court Road
+7412	Population Concern
+7413	Stage Pass
+7414	Charing Cross Road
+7416	By Hugh Hebert
+7418	Paul Hill
+7419	God Save
+7421	Gerry Conlon
+7422	Royal Victoria Hospital
+7428	Northern Ireland
+7429	First Tuesday
+7430	Guildford Four
+7430	First Tuesday
+7430	Ros Franey
+7432	Carole Richardson
+7442	Old Bailey
+7453	Inside The Brotherhood
+7453	Claudia Milne
+7453	Martin Short
+7454	Preferential Allocation
+7454	Christopher Hudson
+7454	Council Property
+7454	In Southend
+7456	Property Services Agency
+7457	Edward Greenfield
+7457	Covent Garden
+7458	Maria Callas
+7461	With Callas
+7462	Covent Garden
+7462	La Scala
+7463	Rosalind Plowright
+7463	Buxton Festival
+7463	Bernard Culshaw
+7463	Covent Garden
+7463	Mike Ashman
+7475	Claire Powell
+7477	Mike Ashman
+7478	Revolutionary Reign
+7482	Bernard Culshaw
+7484	Alexei Steblianko
+7484	The Russian
+7485	Renee Fleming
+7485	Covent Garden
+7485	Robert Lloyd
+7485	King Creon
+7486	Covent Garden Orchestra
+7486	Mark Ermler
+7487	Covent Garden Angry
+7487	Edward Greenfield
+7488	Maria Callas
+7488	IT WAS
+7491	With Callas
+7492	Covent Garden
+7492	La Scala
+7493	Rosalind Plowright
+7493	Buxton Festival
+7493	Bernard Culshaw
+7493	Covent Garden
+7493	Mike Ashman
+7505	Claire Powell
+7507	Mike Ashman
+7508	Revolutionary Reign
+7512	Bernard Culshaw
+7514	Alexei Steblianko
+7514	The Russian
+7515	Renee Fleming
+7515	Covent Garden
+7515	Robert Lloyd
+7515	King Creon
+7516	Covent Garden Orchestra
+7516	Mark Ermler
+7517	Rosalind Plowright
+7519	By Meirion Bowen Ligeti Festival
+7522	Ligeti Festival
+7522	Piano Concerto
+7523	Conlon Nancarrow
+7526	Volker Banfield
+7528	Piano Concerto
+7532	London Sinfonietta
+7532	Elgar Howarth
+7533	Cello Concerto
+7534	Four Capriccios Opus
+7534	Gyorgy Kurtag
+7536	Adrienne Csengery
+7536	East European
+7536	Istvan Balint
+7538	By Paul Fisher Ironmistress
+7539	Martha Darby
+7541	Little Cog
+7543	Iron Lady
+7550	Louise Waddington
+7550	Little Cog
+7552	Gillian Brown
+7554	Mallet Burgess
+7558	Culture Shocked Feminist
+7558	Michelle Shocked
+7559	On The Greener Side
+7559	Michelle Shocked
+7564	Robert Palmer
+7580	Captain Swing
+7586	Inside Michelle Shocked
+7587	Texas Campfire Tapes
+7587	San Francisco
+7588	Is Shocked
+7616	But Shocked
+7617	Los Angeles
+7617	White House
+7620	Michelle Shocked
+7621	London Records
+7621	Captain Swing
+7622	OVERNIGHT FILE PAGE
+7624	Alex Brummer
+7624	By Edited
+7625	European Monetary System
+7626	Economic Community
+7626	Pacific Rim
+7628	Northern American
+7628	West German
+7629	Mr James Baker
+7630	European Community
+7631	North American
+7631	Rio Grande
+7633	Asia Pacific Economic Co
+7635	But Mr Baker
+7637	South Korea
+7640	American Administration
+7640	THE QUESTION
+7641	President Bush
+7642	Capitol Hill
+7643	The Treasury Secretary Nicholas Brady
+7647	President Bush
+7648	Mr Bush
+7649	Otherwise Congress
+7652	NO LONGER
+7656	Energy Secretary
+7656	Mr John Wakeham
+7659	National Power
+7666	By Ben Laurance
+7667	Morgan Grenfell
+7670	Morgan Grenfell
+7671	The Hanson
+7672	Banque Indosuez
+7673	Morgan Grenfell
+7674	West Germany
+7677	Compagnie Financiere
+7677	Banque Indosuez
+7677	Willis Faber
+7678	Willis Faber
+7679	Willis Faber
+7681	Tie Rack
+7682	By Roger Cowe
+7683	Sock Shop
+7683	Tie Rack
+7687	United States
+7689	Tie Rack
+7695	Roy Bishko
+7700	Tie Rack
+7702	Tie Rack
+7703	Mr Bishko
+7704	Mr Bishko
+7711	Will Tie Rack
+7712	Mr Bishko
+7715	Mr Bishko
+7716	Vadep Holdings
+7716	South African
+7716	Mr Bishko
+7717	South Africans
+7718	Wall Street
+7719	By Mary Brasier
+7719	New York
+7720	Wall Street
+7721	Wall Street
+7722	New York
+7725	Steven Fagan
+7725	Dow Jones
+7726	But Shearson
+7726	Wall Street
+7728	After Black Monday
+7729	United Airlines
+7733	Albert King
+7737	Federal Reserve
+7738	The Fed
+7739	Dow Jones
+7741	Barclays American Corporation
+7741	American Banker
+7744	Federal Aviation Authority
+7747	Dick Outhwaite
+7749	Christopher Huhne
+7749	Economics Editor
+7750	Press Association
+7750	Evening Standard
+7750	Anthony Hilton
+7750	Dan Atkinson
+7753	Coniston Partners
+7753	United Airlines
+7753	New York
+7756	Roland Franklin
+7757	Mr Franklin
+7760	Manchester Ship Canal
+7762	By Lisa Buckingham
+7763	John Gunn
+7770	But Mr Gunn
+7771	Atlantic Computers
+7771	London Forfaiting
+7771	Mr Gunn
+7775	Mr Gunn
+7777	If Gunn
+7779	Mr Gunn
+7782	Armstrong Equipment
+7782	Caparo Automotive
+7782	Swraj Paul
+7785	Dr Paul
+7786	The Armstrong
+7786	Roy Watts
+7787	Dr Paul
+7792	Parkland Textiles
+7793	Mr Michael Rowley
+7796	Paul Hanson
+7801	The Allspeeds
+7802	Midland Bright Drawn Steel
+7802	Steel Stampings
+7804	Sanderson Kayser
+7807	Tozer Kemsley
+7807	Ron Brierley
+7807	Motor Group
+7809	Wall Street
+7810	New York
+7816	Tie Rack
+7818	Iceland Frozen Foods
+7818	Hoare Govett
+7819	Morgan Grenfell
+7820	Morgan Grenfell
+7823	Wall Street
+7824	Hong Kong
+7825	Hang Seng
+7829	By Teresa Hunter
+7831	Financial Services Act
+7836	Nigel Herrick
+7842	Mr Herrick
+7845	Touche Ross
+7846	Investment Managers Regulatory Organisation
+7846	Unit Trust Regulatory Organisation
+7846	Investments Board
+7846	Life Assurance
+7848	Midland Bank
+7851	By Christopher Huhne
+7853	European Monetary System
+7853	Mrs Thatcher
+7855	Mrs Thatcher
+7856	Sir Alan Walters
+7859	President Mitterrand
+7870	Autumn Statement
+7870	Mr Lawson
+7880	Professor Michael Artis
+7891	Mr Tam Bayoumi
+7891	Gold Standard
+7896	The French
+7904	The Social Market Foundation
+7904	Samuel Brittan
+7904	Michael Artis
+7906	International Monetary Fund
+7906	Tamim Bayoumi
+7908	By Andrew Cornelius Industrial Editor
+7910	Industry Committee
+7910	West Midlands
+7911	Mr Doug Henderson
+7911	Mr Derek Barron
+7912	West Midlands
+7913	Fair Trading
+7914	American Depository Receipts
+7916	The Government
+7918	By Larry Elliott Economics Correspondent
+7919	European Monetary System
+7919	Sir Leon Brittan
+7920	Professor Sir Alan Walters
+7920	Prime Minister
+7920	Sir Leon
+7923	Downing Street
+7923	Mrs Thatcher
+7924	European Central Bank
+7924	Federal Reserve
+7924	United States
+7924	Sir Leon
+7927	United Kingdom
+7927	Sir Leon
+7930	United Kingdom
+7930	Sir Leon
+7933	By John Palmer
+7933	Peter Large
+7937	Sir Leon Brittan
+7938	French Government
+7939	The Commission
+7941	The British Industry Minister
+7941	Mr Eric Forth
+7944	British Ambassador
+7944	Rupert Soames
+7945	Mr Soames
+7947	Mr Soames
+7948	Sir Bryan Carsberg
+7948	Telecoms Users
+7949	Mercury Communications
+7949	British Telecom
+7951	Sir Bryan
+7955	By Financial
+7956	Sir James Goldsmith
+7957	Credit Lyonnais
+7957	Sir James
+7960	The French
+7961	Axa Midi
+7964	By Financial
+7971	Marcel Richard
+7973	For Perrier
+7977	Polly Peck
+7977	Hong Kong
+7978	British Virgin Islands
+7978	Polly Peck Far East
+7978	Robin Stoddart
+7978	POLLY PECK
+7978	Hong Kong
+7979	United States
+7980	Sansui Electric
+7980	Polly Peck
+7980	Del Monte
+7981	Wing Tai Exporters
+7981	Sung Hung Kai
+7981	Brave Dragon
+7981	Hong Kong
+7983	Hong Kong
+7984	Polly Peck
+7985	Shell Electric
+7986	Mr Asil Nadir
+7986	Polly Peck
+7987	Del Monte Fresh Fruit
+7987	Polly Peck
+7988	Hong Kong
+7990	By Daniel John
+7991	Metropolitan Police
+7993	Dale Campbell-Savours
+7993	Mr Dale Campbell
+7995	Sir Patrick Mayhew
+7996	Detective Inspector Graham Gooch
+7996	Detective Sergeant Ken Morgan
+7996	Serious Fraud Office
+7998	Campbell-Savours
+7998	Scotland Yard
+7998	Mr Campbell
+7999	This House
+8001	Campbell-Savours
+8001	And Mr Campbell
+8001	Mr Tiny Rowland
+8006	Scotland Yard
+8007	Scotland Yard
+8008	Campbell-Savours
+8008	Mr Campbell
+8009	The Attorney General
+8010	Law Lords
+8015	THIRTY FIVE
+8022	British Rail
+8024	British Telecom
+8025	The Transport Secretary
+8025	Mr Cecil Parkinson
+8025	Sir Anthony Hidden
+8028	British Rail
+8031	Mr Parkinson
+8035	Red Cross
+8035	St John
+8038	Like Labour
+8041	Mr Kenneth Clarke
+8041	Whitley Council
+8042	The Health Secretary
+8047	Duncan Nichol
+8047	Mr Clarke
+8048	Mr Nichol
+8048	Mr Clarke
+8056	Mr Duncan Nichol
+8059	Whitley Council
+8060	Whitley Councils
+8061	McCarthy
+8061	As Lord
+8064	One Mr Clarke
+8066	PRINCE CHARLES
+8067	Hong Kong
+8068	Hong Kong Island Divisional Headquarters
+8068	The Hong Kong University
+8068	Cultural Centre
+8068	Red Cross
+8069	Eastern Harbour
+8070	Hong Kong
+8071	Tiananmen Square
+8071	Hong Kong
+8073	Hong Kong
+8074	Hong Kong
+8075	Shanghai Bank
+8075	Hong Kong
+8078	Hong Kong
+8080	Hong Kong Government
+8081	New China News Agency
+8081	Political Adviser
+8081	Hong Kong
+8082	National Day
+8082	Hong Kong
+8084	Hong Kong Government
+8084	Chinese Government
+8085	Hong Kong
+8086	Hong Kong
+8087	Mr Martin Lee
+8087	Mr Szeto Wah
+8087	Hong Kong
+8087	Basic Law
+8088	Foreign Secretary
+8088	Hong Kong
+8093	Mr Douglas Wilder
+8093	Simon Tisdall
+8096	Mr Wilder
+8097	Mr Marshall Coleman
+8097	The Republican
+8098	Mr Wilder
+8100	Mr Rudolph Giuliani
+8100	Mr David Dinkins
+8100	In New York
+8101	East German
+8102	By Anna Tomforde
+8103	Communist Party
+8104	Mr Wolfgang Meyer
+8105	East Germans
+8105	East Berlin
+8106	East Germany
+8107	Mr Egon Krenz
+8108	The Bonn
+8109	East Germany
+8111	Mr Willi Stoph
+8111	Prime Minister
+8112	Mr Krenz
+8114	Communist Party
+8114	East Germans
+8116	The East German
+8116	East Germans
+8117	Since Saturday
+8117	West Germany
+8118	East Germans
+8118	Mr Meyer
+8119	Our Socialist
+8120	Mr Manfred Stolpe
+8120	East Berlin
+8120	Mr Krenz
+8121	East Germans
+8121	Mr Stolpe
+8121	Mr Krenz
+8122	Potsdam Academy
+8122	East German
+8124	Interior Ministry
+8124	New Forum
+8125	New Forum
+8126	An East German
+8127	General Erich Mielke
+8127	Interior Minister
+8127	Mr Krenz
+8128	Communist Party
+8131	By Keith Harper
+8131	Patrick Wintour
+8131	David Brindle
+8138	Mr Kenneth Clarke
+8138	Health Secretary
+8139	Mr Clarke
+8143	Mr Duncan Nichol
+8144	Mr Nichol
+8146	Mr Nichol
+8151	The Government
+8151	Mr Clarke
+8154	Mr Clarke
+8155	Mr Nichol
+8157	Mr Nichol
+8161	Mr Clarke
+8162	Mr Robin Cook
+8162	Mr Clarke
+8164	Mr Chris Spry
+8166	Greater Manchester
+8167	Duncan Nichol
+8169	Mr Douglas Wilder
+8169	Simon Tisdall
+8171	Mr Wilder
+8172	Mr Marshall Coleman
+8172	The Republican
+8173	Mr Wilder
+8175	Mr David Dinkins
+8175	In New York
+8176	Mr Rudolph Giuliani
+8178	National Audit Office
+8178	British Aerospace
+8178	The Department
+8178	Rover Group
+8181	The National Union
+8184	Mr Neil Kinnock
+8184	Mr Paul Boateng
+8184	The Labour
+8187	Mrs Thatcher
+8190	General Synod
+8192	Birmingham Six
+8193	The Home Secretary
+8193	Birmingham Six
+8199	By Michael Smith
+8199	Alan Travis
+8200	Clapham Junction
+8200	British Rail
+8201	Sir Anthony Hidden
+8201	Anthony Hidden QC
+8201	British Rail
+8202	Public Prosecutions
+8202	The Director
+8204	But Sir Anthony
+8208	Transport Secretary
+8208	Mr Cecil Parkinson
+8209	Sir Robert Reid
+8211	Sir Anthony
+8212	Mr Parkinson
+8212	Sir Anthony
+8212	Sir Robert
+8213	Mr Parkinson
+8214	Mr Parkinson
+8217	Sir Anthony
+8219	Mr John Prescott
+8220	Sir Anthony
+8221	Mr Parkinson
+8223	Sir Anthony
+8223	Sir Robert
+8226	Mr Brian Hemingway
+8226	Clapham Junction
+8227	Mr Clifford Hale
+8228	Sir Robert
+8228	Mr Hale
+8229	Central Transport Consultative Committee
+8232	Mrs Lynn Hooper
+8232	British Airways
+8233	Mr Peter Owen
+8239	Mrs Aisling Barnett
+8241	Emma Louise Hyde
+8241	Cheadle Hulme
+8242	Susan Gort
+8244	Sheffield University
+8246	By John Carvel Home Affairs Editor
+8247	Home Secretary
+8248	While Mr David Waddington
+8249	Criminal Justice Bill
+8249	Mr Waddington
+8252	Mr Waddington
+8253	Home Secretary
+8254	Mr Douglas Hurd
+8255	European Court
+8255	Terrorism Act
+8255	Mr Hurd
+8256	Home Office
+8257	Birmingham Six
+8258	By John Carvel
+8258	Paul Hoyland
+8259	Home Secretary
+8259	Birmingham Six
+8259	MR DAVID
+8260	Irish Foreign Minister
+8260	Mr Gerry Collins
+8260	Mr Waddington
+8261	But Home Office
+8261	Mr Waddington
+8262	Home Secretary
+8262	Birmingham Six
+8263	Mr Waddington
+8264	Mr Douglas Hurd
+8265	Most Reverend Maurice Couve
+8265	Right Reverend Mark Santer
+8265	Birmingham Free Churches
+8265	Reverend David Good
+8265	Birmingham Council
+8265	Christian Churches
+8267	West Midlands
+8268	Rt Rev Santer
+8270	Clare Short
+8271	By Patrick Wintour
+8272	Mr Neil Kinnock
+8272	Mr Paul Boateng
+8273	Shadow Cabinet
+8273	Mr Kinnock
+8273	Mr Boateng
+8274	Ms Clare Short
+8274	Terrorism Act
+8274	Mr Kinnock
+8275	Mr Michael Meacher
+8275	Ms Short
+8276	Northern Ireland
+8276	Mr Gordon Brown
+8276	Ms Mo Mowlam
+8277	Treasury Chief Secretary
+8277	Ms Margaret Beckett
+8277	Mr Kinnock
+8278	Northern Ireland
+8278	Mr Roger Stott
+8278	Ms Mowlam
+8279	Mr Tony Worthington
+8279	Mr Nigel Griffiths
+8279	Mr Elliot Morley
+8280	Mr John Garrett
+8280	Norwich South
+8281	Mr Kinnock
+8282	Mr Tony Blair
+8282	Henry McLeish
+8282	Mr Henry
+8285	Mr Boateng
+8286	Mr Kinnock
+8286	Mr Boateng
+8287	Mr Ken Livingstone
+8287	Police Committee
+8288	Brent South
+8291	Roy Hattersley
+8291	Mr Kinnock
+8293	Mr Alistair Darling
+8293	Edinburgh Central
+8293	Labour Party
+8294	Mr Boateng
+8297	National Audit Office
+8297	British Aerospace
+8297	The Department
+8297	Rover Group
+8300	Mrs Thatcher
+8303	Mr Paul Boateng
+8306	General Synod
+8308	Birmingham Six
+8309	The Home Secretary
+8309	Birmingham Six
+8315	By Keith Harper
+8315	Patrick Wintour
+8315	David Brindle
+8317	Mr Kenneth Clarke
+8317	Health Secretary
+8319	Mr Duncan Nichol
+8320	Mr Clarke
+8323	Mr Roger Poole
+8324	Mr Nichol
+8326	Mr Nichol
+8329	The Government
+8329	Mr Clarke
+8332	Mr Clarke
+8333	Mr Nichol
+8335	Mr Nichol
+8339	Mr Clarke
+8340	Mr Robin Cook
+8340	Mr Clarke
+8342	Mr Bernard Weatherill
+8342	Mr Clarke
+8342	The House
+8343	Mr Chris Spry
+8348	Greater Manchester
+8349	Duncan Nichol
+8351	By Keith Harper
+8351	David Fairhall
+8352	South West Thames
+8353	Mr Chris Spry
+8354	St John Ambulance
+8360	Mr Tom Crosby
+8363	Mr Chris Humphreys
+8363	Public Employees
+8363	National Union
+8366	Kenneth Clarke
+8367	The Government
+8370	Mrs Thatcher
+8370	Mr Heath
+8372	Mrs Thatcher
+8375	Green Goddess
+8376	During Mrs Thatcher
+8377	Richard Norton
+8383	Chief Political Correspondent
+8383	By Michael White
+8384	European Commission
+8384	Sir Leon Brittan
+8384	Mrs Thatcher
+8385	Exchange Rate Mechanism
+8386	East Germany
+8387	Mr Nigel Lawson
+8387	Prime Minister
+8387	Mr Lawson
+8388	European Community
+8388	Granada Lecture
+8388	Sir Leon
+8390	Sir Leon
+8392	Fortress Europe
+8392	Home Secretary
+8392	Mrs Thatcher
+8392	Mr Lawson
+8393	Downing Street
+8393	Social Charter
+8395	Mrs Thatcher
+8395	Sir Leon
+8396	Mr Kenneth Baker
+8400	Sir Anthony Meyer
+8400	Mrs Thatcher
+8402	Commons Mr Neil Kinnock
+8402	Mrs Thatcher
+8402	Mr Lawson
+8405	The Prime Minister
+8406	Sir Leon
+8409	Consumer Affairs Correspondent
+8409	By James Erlichman
+8410	Milk Marketing Board
+8411	Agriculture Minister
+8411	Mr John Gummer
+8422	Dr David Clark
+8423	Mr Gummer
+8426	Central America
+8427	By Jane Rosen
+8427	New York
+8428	Security Council
+8428	Central America
+8428	El Salvador
+8428	THE UN
+8432	Central American
+8433	Secretary General
+8433	Central American
+8435	Mr Thomas Pickering
+8437	The Nicaraguan
+8438	Observer Group For Central America
+8439	West Germany
+8440	Mr Javier Perez
+8440	The Secretary
+8443	By David Hencke Westminster Correspondent
+8446	British Rail
+8447	Lab Sunderland
+8447	British Rail
+8447	Mr Bob Clay
+8448	Mr Keith Welsby
+8449	Local Govt Bill
+8450	Paul Nettleton
+8451	Local Government
+8451	THE GOVERNMENT
+8451	Housing Bill
+8452	Mr Bob Cryer
+8455	Mr Christopher Chope
+8456	Mr Chope
+8457	Mr Clive Soley
+8457	For Labour
+8460	Dusan Zivkovic
+8460	Yugoslav Serb
+8461	Mr Charles Gray
+8461	Lord Aldington
+8462	Mr Zivkovic
+8463	Lord Aldington
+8463	Mr Zivkovic
+8467	AldingtonDid
+8467	Mr Gray
+8468	Mr Zivkovic
+8469	Mr Gray
+8470	Mr Zivkovic
+8472	Karl Marx
+8472	Toby Low
+8473	Mr Nikolai Tolstoy
+8473	Lord Aldington
+8473	Mr Nigel Watts
+8473	Mr Zivkovic
+8474	Mr Zivkovic
+8474	The Germans
+8476	The Slovenes
+8483	Companies Bill
+8485	Lord Williams
+8486	Industry Secretary
+8486	Conservative Party
+8486	Lord Young
+8489	Martin Linton
+8490	Mr Neil Kinnock
+8490	Prime Minister
+8490	Brian Walden
+8491	Mr Lawson
+8495	Sir Alan Walter
+8495	Prime Minister
+8495	Mrs Thatcher
+8495	Mr Kinnock
+8495	Mr Lawson
+8496	Mr Kinnock
+8499	Mrs Thatcher
+8500	Mr Lawson
+8502	Liberal Democrat Mr Charles Kennedy
+8502	Mrs Thatcher
+8502	Sir Edward
+8503	Prime Minister
+8503	Mr Lawson
+8504	But Mrs Thatcher
+8505	The Prime Minister
+8505	Khmer Rouge
+8506	Khmer Rouge
+8506	Mr Kinnock
+8507	The Government
+8508	Khmer Rouge
+8509	Pol Pot
+8510	Wednesday People
+8511	Dennis Barker
+8512	Jack Kirkland
+8514	Shadow Cabinet
+8514	Prime Minister
+8515	Blue Lights
+8533	By Paul Brown Environment Correspondent
+8534	United Nations
+8534	Mrs Thatcher
+8534	New York
+8535	Environment Project
+8535	Mrs Thatcher
+8537	United States
+8537	Soviet Union
+8538	Mr David Trippier
+8539	International Panel
+8539	Climate Change
+8540	Soviet Union
+8542	Mr Steve Elsworth
+8543	Mr Trippier
+8546	Mrs Thatcher
+8549	Mrs Thatcher
+8550	International Timber Trade Organisation
+8552	Tropical Forest Action Plan
+8552	Mrs Thatcher
+8553	Third World
+8554	Environment Secretary
+8554	Mr Chris Patten
+8554	Mrs Thatcher
+8556	By David Hencke Westminster Correspondent
+8557	National Audit Office
+8557	British Aerospace
+8557	Rover Group
+8558	Trade Secretary
+8558	Lord Young
+8559	British Aerospace
+8559	West Midlands
+8560	British Aerospace
+8561	British Aerospace
+8562	Royal Ordnance Factories
+8562	National Audit Office
+8562	British Aerospace
+8564	Birmingham Hodge Hill
+8564	British Leyland
+8564	Mr Terry Davis
+8565	Rover Group
+8568	British Aerospace
+8569	The Government
+8570	Why Nigel
+8571	By Ian Aitken
+8572	Downing Street
+8573	Mrs Thatcher
+8576	Mrs Thatcher
+8580	Mrs Thatcher
+8583	Mr Lawson
+8584	Dear Nigel
+8585	Sir Alan
+8588	Would Mr Lawson
+8588	Iron Lady
+8590	Mrs Thatcher
+8592	Mrs Thatcher
+8592	Mr Lawson
+8595	Mrs Thatcher
+8596	Sunday Correspondent
+8603	Mr Peter Brooke
+8603	Sinn Fein
+8606	T
+8608	Mr Clarke
+8612	Old Etonians
+8612	Home Office
+8613	Lord Ferrers
+8616	By Keith Harper
+8616	Patrick Wintour
+8616	David Brindle
+8618	National Health Service
+8618	Mr Kenneth Clarke
+8618	Health Secretary
+8618	Mr Duncan Nichol
+8619	Mr Clarke
+8621	Mr Nichol
+8623	Mr Nichol
+8627	The Government
+8627	Mr Clarke
+8628	Mr Clarke
+8629	Mr Nichol
+8631	Mr Nichol
+8635	Mr Clarke
+8636	Mr Bernard Weatherhill
+8636	Mr Clarke
+8636	The House
+8637	Health Secretary
+8637	Mr Robin Cook
+8637	Mr Clarke
+8638	London Ambulance Service
+8640	London Ambulance Service
+8640	Mr Chris Spry
+8641	Mr Roger Poole
+8643	Mr Clarke
+8645	Greater Manchester
+8646	Duncan Nichol
+8648	Religious Affairs Correspondent
+8648	By Walter Schwarz
+8649	General Synod
+8655	Dr Robert Runcie
+8656	Dr David Jenkins
+8659	Dr Runcie
+8661	Roman Catholics
+8663	Dr Runcie
+8664	Dr Runcie
+8665	Dr Runcie
+8666	Dr Graham Leonard
+8667	Mr John Gummer
+8669	The Venerable David Silk
+8674	Southampton Water
+8674	Mobil Petrel
+8674	Fawley Esso
+8678	Mrs Margaret Ashton
+8678	High Court
+8680	Brixton Prison
+8680	Paul Worrell
+8680	High Court
+8682	High Court
+8684	Derbyshire Peak District
+8684	Ollersett Moor
+8686	By Simon Beavis Labour Correspondent
+8689	Mr Nick Mitchell
+8692	British Telecom
+8694	Sir Anthony Hidden
+8697	National Union
+8697	Mr Jimmy Knapp
+8701	Southern Region
+8705	Mr Knapp
+8706	Sir Robert Reid
+8708	British Rail
+8711	Sunday Times
+8712	Sir Patrick Mayhew
+8712	Peter Wright
+8713	Mr Richard Aikens
+8713	Law Lords
+8714	Mr Aikens
+8717	The Attorney
+8720	Mr Aikens
+8723	The Lords
+8726	By Tim Radford Literary Editor
+8727	The Ancient Mariner
+8727	Whitbread Biography
+8728	Richard Holmes
+8728	Early Visions
+8730	William St Clair
+8730	Stephen Gill
+8730	The Godwins
+8731	Mrs Thatcher
+8731	Hugo Young
+8732	The Satanic Verses
+8732	Whitbread Novel
+8732	Salman Rushdie
+8733	The Chymical Wedding
+8733	Lindsay Clarke
+8733	London Fields
+8733	Booker Prize
+8733	Martin Amis
+8734	Jonathan Cape
+8735	My Chocolate Redeemer
+8735	Christopher Burns
+8735	Alexander Stuart
+8735	Christopher Hope
+8735	Hamish Hamilton
+8735	The Flint Bed
+8735	The War Zone
+8736	Best First Novel
+8736	James Hamilton
+8736	Best Children
+8736	Hugh Scott
+8736	Why Weeps
+8737	Walker Books
+8738	Michael Donaghy
+8740	Peter Porter
+8743	Lindsay Clarke
+8743	William Hill
+8744	Christopher Nolan
+8744	Kazuo Ishiguro
+8744	Douglas Dunn
+8744	Paul Sayer
+8746	By Clare Dyer Legal Correspondent
+8747	Crown Prosecution Service
+8747	Public Prosecutions
+8747	Mr Allan Green
+8747	British Rail
+8748	British Transport
+8749	British Transport Police
+8749	Sir Anthony Hidden
+8753	European Ferries
+8754	In Glamorgan
+8755	Law Commission
+8756	High Court Lord Justice Bingham
+8757	British Rail
+8757	In September
+8759	By David Sharrock
+8760	Sir Anthony Hidden
+8764	Mr Brian Hemingway
+8766	Mr Hemingway
+8770	Mr Hemingway
+8774	Alex McClymont
+8774	Mr Alex
+8775	Signal Passed At Danger
+8779	Clapham Junction
+8779	Mr Hemingway
+8781	British Rail
+8782	Mr Hemingway
+8790	By John Ezard
+8790	Hong Kong
+8791	Chinese Folklore
+8792	Hong Kong
+8794	Sir David Wilson
+8794	Argyle Street
+8796	Emperor Qian Long
+8797	Prince Charles
+8800	Mr Norman Foster
+8800	Shanghai Bank
+8800	Hong Kong
+8801	Buckingham Palace
+8803	By David Hearst
+8804	Northern Ireland Secretary
+8804	Sinn Fein
+8804	MR PETER
+8805	Mr Brooke
+8806	Northern Ireland
+8811	By Keith Harper
+8811	Patrick Wintour
+8811	David Brindle
+8813	Mr Kenneth Clarke
+8813	Health Secretary
+8816	National Health Service
+8816	Mr Duncan Nichol
+8817	Mr Nichol
+8821	The Government
+8821	Mr Clarke
+8822	London Ambulance Service
+8825	Mr Clarke
+8827	Health Secretary
+8827	Mr Robin Cook
+8827	Mr Clarke
+8828	Mr Roger Poole
+8830	Mr Clarke
+8831	London Ambulance Service
+8831	South West Thames
+8831	Mr Chris Spry
+8832	St John Ambulance
+8835	Mr Spry
+8836	Mr Tom Crosby
+8837	Mr Chris Humphreys
+8837	Kenneth Clarke
+8838	The Government
+8840	Mr Clarke
+8842	Greater Manchester
+8843	Duncan Nichol
+8844	David Fairhall
+8845	Emergency Powers Act
+8846	Mrs Thatcher
+8846	Mr Heath
+8850	Green Goddess
+8851	Protestant Ulster Workers
+8851	Northern Ireland
+8852	During Mrs Thatcher
+8858	Richard Norton
+8865	The Department
+8868	Peter Hetherington
+8868	West Berlin
+8869	Bob Palmer
+8870	Mr Palmer
+8871	Billy Connolly
+8872	Mr Palmer
+8872	Belong To
+8874	Glasgow District Council
+8874	Carol Laula
+8876	Joni Mitchell
+8876	Joan Baez
+8877	Mr Palmer
+8878	Bolshoi Opera
+8878	Jessye Norman
+8878	Berlin Phil
+8880	Bill Bryden
+8880	The Ship
+8882	By Andrew Culf
+8883	England General Synod
+8886	Dr Robert Runcie
+8886	The Archbishop
+8888	Dr Runcie
+8892	Dr Runcie
+8893	Rev Canon John Dale
+8896	Rev David Holloway
+8898	Mr Michael Oakley
+8900	Canon Frances Briscoe
+8901	Right Rev James Thompson
+8903	Right Rev David Jenkins
+8903	The Bishop
+8904	Right Rev Timothy Bavin
+8906	The Most Rev John Habgood
+8908	GRAHAM TURNER
+8908	General Synod
+8908	Church House
+8909	New Statesman
+8910	Mr Robert Holmes
+8910	Georgina Henry
+8910	New Statesman
+8911	Mr Holmes
+8914	New Statesman
+8914	New Society
+8918	By David Hencke Westminster Correspondent
+8919	National Audit Office
+8922	The United Kingdom Atomic Energy Authority
+8932	Appropriation Accounts
+8935	By Clare Dyer Legal Correspondent
+8936	Conservative Solicitor
+8936	Sir Ian Percival
+8936	High Court
+8937	Lord Justice Watkins
+8937	Mr Justice Garland
+8937	Mr John Samuels
+8937	Sir Ian
+8938	Bar Council
+8938	Mr Samuels
+8938	Sir Ian
+8940	Bar Council
+8940	Mr Samuels
+8940	Sir Ian
+8941	Mr Samuels
+8942	But Sir Ian
+8942	Mr Samuels
+8944	Mr Michael Beloff
+8944	Mr Samuels
+8944	Sir Ian
+8945	Mr Samuel
+8945	Sir Ian
+8946	Mr Beloff
+8949	By Andrew Rawnsley
+8951	Mrs Thatcher
+8953	Mrs Virginia Bottomley
+8958	Mrs Bottomley
+8959	Health Minister
+8960	Honourable Friend
+8960	James Paice
+8960	Mr Speaker
+8962	Mr Paice
+8963	Mrs Bottomley
+8965	Mr Paice
+8968	James Pawsey
+8970	Right Honourable Friend
+8972	Kenneth Clarke
+8972	Mr Pawsey
+8973	Health Secretary
+8973	Mr Pawsey
+8974	Prime Minister
+8974	Question Time
+8975	Sunday Correspondent
+8975	Mrs Thatcher
+8976	Prime Minister
+8979	The Tories
+8982	Neil Kinnock
+8982	Nigel Lawson
+8985	Cranley Onslow
+8988	St George
+8989	Prime Minister
+8989	Mr Onslow
+8992	St George
+8994	Security Secretary Mr Tony Newton
+8995	Mr Gerrard Neale
+8996	Mrs Virginia Bottomley
+8996	Mr Robin Cook
+8997	Mr Peter Lilley
+8999	Mr Richard Luce
+8999	Mr Mark Fisher
+9000	Stoke Central
+9002	Calum Macdonald
+9003	Western Isles
+9004	The Health Secretary
+9004	Mr Kenneth Clarke
+9005	Mr Simon Crine
+9005	Fabian Society
+9006	National Campaign
+9006	Mr Albert Booth
+9006	Low Pay Unit
+9007	Mr John Willman
+9007	Mr Crine
+9008	Employment Bill
+9009	Recording Equipment
+9009	Trade Union Act
+9009	Goods Vehicles
+9009	Pear Councils
+9009	Children Bill
+9011	By David Sharrock
+9012	Where Responsibilty Lies
+9013	Sir Anthony
+9014	Clapham Junction
+9014	Brian Hemingway
+9014	Sunday November
+9016	Derek Bumstead
+9016	Mr Hemingway
+9017	Peter Dray
+9018	James Lippett
+9019	Gordon Callander
+9020	Southern Region Testing Team
+9020	Geoffrey Bailey
+9021	John Deane
+9022	Roger Penny
+9023	Robert Davies
+9024	Graham Brown
+9025	Clifford Hale
+9027	Brian Hemingway
+9027	Clifford Hale
+9028	Health Secretary
+9029	By Patrick Wintour
+9030	Health Secretary Mr Kenneth Clarke
+9031	Public Employees
+9031	National Union
+9032	Mr Clarke
+9034	Mr Nigel Spearing
+9035	Newham North East
+9035	Mr Clarke
+9038	The Government
+9040	Mr Robin Cook
+9043	Mr Clarke
+9048	Mr Charles Kennedy
+9048	Liberal Democrat
+9051	Mr Jerry Hayes
+9052	Mr Clarke
+9055	By Paul Nettleton
+9056	Transport Secretary
+9056	MR CECIL
+9057	Sir Robert Reid
+9057	British Rail
+9058	Sir Anthony Hidden
+9058	Mr Parkinson
+9059	Southern Region
+9059	British Rail
+9063	Railway Inspectorate
+9066	Mr Parkinson
+9068	The Health Secretary
+9069	Transport Secretary
+9069	Mr John Prescott
+9071	Mr Parkinson
+9071	Mr Prescott
+9073	Anthony Hidden
+9073	David Sharrock
+9073	British Rail
+9077	The Department
+9082	Automatic Train Protection
+9087	Total Quality Management Initiative
+9088	Railway Inspectorate
+9088	The Government
+9090	By John Rettie
+9091	Russian Revolution
+9091	Communist Party
+9091	Soviet Union
+9093	Dynamo Metro
+9093	Red Square
+9094	Red Square
+9096	Olympic Stadium
+9097	Communist Party
+9097	Popular Front
+9099	Mr Boris Yeltsin
+9100	Yegor Ligachev
+9104	In Mr Gorbachev
+9105	Red Square
+9114	Moscow University
+9116	Soviet Union
+9118	Red Square
+9119	Whatever Mr Gorbachev
+9119	Red Square
+9123	Waterloo Station
+9123	David Sharrock
+9124	Clapham Junction
+9125	Driver Mr Alex
+9125	Alex McClymont
+9138	Nearby St George
+9141	Mr Roger Calvert
+9144	By David Sharrock
+9174	By David Gow Education Editor
+9175	National Union
+9178	British Medical Association
+9178	Royal College
+9180	Doug McAvoy
+9180	Mr Doug
+9182	McAvoy
+9184	McAvoy
+9185	Mr Gordon Green
+9186	Mr Jack Straw
+9189	By Richard Norton
+9191	United Nations War Crimes Commission
+9193	Foreign Office
+9195	Dr Michael Palumbo
+9195	Austrian President
+9195	Mr Kurt Waldheim
+9196	The Fascist Legacy
+9196	Pledge Betrayed
+9197	Marshal Pietro Badoglio
+9197	Red Cross
+9198	Prime Minister
+9200	Italian Government
+9203	General Mario Roatta
+9205	General Bellomo
+9205	One Italian
+9208	Assistant Chief Constable David Mellor
+9208	South Wales
+9210	Mr Robert Colin Burns
+9210	Roman Catholicism
+9210	Co Antrim
+9211	Royal Ulster Constabulary
+9213	PAUL FAITH
+9215	By David Bean
+9218	Boggerthwaite November Owl Pie
+9219	Dehydrated Rambler
+9219	Rory McGurk
+9219	Mr Rory
+9220	Cumbo Boggerburger
+9221	Saddle Bar
+9228	November Owl Pie
+9229	The Pie
+9232	November Oil Pie
+9248	Royal Society
+9252	Trades Descriptions Act
+9254	Second Inspector
+9259	Why Charlotte Du Cann
+9264	New Age
+9270	Kate And Allie
+9276	Mike Leigh
+9296	Guardian Women
+9296	Louise Chunn
+9297	Geoffrey Beattie
+9298	HE WAS
+9306	Jimmy Boyce
+9311	Midland Bank
+9317	Midland Bank
+9318	Jimmy Boyce
+9329	Midland Bank
+9338	Midland Bank
+9340	Except Jimmy Boyce
+9343	Colin Appleby
+9346	Colin Appleby
+9358	Sheffield Development Corporation
+9359	Richard Holmes
+9361	Midland Bank
+9363	Jimmy Boyce
+9374	Typical Socialist
+9378	Colin Appleby
+9381	Socialist Republic
+9381	South Yorkshire
+9383	Sheffield Shares
+9385	Richard Holmes
+9387	The Midland Bank
+9391	Keith Wells
+9392	The Maiden City
+9392	United Kingdom
+9393	Sheffield Shares
+9393	Keith Wells
+9398	Stocksbridge Engineering Works
+9399	The Strength Behind Engineering Progress
+9400	Gibbs Building Contractors
+9404	Stocksbridge Engineering Works
+9404	Gibbs Building Contractors
+9405	Colin Appleby
+9405	Midland Bank
+9407	Sheffield Shares
+9410	Colin Appleby
+9411	Jimmy Boyce
+9412	Richard Holmes
+9418	Richard Holmes
+9419	Jimmy Boyce
+9421	Keith Wells
+9426	Sheffield Development Corporation
+9426	Geoffrey Beattie Richard Holmes
+9426	GEOFFREY BEATTIE
+9426	Jimmy Boyce
+9427	Law Report
+9429	Bench Divisional Court Sandwell Metropolitan Borough Council
+9429	Bujok Before Lord Justice Watkins
+9429	Mr Justice Hutchison November
+9430	Public Health Act
+9434	Mrs Bujok
+9435	Public Health Act
+9435	In September
+9435	Mrs Bujok
+9437	Mrs Bujok
+9438	Mrs Bujok
+9443	Mr Justice Hutchison
+9454	For Mrs Bujok
+9457	Lambeth London Borough Council
+9457	Lord Justice Glidewell
+9457	In Warner
+9459	His Lordship
+9460	Lord Justice Watkins
+9462	Mrs Bujok
+9467	Elizabeth Norman
+9467	Michael Arnold
+9467	John Cherryman
+9467	Mrs Bujok
+9468	Shiranikha Herbert
+9469	Tim Radford We
+9472	The British
+9476	The National Health Service
+9485	In Britain
+9486	The British
+9489	The Roman Emperors
+9490	New Year
+9491	Imperial Rome
+9493	Emperor Tiberius
+9497	Edward Gibbon
+9497	Roman Empire
+9516	Tom Shakeshaft
+9527	Prince Charles
+9528	Mrs Thatcher
+9533	Mr Ken Hind
+9533	West Lancs
+9535	Ken Hind
+9549	Mr Leatherbarrow
+9559	Michele Hanson
+9560	Beverley Lewis
+9560	Adrienne Baker
+9561	Education Act
+9569	The Disabled Persons Act
+9570	Jonathan Rixon
+9571	Seckels Syndrome
+9577	When Jonathan
+9586	Ian Squires
+9590	Social Services
+9590	John Rea Price
+9595	Griffiths Report
+9596	Unless Griffiths
+9596	Rea Price
+9597	Social Services Inspectorate
+9602	Day Services
+9606	Thomas Delarue School
+9606	Richard Tomlinson
+9619	Lifestyles Project
+9619	In Herefordshire
+9620	Alternative Lifestyles
+9620	The Spastics Society
+9621	The Open University
+9665	OVERNIGHT FILE PAGE
+9667	London Authorities
+9667	Sir Peter Imbert
+9668	Scotland Yard
+9669	Sir Kenneth Newman
+9669	Walter Easey
+9673	Sir Peter
+9675	Sir Kenneth
+9676	Mr Easey
+9680	Clive Pearman
+9680	Notting Hill
+9684	Margaret Hodge
+9690	OVERNIGHT FILE PAGE
+9691	Sir Peter Imbert
+9692	International Police Exhibition
+9692	Metropolitan Police
+9692	Sir Peter Imbert
+9692	THE EXTENT
+9693	Sir Peter
+9696	Sir Kenneth Newman
+9696	Sir Peter
+9698	Sir Kenneth
+9699	Multicultured Society
+9699	Preparing Police
+9699	Sir Peter
+9700	European Atlantic Group
+9700	Sir Kenneth Newman
+9700	Free Societies
+9700	Public Order
+9701	Bramshill Police College
+9703	Sir Kenneth
+9704	In Britain
+9705	As Lord Scarman
+9708	All Saints Road
+9708	Broadwater Farm
+9709	Sir Kenneth
+9711	Home Office
+9711	Sir Kenneth
+9717	Sir Kenneth
+9719	Like Sir Kenneth
+9719	Sir Peter Imbert
+9721	Sir Peter
+9725	Sir Peter
+9729	Sir Kenneth Newman
+9730	Sir Peter
+9731	Metropolitan Police
+9732	Sir Peter
+9735	Sir Peter
+9742	OVERNIGHT FILE PAGE
+9743	Metropolitan Police
+9743	Met Despite
+9744	Scotland Yard
+9745	Metropolitan Commissioner
+9745	Sir Peter Imbert
+9747	Criminal Evidence Act
+9747	Sir Peter
+9748	Scotland Yard
+9748	Sir Peter
+9749	Labour Home Office
+9749	David Waddington
+9749	Home Secretary
+9749	Sir Peter
+9751	Sir Peter
+9753	Wolff Olins
+9753	Sir Peter
+9758	Guildford Four
+9759	Islington Crime Survey
+9761	Deputy Commissioner
+9761	John Dellow
+9762	Wolff Olins
+9763	The Wolff Olins
+9765	Deputy Assistant Commissioner Charles Pollard
+9765	Commander Alec Marnoch
+9765	Plus Programme
+9768	Sir Peter Imbert
+9768	Plus Programme
+9768	Guildford Four
+9773	To Serve
+9777	Plus Programme
+9778	Crime Investigation Priority Project
+9780	Wolff Olins
+9788	Her Majesty
+9790	Sir Peter Imbert
+9790	Wolff Olins
+9794	Commons Home Affairs
+9795	Scotland Yard
+9807	Sir Peter Imbert
+9807	West Midlands
+9807	Geoffrey Dear
+9807	Paul Condon
+9810	Police Federation
+9811	OVERNIGHT FILE PAGE
+9813	Skate Electic British
+9813	Joanne Conway
+9814	North Shields
+9816	By Russell Thomas
+9817	Mick Mills
+9817	Alan Ball
+9818	Stoke City
+9818	But Ball
+9819	World Cup
+9820	Second Division
+9821	Victoria Ground
+9825	Mike Pejic
+9825	Port Vale
+9827	Colin Appleton
+9827	Cyril Knowles
+9827	Terry Dolan
+9827	Peter Reid
+9828	The Bristol Rovers
+9828	Third Division
+9828	Denis Dunford
+9828	Nigel Martyn
+9828	Gary Penrice
+9829	Crystal Palace
+9830	Aston Villa
+9830	Andy Platt
+9831	Ken Wheldon
+9834	Vauxhall Conference
+9834	Merthyr Tydfil
+9834	The Welsh Cup
+9834	Vetch Field
+9835	Littlewoods Cup
+9836	By Cynthia Bateman
+9837	Littlewoods Cup
+9839	Nat Lofthouse
+9840	The Wanderers
+9840	Phil Neal
+9841	County Ground
+9842	The Swindon
+9848	Ossie Ardiles
+9850	The Second Division
+9853	But Swindon
+9854	Bolton Wanderers
+9855	Swindon Town
+9856	Whitley Bay
+9858	By David Foot
+9859	MARCO GABBIADINI
+9859	Littlewoods Cup
+9859	England Under
+9860	Roker Park
+9863	Shaun Brooks
+9864	John Williams
+9875	Leonard Barden
+9875	Soviet Union
+9877	Nigel Short
+9878	Ye Jiangchuan
+9879	Ice Skating
+9880	Skate Electric British
+9880	Steve Cousins
+9881	Joanne Conway
+9881	Gina Fulton
+9882	Simon Briggs
+9883	Kathryn Pritchard
+9885	By Bob Fisher
+9886	Whitbread Round
+9886	Southern Ocean
+9886	Lawrie Smith
+9886	World Race
+9886	IN WHAT
+9891	Grant Dalton
+9891	New Zealand
+9894	Peter Blake
+9895	Tracy Edwards
+9896	Rucanor Sport
+9897	Featherstone Rovers
+9897	New Zealanders
+9897	Rugby League
+9898	By Paul Fitzpatrick
+9899	Featherstone Rovers
+9899	Post Office Road
+9899	New Zealanders
+9902	Francis Leota
+9903	George Mann
+9903	St Helens
+9904	Trevor Clark
+9912	Featherstone Rovers
+9913	New Zealanders
+9916	Paul Fitzpatrick
+9916	GARRY SCHOFIELD
+9916	Regal Trophy
+9917	Great Britain
+9918	John Bentley
+9919	Great Britain
+9920	Stones Bitter Championship
+9920	Craig Richards
+9921	Andy Bateman
+9921	St Helens
+9922	David Hopps
+9923	Michael Knighton
+9923	Football League
+9923	John Smart
+9923	SHADES OF
+9924	Manchester United
+9924	Stretford End
+9928	Old Trafford
+9930	John Hall
+9932	Victoria Ground
+9933	Philip Benison
+9934	Roland Boyes
+9938	Vauxhall Conference
+9942	With Hartlepool
+9946	The Hartlepool Mail
+9947	Darlington Brian Little
+9953	Frank Gray
+9954	Kevan Smith
+9954	David Cork
+9955	Andy Toman
+9957	John Borthwick
+9958	Richard Corden
+9961	When Corden
+9962	But Corden
+9969	Fourth Division
+9970	Lincoln City
+9971	Fourth Division
+9973	Healthful Hartlepool
+9974	Vauxhall Conference
+9974	Brian Little
+9976	By Pat Rowley
+9977	IF ENGLAND
+9977	World Cup
+9979	Bernard Cotton
+9980	World Cup
+9981	But Cotton
+9983	West Germany
+9984	Los Angeles Olympics
+9984	World Cup
+9986	Should England
+9987	Intercontinental Cup
+9987	New Delhi
+9987	World Cup
+9988	World Cup
