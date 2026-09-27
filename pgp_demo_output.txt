@@ -1,0 +1,53 @@
+
+===== GnuPG version =====
+gpg (GnuPG) 2.4.4
+libgcrypt 1.10.3
+
+===== Step 1: Generate RSA 3072-bit key pair =====
+gpg: keybox '/home/user/Labs/gpg_demo_home/pubring.kbx' created
+gpg: /home/user/Labs/gpg_demo_home/trustdb.gpg: trustdb created
+gpg: directory '/home/user/Labs/gpg_demo_home/openpgp-revocs.d' created
+gpg: revocation certificate stored as '/home/user/Labs/gpg_demo_home/openpgp-revocs.d/8A46D99120C329CFBD055446AAE92B4C929ACEB4.rev'
+gpg: checking the trustdb
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
+gpg: next trustdb check due at 2027-09-27
+pub   rsa3072 2026-09-27 [SCE] [expires: 2027-09-27]
+      8A46D99120C329CFBD055446AAE92B4C929ACEB4
+uid           [ultimate] Lab Student <student@example.com>
+
+
+===== Export public key (what you would share with others) =====
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQGNBGq5TZQBDADHO/N06xHlzRibr2U2mZQ1wRurK3OSWRQgh1HgwgPnsz2lT4AQ
+...
+
+===== Step 2: Plaintext message =====
+Meet me after the party. This message is confidential.
+
+===== Encrypt with the recipient's PUBLIC key =====
+-----BEGIN PGP MESSAGE-----
+
+hQGMA6rpK0ySms60AQwAifsf0mffBwfn9Z3y3sIseDiVOvZ3Oy9BWFmykWaMBozV
+t+OClJcvh+Fs4KeIAQN3/Zys7B1G5QLCCr2pGAEWQKuwF6Xq8g5teMcxlYPDnfsL
+gx3VAQJyLiRbHgCRo/Fmal1E/4xms+aqIZUoxkF57NaG45xTgFCa3Uf1UsbWF14j
+SN/AHBfnzcQwkhwrV+ltRrkyIozArYwGpboPLN2s5ZxXbpQM6+/7hiPjklwTUKWc
+/gDGD03yW6xgn5VROUcNKvYFlD0tMYMzWCS5gMDHmPY+j0FiqI7942CAaEpDslIL
+8CQ5MlCAuNlV7xVcFFrZuzBwe5PJHFOdIaV0tdVwamvkhEMfdEX7fVG1feU7zc+b
+VCcCTOhSqb7t9E38yOe+VCtjvmz2gnT/JEEoRp1/N/ddTh/MCVh3U4fMKWDx0p1I
+ai6H4esmQCIVBgbEyxbXJ/V9KBnKRJfqqTUUIjtUcqyR94Sl5G7AhZAN1etYGAr6
+/w9d8jhH3mBUkmp7b2gA1IEBCQIQ6Ak7kNMoqOZDUmcBb3ow66491cNf9pf3u2wH
+r1t7U/WCm5YnrndgU7L25xj1e6jplt3APdKkX7fD9n8cmeKLwSC8oGJMDmoC87r3
+41QcN+1gYEbHMwIgaQL1PStMViAfd1ZQgNyK6w+z5fQvwMdKzadkpCjjd9+oyHlq
+2fo=
+=uPlv
+-----END PGP MESSAGE-----
+
+===== Step 3: Decrypt with the PRIVATE key (requires passphrase) =====
+gpg: encrypted with rsa3072 key, ID AAE92B4C929ACEB4, created 2026-09-27
+      "Lab Student <student@example.com>"
+Meet me after the party. This message is confidential.
+
+===== Verify decrypted text matches original =====
+SUCCESS: decrypted.txt is identical to message.txt
