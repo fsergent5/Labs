@@ -1,0 +1,3655 @@
+2	Guy Brett
+5	Maya Deren
+10	Latin
+15	Latin
+16	Spanish
+16	Latin
+16	Peru
+20	Spanish
+33	Luis Enrique
+34	Spanish
+34	Church
+39	Peru
+41	Dr Tord
+42	World
+43	Bibles
+44	Archangel Raphael
+44	Luis
+44	Riano
+44	Cuzco School
+46	San Francisco
+46	La Paz
+47	Bernardo
+47	Cuzco
+48	Cuzco
+48	Mexico
+49	Leopoldo
+50	Cuzco
+52	Cuzco
+55	Cuzco
+55	Bishop Manuel
+55	Mollinedo
+55	Angulo
+56	El
+56	Spanish
+56	Diego Quispe Tito
+57	Saint Isidore
+57	Spanish
+57	World
+59	Santiago
+59	James
+59	Santiago
+60	Church's
+60	State's
+61	Amaru
+62	Pelican
+62	Art
+62	Art
+62	Spain
+62	Portugal
+63	Spanish
+69	Church's
+70	Teresa Gisbert
+70	Lima
+72	Pelican
+72	Martin Soria
+73	Teresa Gisbert
+73	Diego Quispe Tito's
+73	Cuzco
+73	Andes
+75	Christian
+79	Faith
+82	Andes
+82	Angels
+82	Guns
+84	Julia
+84	Herzberg
+87	Sermons
+88	Cross
+93	Church
+93	Spanish
+95	Herzberg
+96	Far
+96	Spanish
+102	Church
+102	State
+102	Spanish
+105	Church
+105	State
+106	Leopoldo
+108	Puno
+108	San Lorenzo
+108	Archangel Michael
+108	Seven
+109	Pope Pius
+109	Archangel Michael
+109	Latin
+110	Archangel
+110	Gun
+110	Cuzco School
+112	Lima
+113	Archangel
+113	Gun
+113	Master
+113	Jos
+113	Lopez
+113	Rios
+114	Lake
+114	School
+116	La Paz
+117	Cuzco
+119	Peru
+122	Spanish
+122	Cuzco
+123	Cuzco
+124	Spanish
+125	Spanish
+126	Spanish
+127	Teresa Gisbert
+132	Eduardo
+132	Christian
+133	Christ Child
+134	Botero
+138	Latin
+139	Latin
+139	Mexican
+139	Guillermo
+140	Juan Davila
+146	Mexican
+146	Mexican
+147	Latin
+147	Fernando Botero
+147	Latin
+148	Cuzco
+150	Pablo Butcher
+151	Warrior
+151	Archangel Michael
+152	Stone
+154	Glauber Rocha
+155	Glauber
+156	Glauber Rocha
+156	Latin
+158	Hunger
+158	World
+158	Glauber
+162	Glauber's
+162	Latin
+163	Teresa Gisbert
+163	Leopoldo
+163	Julia
+163	Herzberg
+163	dr Luis Enrique
+165	Oriana Baddeley
+168	Latin
+170	Mexican
+170	Frida
+171	Diego Rivera
+171	Mexico
+171	York
+171	Latin
+173	Laura Mulvey
+173	Peter Wollen
+173	Hayden Herrera's
+174	Frida
+174	Paul Leduc
+175	Elle
+175	Frida
+175	Mexico
+175	Fig
+175	Frida
+175	Mexico
+175	Fig
+176	Madonna
+178	Elle Magazine
+180	Diego Rivera
+181	While
+182	Van
+184	Van
+185	Mexican
+185	Fig
+186	Elle
+187	Elle
+187	Herrera's
+188	Mexican
+189	Fig
+191	Mexico
+192	While Elle
+192	Fig
+192	Mexico
+198	Elle Magazine
+202	Hair
+202	Fig
+202	Rivera's
+203	Mask
+203	Fig
+207	Mexico
+208	Tree
+208	Hope
+208	Fig
+209	Mexican
+212	Mexico
+212	Mexico's
+213	Mexico's
+224	Frida
+225	Art
+225	York
+227	Frida
+227	Mask
+228	Coll
+229	Dolores Olmeda
+231	Frida
+231	Tree
+231	Hope
+232	Coll
+233	Isidore Ducasse Fine Arts Inc
+236	Mexican
+237	Breton
+238	Dorothy Hale
+238	Fig
+240	Hale's
+240	York
+241	Hale's
+242	Hale
+244	Hale's
+248	Hale's
+248	Dorothy Hale
+248	Vanity Fair
+248	Clare Boothe Luce
+249	Luce
+250	Hale
+250	Hale's
+252	Hale
+252	York
+253	Dorothy Hale's
+254	Dress
+255	Hale's
+257	Jean Franco
+259	Frida
+259	Frida
+260	Mexico's
+260	La
+260	La
+260	Paz's
+261	Spanish
+263	La
+263	Mestizo
+264	Spanish
+265	Mexico
+268	Frida
+268	Dorothy Hale
+269	Phoenix Art
+269	Arizona
+271	Dress
+271	Fig
+273	Dress
+273	Fig
+274	Mexico
+275	Latin
+277	Mexico's
+280	Dress
+283	Mae
+283	Liberty
+285	Frida
+285	Dress
+286	Leo
+288	Church
+288	Wall Street
+294	Liberty
+295	Fig
+300	Frida
+300	Border
+301	Coll
+302	Mrs Manuel
+304	Frida
+305	Mexico
+307	Valerie Fraser
+309	Art
+309	Florentine
+311	Latin
+311	Latin
+312	Oxford Art
+312	Latin
+314	Latin
+315	Mexican Alberto
+315	Spain
+316	Mexican
+316	Goldman
+316	Luis Cardoza
+316	Ida Rodriguez
+316	Mexican
+316	Spain
+316	Mexico
+318	Octavio Paz's
+318	Spanish
+319	Paris
+319	Breton
+320	Mexico
+320	Mexican
+321	Mexican
+322	Mexican
+323	Spanish
+323	Spanish
+323	Mexican
+323	Spanish
+324	Mexican
+325	Spanish
+325	Fig
+327	Goya
+327	Golden Age
+327	El Greco
+327	Pereda
+327	Leal
+328	El Greco
+328	Latin
+328	Christian
+328	Spanish
+329	Goya's
+329	Spanish
+330	Latin
+331	Latin
+332	King
+332	Philip
+333	Juan Bautista Maino
+333	Bahia
+333	Bahia
+333	Brazil
+333	Spanish
+333	Dutch
+334	Fig
+334	While
+334	Dutch
+334	Philip
+335	Olivares
+336	Spanish
+338	Queen
+340	Western
+340	Masters
+342	Reynolds
+343	Latin
+344	Latin
+347	Latin
+347	Latin
+348	Masters
+348	Latin
+351	Mona Lisa
+352	Bourbon
+352	Jasper Johns'
+353	Spanish
+353	Mexico
+353	Spanish
+353	Mexican
+354	Spanish
+354	Goya
+354	Picasso
+354	Picasso
+354	Mexican
+356	Alberto
+356	Lot
+356	Lot
+356	Daughters
+357	Jorge Pablo
+357	Mexico
+358	Mexico City
+359	Catalan
+359	Mexico
+360	Spain
+361	Paris
+362	Spain
+362	Spanish
+362	Golden Age
+363	Golden Age
+363	Tiburcio
+365	Mexican
+367	Xavier
+367	Mexico City
+368	Mexican
+368	Jos
+368	Luis Cuevas
+370	Latin
+372	Juan Bautista
+372	Maino
+372	Bahia
+373	Madrid
+373	Prado
+374	Uta
+374	Spanish
+375	Goya's Queen Maria Luisa
+375	Francisco Lezcano
+375	Fig
+375	Spanish
+376	Maria Luisa
+376	Francisco Lezcano
+378	Francisco Lezcano
+379	Lezcano
+380	Queen Maria Luisa
+380	Charles
+380	Spanish
+381	York
+382	Queen Mariana
+382	Austria
+382	Philip
+382	Fig
+387	Fig
+391	Church's
+393	Francisco Lezcano
+393	El Nino
+393	Child
+394	Madrid
+394	Prado
+396	Queen Mariana
+397	Madrid
+397	Prado
+398	Black Queen
+398	Mariana
+398	Fig
+405	La Reina
+407	Latin
+408	Mexico
+410	Alberto
+410	Reina Mariana
+411	Maurice
+411	Paris
+412	Mexico
+414	Alberto
+414	Reina
+414	Black Queen
+415	Private
+418	Fig
+423	Mexican
+424	Mariana
+425	Spanish Golden Age
+428	Mariana's
+429	Mariana
+430	Queen Mariana
+430	Maria
+430	Queen
+430	Heaven
+431	Virgin
+431	Christ
+431	World
+431	Christ
+432	Maria
+432	Marias
+433	Mexico
+433	Wars
+433	Virgin
+433	Guadalupe
+433	Virgen
+433	Remedios
+434	Mariana
+435	Marina
+435	Cort
+435	Mexico
+435	Virgin Maria
+435	Marina's
+436	Marina
+436	Mexico
+437	Mariana
+438	Philip
+438	Baltasar Carlos
+438	King
+438	Charles
+442	Western
+442	King
+444	Alberto
+444	Reina Mariana
+446	Las
+446	Fig
+446	Philip
+446	Mariana
+448	Las
+449	Palacio
+449	Queen Mariana
+449	Las
+449	Francisco Lezcano
+449	El Ni
+449	Fig
+450	Lezcano
+450	Queen Mariana
+452	Las
+453	Palacio
+453	Queen Mariana
+453	Perro
+453	Reina Mariana
+453	Dog
+453	Queen Mariana
+453	Fig
+455	Mariana
+455	Queen
+458	Las
+459	Madrid
+459	Prado
+461	Alberto
+461	Palacio
+462	Maria Rodriquez
+462	Mexico
+463	Mexico
+464	Mexico
+465	Queen
+465	Fig
+466	Mariana
+468	Mexican
+468	Mariana
+468	Latin
+470	Mexican
+471	Day
+471	Mexico
+471	Spanish
+474	Spanish
+475	Mariana
+475	Philip
+475	Spanish
+475	Mexico
+475	Spain
+476	Isabella
+476	Castile
+476	Mariana's
+476	Columbus
+476	Fig
+477	Isabella's
+477	Ferdinand's
+478	Spain
+478	Mexico
+479	Mariana
+479	Spain
+479	Mexican
+479	Mexican
+480	Virgin Maria
+482	Alberto
+482	Perro
+482	Reina Mariana
+482	Dog
+482	Queen Mariana
+485	Alberto
+485	La Reina
+485	Queen
+486	Luis Felipe
+486	Valle
+486	Mexico
+487	Bob
+487	Mexico
+488	Spanish
+488	Picasso
+489	Las
+489	Picasso's
+489	Spanish
+490	Las
+490	Mariana's
+491	Nicolas
+493	Edouard
+493	Picasso's
+493	Delacroix
+495	Spanish
+495	Mexico
+496	Latin
+497	Latin
+498	Siqueiros
+499	Siqueiros
+499	Mexican
+501	Ferdinand
+501	Isabella
+501	Kings
+501	Casa
+501	Las Conchas
+501	Salamanca
+503	Paul Wood
+504	Alex
+504	Press
+504	Basil Blackwell
+504	Oxford
+517	Marx
+518	Given
+522	Charles Jencks
+522	Linda Hutcheon
+522	Eugene Lunn
+523	Vienna
+523	Moscow
+523	Eliot
+523	Joyce
+524	Jameson
+524	Lash
+529	Dews
+529	Foucault
+531	Quine
+531	Davidson
+531	Popper
+531	Lakatos
+533	Foucault
+533	Davidson
+534	Marx
+534	Heidegger
+539	Boom
+544	Terry Eagleton
+548	Patton
+550	Foucault's
+550	Fredric Jameson
+561	Franco Moretti
+561	Carl Schmitt
+562	Michael Lowy
+569	Marshall Berman
+569	Perry Anderson
+570	Weber's
+571	Marx's
+577	Luk
+578	Luk
+583	Marx
+583	Freud
+584	Luk
+585	Luk
+585	Luk
+585	Brecht's
+585	Luk
+586	Peter
+590	Weimar
+593	Riviera
+593	Benjamin
+593	Benjamin
+593	Klee
+596	Perry Anderson's
+600	Anderson's
+601	Second World War
+604	Trotsky
+607	Peter
+607	Duchamp's
+607	Van
+610	Pollock
+610	Warhol
+612	Brecht
+620	Luk
+620	Brecht
+621	Brecht's
+621	Luk
+622	Nor
+627	World War
+630	Art
+641	Walter Benjamin
+642	Author
+646	Benjamin's
+650	Rome
+656	Art
+661	Gerasimov
+666	Arthur
+669	Arthur
+677	Walter Benjamin
+678	Benjamin
+682	Benjamin
+689	Iskra
+689	Benjamin
+692	Certain
+695	Like
+698	Art
+698	Western Art
+698	Martin Kemp
+698	Yale
+698	Press
+698	Haven
+700	Giorgio
+700	Santillana
+702	Alberti
+702	Leonardo
+703	Santillana's
+704	Santillana
+706	Kepler
+706	Newton
+707	De Santillana
+710	Santillana's
+712	Martin Kemp
+715	Santillana's
+715	Kemp's
+717	Kemp's
+717	Santillana's
+718	Kemp
+721	Kemp
+722	Kemp
+722	Turner
+725	Kemp's
+728	Lorenzetti
+729	Alberti
+737	Mantegna's Camera
+737	Pozzo's
+737	San
+738	Kemp
+739	Kemp
+742	Newton's
+743	Newton
+745	Newton's
+746	Moses Harris
+747	Louis Castel
+747	Goethe
+750	Turner
+750	Harris
+750	Goethe
+751	Ogden Rood's
+751	James Clerk Maxwell's
+752	Kemp's
+754	Kemp
+756	Kemp
+759	Kemp
+762	Kemp
+763	Kemp
+768	Kemp's
+769	Western
+770	Brook Taylor
+771	Taylor
+771	Royal
+772	Kemp
+772	David Brewster
+772	Newton's
+773	Kemp's
+775	Kemp
+776	Kemp
+778	Newton
+780	Kemp's
+783	Kemp's
+785	Kemp
+787	Kemp's
+790	Many
+792	Learn
+795	Kemp
+795	Turner
+799	Plato
+803	George Berkeley
+803	Essay
+804	Berkeley
+805	Berkeley's
+806	Berkeley
+807	Berkeley
+809	Berkeley
+809	Kemp
+813	Kemp
+814	Kemp
+819	Kemp
+821	Kemp
+822	Newton's
+824	Lodovico
+826	Kepler
+827	Kepler
+828	Kepler's
+832	Kepler
+835	Leonardo
+836	Kepler
+836	Kemp's
+838	Simon
+838	Girard
+839	Newton
+840	Kemp's
+840	Kepler
+841	Lambert
+841	Monge
+844	Santillana's
+844	Kemp's
+846	Kemp
+851	Iwona
+851	Mark Francis
+851	Peter Wollen
+851	Malcolm Imrie
+851	Verso
+853	Passage
+853	People
+853	Brief Moment
+854	Elisabeth Sussman
+854	Press
+854	Boston
+857	Passage
+857	People
+857	Brief
+857	Mus
+857	Georges
+857	Arts
+857	Art
+857	Boston
+858	Mark Francis
+858	Peter Wollen
+858	Paul
+859	Francis
+859	Wollen
+862	Dada
+863	Passage
+863	People
+863	Brief Moment
+863	Boston
+863	Guy Debord
+865	Ralph Rumney's
+865	Venice
+865	Mich
+865	Bernstein
+868	Boston
+868	Mark Francis
+869	Francis
+871	Francis
+872	Boston
+872	Passage
+873	Duchamp's
+877	Boston
+877	Getty Grant
+877	Council
+877	Arts
+877	Lila Wallace Reader's
+877	Fund
+877	Wing
+877	Art
+877	York
+878	Fran
+878	Copenhagen
+878	Banco San Paulo
+878	Turin
+878	Becks Bier
+878	Friends
+879	Jorn
+879	Debord
+880	Boston
+882	Francis
+883	Boston
+886	Francis
+886	Debord's
+889	Wollen
+896	Debord's
+899	Debord
+902	Bernstein
+902	Debord
+905	Wollen
+907	Wollen
+907	Breton
+908	Luk
+908	France
+909	Wollen's
+909	Boston
+909	Thomas
+909	Levin's
+909	Guy Debord
+911	Levin
+911	Debord
+912	Debord's
+912	Levin
+913	Levin's
+913	Debord
+914	Debord
+914	Godard's
+914	Godard's Vent
+914	Debord
+915	Debord's
+915	Levin's
+916	Debord's
+917	Debord's
+917	Levin
+917	France
+919	Levin
+919	Debord
+920	Sade
+921	Levin's
+921	Debord
+922	Levin
+922	Debord
+923	Hence
+923	Debord
+923	Levin
+925	Levin's
+925	Debord
+927	Levin
+927	Debord
+928	Levin's
+928	Dada
+928	Chaplin
+928	Debord
+930	Levin
+931	Levin
+931	Debord
+932	Levin
+933	Levin's
+934	Hegel's
+935	Debord
+935	Levin
+936	Debord
+936	Levin's
+937	Levin's
+939	Debord's
+939	Levin's
+940	Levin
+942	Debord
+947	Russian
+947	Levin
+947	Debord's
+948	Luk
+948	Adorno
+949	Levin's
+949	Debord
+952	Levin's
+952	Debord
+953	Levin
+953	Debord
+954	Debord
+956	Levin's
+957	Debord's
+958	Levin
+959	Berlin Dada
+960	Dada
+964	King
+964	Jamie Reid
+964	Vivienne Westwood
+964	King
+965	Marx's
+965	Luk
+965	Henri Lefebvre
+967	Anton
+967	Council
+967	World War
+969	Wollen
+969	Boston
+973	Paris
+974	Boston
+975	Bernstein
+975	Debord
+979	World
+983	Levin's
+986	Debord
+991	Frank Mort
+991	Western
+993	Boston
+1000	Levin
+1003	Debord's
+1004	Bernstein
+1007	Art
+1007	Ralph
+1008	Francis
+1008	Art
+1013	Debord
+1015	Merz
+1015	Buren
+1015	Art
+1017	Given
+1017	Debord
+1018	Elisabeth Sussmann
+1020	Boston
+1021	George Steiner's
+1021	Times
+1022	Steiner
+1022	Debord
+1023	Christopher Gray
+1025	Gray's
+1029	Debord's
+1034	Rosa
+1039	Frankfurt School's
+1039	Debord
+1043	Council
+1044	Like
+1047	Raymond Williams
+1056	William Morris
+1057	Morris
+1058	Marx
+1059	Luk
+1060	Luk
+1060	Marx
+1061	Jorn's
+1071	France
+1077	Feuerbach
+1079	Raymond Williams
+1088	State
+1111	Law
+1119	Kingdom
+1122	State's
+1131	Home
+1131	Board
+1131	Lord Chief Justice
+1132	Lord Chief Justice
+1133	Home Office
+1134	Home
+1141	House
+1141	Lords
+1141	Life
+1147	Many
+1166	House
+1166	Lords
+1171	Nedrick
+1181	House
+1181	Lords
+1181	Cunningham
+1183	House
+1183	Lords
+1193	Cunningham
+1193	Lord Edmund-Davies
+1215	Moloney
+1217	Model
+1217	Code
+1219	Model
+1219	Code
+1220	Model
+1220	Code
+1222	Law
+1233	Many
+1240	Royal
+1278	Court
+1280	Court
+1286	Doughty
+1300	House
+1300	Lords
+1302	House
+1302	Lords
+1309	Court
+1309	Newell
+1314	Camplin
+1315	Camplin
+1320	Mancini
+1334	Model
+1334	Code
+1344	House
+1344	Lords
+1344	Howe
+1347	House
+1347	Lords
+1353	Killings
+1353	Use
+1353	Force
+1355	McKay
+1357	Howe
+1366	Council
+1367	Law
+1368	Zecevic
+1369	Court
+1374	Reason
+1381	Byrne
+1391	Health
+1402	Butler
+1405	Butler
+1406	Butler
+1412	Parliament
+1423	Law
+1423	Royal College
+1426	Law
+1431	Killing
+1436	Law
+1438	Many
+1439	McShane
+1441	Law
+1443	Mercy Killing
+1446	Law
+1449	Dell's
+1470	Lord Kilbrandon's
+1480	Model
+1480	Code
+1518	Caldwell
+1524	Andrews
+1527	House
+1527	Lords
+1531	Cato
+1531	Court
+1532	Dalby
+1533	Court
+1533	Dalby
+1535	Church
+1536	House
+1536	Lords
+1537	Church
+1538	Dawson
+1539	Court
+1542	Seymour
+1544	House
+1544	Lords
+1545	Caldwell
+1545	Lawrence
+1546	House
+1546	Lords
+1547	Seymour
+1547	House
+1547	Lords
+1548	Gross
+1550	Many
+1551	Finney
+1552	Bateman
+1552	Court
+1553	Seymour
+1553	Lamb
+1555	Court
+1556	Caldwell
+1557	Caldwell
+1557	Lamb
+1562	Senior
+1562	People
+1563	Lowe
+1564	Court
+1569	Senior
+1569	Lowe
+1574	Stone
+1575	Court
+1579	Caldwell
+1580	Caldwell
+1581	Seymour
+1581	Stone
+1586	Caldwell
+1588	Reasons
+1590	Pike
+1592	Law
+1616	Road
+1618	Lawrence
+1619	Many
+1623	Seymour
+1623	House
+1623	Lords
+1623	Lawrence
+1632	James
+1632	Law
+1634	Road
+1634	Law
+1640	Code
+1641	Caldwell
+1641	Lawrence
+1646	Much
+1649	Lawrence
+1652	Krawec
+1652	Court
+1659	Lord Chief Justice
+1659	Krawec
+1669	True
+1694	Sheen
+1701	Health
+1701	Work
+1702	Sports Grounds
+1710	Model
+1710	Code
+1725	Given
+1754	Person
+1769	Bodily Harm
+1770	Person
+1784	Person
+1786	House
+1786	Lords
+1791	Mowatt
+1793	Mowatt
+1795	Common
+1807	Court
+1808	Court
+1809	Police
+1815	Common
+1824	Blackstone
+1825	Many
+1837	Collins
+1838	Wilcock
+1840	Court
+1846	Let's
+1848	Court
+1854	Caldwell
+1863	Court
+1867	Court
+1870	Lord Chief Justice
+1874	Lord Chief Justice
+1884	Lord Chief Justice
+1888	Crown
+1888	Crown
+1891	State
+1899	Rugby
+1906	Public
+1907	Public
+1917	Person
+1918	Public
+1924	Public
+1936	Public
+1941	Person
+1947	Law
+1948	Duty
+1955	Young Persons
+1958	Health
+1966	Lower
+1968	Much
+1971	Code
+1973	Road
+1974	Caldwell
+1974	Lawrence
+1976	Road
+1990	Person
+1990	Health
+1990	Work
+1995	Model
+1995	Code
+1996	Caldwell
+2005	Law
+2027	Many
+2034	Young's
+2055	Wales
+2057	Home Office
+2065	Rape
+2069	Law
+2072	Rape
+2073	Rape
+2086	Kowalski
+2086	Court
+2088	Court
+2090	Law
+2092	Court
+2096	Lord Hailsham
+2096	Morgan
+2099	Morgan
+2100	Morgan
+2100	House
+2100	Lords
+2102	Lord Hailsham
+2104	Morgan
+2104	Morgan
+2104	House
+2104	Lords
+2106	Morgan
+2123	House
+2123	Lords
+2123	Caldwell
+2124	Morgan
+2126	Caldwell
+2126	Morgan
+2126	Caldwell
+2127	Caldwell
+2127	Morgan
+2128	Caldwell
+2129	Caldwell
+2130	Court
+2148	Law
+2151	Threats
+2151	Fear
+2164	Court
+2165	Crown's
+2186	Rape
+2194	Law
+2194	Code
+2194	Court
+2202	Court
+2202	House
+2202	Lords
+2203	House
+2229	Law
+2233	Many
+2233	Wales
+2236	Prince
+2237	Law
+2243	Prince
+2244	Tyrrell
+2255	Tyrrell
+2322	Tyrrell
+2329	Lawrence Singer
+2329	Chief
+2329	Officer
+2329	Service
+2330	Berkshire
+2330	Service
+2330	Somerset
+2330	Service
+2331	Gower
+2333	White Paper
+2333	Justice
+2333	Public
+2342	White Paper
+2342	Justice
+2342	Public
+2342	Home Office
+2346	Service
+2346	White Paper
+2347	White Paper
+2349	Hudson
+2353	Home
+2353	Service
+2353	Justice
+2353	White Paper's
+2356	Davies
+2358	Service
+2359	Service
+2361	Service
+2362	Service
+2362	Wales
+2363	White Paper
+2364	White Paper
+2365	White Paper
+2369	Course
+2371	Somerset
+2371	Service
+2371	Singer
+2372	Course
+2376	White Paper's
+2388	Menary
+2389	Justice
+2389	Somerset
+2391	Somerset
+2391	Home Office's
+2405	Singer
+2411	Menary
+2414	Focus
+2421	Somerset
+2426	Council
+2430	Home Office
+2431	Home Office
+2431	Home Office
+2433	Home Office
+2433	Home Office
+2440	Table
+2444	Given
+2448	Somerset
+2448	Service
+2450	Home Office
+2466	Wilcoxon
+2466	Test
+2479	Wilcoxon Test
+2484	Health
+2484	Council
+2486	Males
+2505	Overall
+2506	Wilcoxon
+2543	Justice
+2545	Avon
+2545	Somerset Police
+2551	Phillpotts
+2551	Home Office
+2555	Phillpott
+2559	White Paper
+2566	Sykes
+2568	Wales
+2568	Home Office
+2576	Home Office
+2580	Bridgwater
+2581	Service
+2585	Works
+2585	Service
+2586	Roberts
+2587	Singer
+2588	White Paper
+2589	Role
+2589	Homes
+2589	People's
+2590	Ann Cartwright
+2590	Director
+2590	Care
+2601	Bebbington
+2601	Tong
+2601	Laing
+2601	Judge
+2601	Sinclair
+2605	Care
+2610	Husbands
+2611	Staff
+2613	Cartwright
+2613	Seale
+2617	Cartwright
+2620	Table
+2624	Council
+2635	Table
+2638	Neill
+2645	Cartwright
+2647	Data
+2647	Table
+2654	Cause
+2658	People
+2664	Table
+2665	Cartwright
+2675	Levin
+2680	Table
+2690	Cartwright
+2698	Table
+2712	Given
+2719	Overall
+2721	Table
+2724	Council
+2728	Parkinson's
+2734	Huntingdon's
+2740	I'm
+2743	Parkinson's
+2748	Many
+2754	Friend
+2777	Seven
+2786	Isaacs
+2798	Table
+2802	Weaver
+2805	Office
+2806	Jefferys
+2806	Thane
+2812	Memory
+2824	Wilkin
+2824	Hughes
+2829	Work
+2831	Alan York
+2831	Trinity College
+2831	Oxford
+2832	Israel
+2832	Work
+2832	Aviv
+2833	Work
+2833	Leicester
+2834	Israel
+2835	Haya
+2835	Israel
+2835	School
+2835	Work
+2837	Dr York
+2837	Dr Itzhaky
+2837	School
+2837	Work
+2842	Kurzman
+2842	Solomon
+2842	Freedberg
+2842	York
+2843	Bernstein's
+2845	Bernstein
+2846	Bernstein
+2846	McDermott
+2846	Freedberg
+2846	Rothman
+2846	Spicker
+2847	Rothman
+2857	Kurzman
+2857	Solomon
+2857	Gilbert
+2857	Specht
+2858	Many
+2858	Ross
+2858	Bernstein
+2858	Katan
+2858	Freedberg
+2858	Rothman
+2860	Bernstein
+2863	Rothman
+2863	Bernstein's
+2870	Arnstein
+2873	Susskind
+2873	Elliot
+2875	Cole
+2878	Spiro
+2878	Israeli Urban
+2903	Sheldon
+2904	Mullen
+2904	Dumpson
+2904	Fischer
+2904	Wood
+2906	Reid
+2906	Hanrahan
+2907	Reid
+2907	Hanrahan
+2910	Bernstein
+2911	Ruben
+2911	Reid
+2911	Hanrahan
+2912	See
+2912	Brawley
+2914	Sheldon
+2916	Sheldon
+2918	Sheldon
+2919	Jenkins
+2920	Rees
+2922	Key
+2924	Hunt
+2928	Epstein
+2928	Fellin
+2928	Tripodi
+2928	Tripodi
+2929	Epstein
+2931	Rees
+2932	Lewin
+2932	Minton
+2933	Steers
+2936	Pennings
+2936	Goodman
+2937	Miles
+2938	Miles
+2938	Miles
+2940	Miles
+2941	Campbell
+2942	Cameron
+2944	Cameron
+2952	Miles
+2968	Gilbert
+2968	Specht
+2968	Model City
+2970	Gilbert
+2970	Specht
+2972	York
+2973	Gilbert
+2973	Specht
+2974	York
+2975	Mazmanian
+2977	Mazmanian
+2982	Rosener
+2985	Rosener
+2986	Rosener
+2997	Miller
+2997	Monge
+2999	Erez
+3004	Rosener
+3007	Gilbert
+3007	Specht
+3007	Pincus
+3007	Minahan
+3009	Change
+3017	Table
+3018	Bernstein
+3018	York
+3030	General
+3030	Work
+3030	Health
+3031	Michael Sheppard
+3031	Norfolk
+3032	Health
+3032	Role
+3032	Worker
+3032	Sheffield Press
+3032	Health Work
+3032	Work
+3042	Health
+3043	Sheppard
+3043	Barnes
+3044	Bean
+3045	Bean
+3045	Rogers
+3046	Sheppard
+3050	Barrett
+3050	Roberts
+3053	Hence
+3053	Jenkins
+3054	Goldberg
+3054	Huxley
+3057	Cochrane
+3058	Weissman
+3058	Penfold
+3058	Walker
+3061	Wales
+3061	Health
+3067	Health
+3072	Service
+3072	Health
+3081	Sheppard
+3095	Barnes
+3099	Barnes
+3116	Over
+3121	Table
+3124	Overall
+3128	Table
+3140	Table
+3146	Bean's
+3148	Sheppard
+3150	Oakley
+3177	Overall
+3202	Fitzgerald
+3212	Health
+3226	Fisher
+3256	Rather
+3258	Rather
+3266	Barnes
+3275	Health
+3278	Shepherd
+3286	Sheppard
+3311	Bean
+3327	Huntington
+3331	Huntington
+3338	Bean
+3341	Sheppard
+3363	Penfold
+3363	Walker
+3367	Barrett
+3367	Roberts
+3368	Barrett
+3368	Roberts
+3369	Brown
+3369	Harris
+3369	Richman
+3369	Moss
+3373	Zola
+3377	Barrett
+3377	Roberts
+3403	Sheppard
+3405	Given
+3461	Latin
+3461	Greek
+3461	King
+3464	Mr Jones
+3465	Jones
+3476	Many
+3477	Plants
+3478	Many
+3478	Dahlia
+3490	True
+3511	Orient
+3517	Marine
+3531	Berkshire
+3534	France
+3534	Germany
+3548	Class
+3561	Many
+3564	Many
+3595	Germany
+3595	Asia Minor
+3620	States
+3620	Texas
+3620	Canada
+3655	Plate
+3665	Near
+3665	Wales
+3672	Lias
+3676	Latin
+3682	Col
+3696	Upper
+3718	York
+3726	Germany
+3731	Devon
+3736	Ohio Falls
+3738	Large
+3741	Antigua
+3746	Wales
+3751	Maryland
+3754	Wales
+3759	Kildare
+3759	Ireland
+3763	Devon
+3767	Wales
+3771	Tennessee
+3776	Derbyshire
+3786	Dorset
+3795	Greek
+3821	Many
+3833	Dudley
+3858	Fresh
+3860	Many
+3870	Les
+3870	France
+3897	Japan
+3904	Many
+3907	Like
+3914	Florida
+3915	Florida
+3916	Far
+3918	Mayan
+3920	Grignon
+3920	France
+3921	Many
+3930	Ice Sheets
+3940	Wells
+3940	War
+3940	Worlds
+3942	Like
+3950	Many
+3955	Lower
+3960	Running
+3985	Like
+3996	Small
+3996	Lias
+3996	Somerset
+4005	Many
+4045	Far
+4047	Loss
+4051	Study
+4065	Lower
+4067	Many
+4084	Sea
+4084	Greek
+4100	Many
+4103	Like
+4106	Many
+4117	Stem
+4130	Illinois
+4133	True
+4138	Lias
+4138	Germany
+4155	Greek
+4157	Grayson
+4164	Like
+4169	Lower
+4177	France
+4179	Derbyshire
+4185	Wiltshire
+4189	Longest
+4190	Dakota
+4195	Illinois
+4209	Germany
+4211	Ulm
+4211	Germany
+4216	Wiltshire
+4222	Sea
+4231	Sea
+4231	France
+4243	Scotland
+4246	Lias
+4250	Maryland
+4257	Province
+4261	Many
+4269	Many
+4278	Like
+4290	Crown
+4290	Thorns
+4290	Barrier Reef
+4303	Africa
+4328	Kent
+4333	Greek
+4346	Worm
+4351	Overall
+4362	Many
+4370	Lower
+4384	Wheeler Shale
+4384	Utah
+4393	Many
+4402	Wales
+4403	Wales
+4403	Scotland
+4403	Sweden
+4403	Norway
+4403	Virginia
+4403	Nevada
+4403	Canada
+4403	Africa
+4411	Many
+4430	Many
+4432	Norway
+4432	Sweden
+4432	Asia
+4465	Below
+4472	Baltic
+4474	Below
+4487	Many
+4497	France
+4510	Fig
+4517	Man
+4521	Middle
+4534	Cope
+4534	Marsh
+4577	Note
+4578	Sir Roderick Murchison
+4580	Scotland
+4580	Wales
+4580	Norway
+4580	Canada
+4581	Scotland
+4586	Bosch
+4594	Fish
+4595	Many
+4596	Many
+4600	Plate
+4611	Many
+4623	Greenland
+4630	Like
+4633	China
+4635	Age
+4648	Fig
+4675	Giant
+4685	Baltic
+4685	Prussia
+4686	Living
+4688	Canada
+4694	Sea
+4698	Canada
+4699	Germany
+4716	Baltic
+4727	Mazon Creek
+4727	Illinois
+4734	Germany
+4736	Much
+4738	Longest
+4741	Baltic
+4742	Living
+4742	India
+4747	Scotland
+4748	Quebec
+4753	Monte
+4753	Verona
+4777	Lower
+4779	Fig
+4781	Like
+4786	Like
+4797	Many
+4798	Small
+4802	Many
+4822	Asia
+4824	Ice Age
+4835	Berlin
+4836	Left
+4837	Below Lower
+4841	Like
+4845	Plate
+4856	True
+4861	Plant
+4864	Many
+4867	Seed
+4872	Seeds
+4873	Scotland
+4889	Large
+4889	Upper
+4892	Many
+4898	Late
+4903	Sussex
+4907	Many
+4913	Fig
+4916	Cones
+4938	Marie
+4954	Large
+4956	Left
+4964	Black Hills
+4964	Dakota
+4964	Maryland
+4966	Plate
+4967	Africa
+4967	India
+4986	Oregon
+4986	Skye
+4996	Colorado
+4997	Colorado
+4997	Utah
+5001	World
+5004	Many
+5054	Fig
+5060	Lates
+5063	Head
+5068	Rana
+5068	Spain
+5073	Norway
+5087	Canada
+5087	France
+5087	Germany
+5090	Many
+5100	Leaf
+5109	Kilkenny
+5109	Ireland
+5114	Derbyshire
+5119	Populus
+5121	Poplar
+5125	Acer
+5126	Seeds
+5127	Seeds
+5127	Acer
+5129	Seeds
+5130	Acer
+5146	Canada
+5148	Canada
+5148	Nevada
+5148	Utah
+5148	States
+5148	Ireland
+5188	Colette
+5199	Many
+5203	Late
+5221	Bottom
+5222	Below
+5236	Like
+5242	Many
+5260	Many
+5267	Many
+5292	Left
+5294	Many
+5297	Hence
+5329	Middle
+5329	Burgess Shale
+5329	Canada
+5339	Susanne MacGregor
+5339	Ben Pimlott
+5343	Like
+5347	Beveridge's
+5347	Want
+5349	Labour
+5349	MacGregor
+5351	Peter Townsend
+5351	Wilson
+5351	Townsend
+5353	Butler
+5356	Rising
+5357	States
+5358	Bristol
+5358	Birmingham
+5358	Liverpool
+5359	Northern Ireland
+5360	Many
+5361	Hill
+5364	Paul Harrison's
+5364	City
+5364	Life
+5364	Cutting Edge
+5364	Hackney
+5364	Harrison
+5365	Harrison
+5370	Harrison
+5373	Harrison
+5376	Harrison's
+5376	Robert
+5384	Liverpool
+5384	Birmingham
+5384	States
+5386	MacGregor
+5387	Burr
+5389	Prime Minister
+5393	Coleman
+5396	Cedric Price
+5398	Parkin
+5405	York's
+5407	Leech
+5407	Amin
+5408	Tory
+5409	White Paper
+5409	Policy
+5409	Economy
+5409	Action
+5411	Action
+5411	Milner
+5411	Holland
+5411	Plowden
+5412	Urban
+5412	Home Office
+5413	Enoch Powell's
+5413	Hill Carnival
+5414	Urban
+5414	Need
+5416	Urban
+5417	Home Office
+5418	Urban Areas
+5418	White Paper
+5418	Policy
+5418	DoE
+5419	White Paper
+5419	Liverpool
+5419	Birmingham
+5420	White Paper
+5426	True
+5426	State
+5428	Michael Heseltine
+5430	Urban
+5430	Grant
+5433	Urban
+5433	Urban
+5433	Grant
+5435	Tory
+5437	City Action
+5437	City
+5439	Urban
+5441	Urban
+5441	Grant
+5441	Urban
+5441	Grant
+5444	Action
+5444	Home
+5445	Labour
+5447	Tory
+5454	National Council
+5454	MacGregor
+5460	Force
+5467	Urban
+5467	Force
+5474	Business
+5477	Northern
+5481	Victorian
+5488	Canterbury's
+5488	Urban
+5488	Areas
+5488	Faith
+5488	City
+5496	White Paper
+5496	DoE
+5497	Faith
+5497	City
+5497	White Paper's
+5498	Canterbury's
+5500	White Paper
+5502	Labour
+5503	Anthony Crosland
+5503	Labour
+5504	Labour
+5504	Norman
+5505	Labour
+5505	Council
+5506	State Nicholas Ridley
+5509	Davies
+5514	Work
+5523	Nick
+5523	David Mallen
+5525	Parliament
+5529	Benyon
+5529	John Solomos
+5529	Robert Reiner
+5530	Peter Townsend
+5532	Susanne MacGregor
+5533	John Gibson
+5535	Nick
+5535	David Mallen
+5536	Hilary Land
+5539	Franco Bianchini
+5539	Doreen Massey
+5545	Labour
+5551	Nickell
+5552	Wilson
+5552	States
+5553	Wilson
+5559	Wilson's
+5560	Richard
+5568	John Stewart
+5568	Gerry Stoker
+5569	Skeffington
+5583	Middle
+5590	Race
+5591	John Benyon
+5591	John Solomos
+5594	Bristol
+5594	Liverpool
+5594	Birmingham
+5595	Benyon
+5595	Benyon
+5595	Solomos
+5596	Thatcher
+5598	Robson
+5605	Paul's
+5605	Bristol
+5606	Paul's
+5606	Joshua
+5606	Wallace
+5609	Southall
+5610	Liverpool
+5611	Liverpool
+5614	Moss Side
+5614	Manchester
+5615	Birmingham
+5615	Sheffield
+5615	Nottingham
+5615	Hull
+5615	Slough
+5615	Leeds
+5615	Bradford
+5615	Leicester
+5615	Derby
+5617	Railton Road
+5621	Police
+5623	Railton Road
+5623	Police
+5623	Board
+5623	Benyon
+5623	Solomos
+5624	Benyon
+5624	Solomos
+5626	Liverpool
+5627	Police
+5630	Road
+5630	Birmingham
+5633	Douglas Hurd
+5633	Home
+5634	Moseley
+5634	Coventry
+5634	Paul's
+5634	Bristol
+5635	Birmingham City Council
+5644	Road
+5647	Mrs Cherry Groce's
+5647	Normandy Road
+5648	Mrs Groce's
+5651	Mrs Groce
+5651	Liverpool
+5652	Liverpool
+5652	Court
+5653	Police Station
+5656	Broadwater Farm
+5656	Tottenham
+5657	Police Constable Keith Blakelock
+5659	Tottenham
+5659	Gifford
+5662	Hornsey Police
+5663	Broadwater Farm
+5664	Senior
+5665	Floyd Jarrett
+5666	Jarrett
+5666	Jarrett
+5667	Jarrett
+5669	Mrs Cynthia Jarrett
+5672	Mrs Jarrett
+5676	Hill
+5676	Nottingham
+5677	Broadwater Farm
+5678	Police
+5681	Avon
+5681	Somerset Police
+5681	Paul's
+5681	Bristol
+5688	Lord Scarman's
+5690	Gaffney
+5690	Hall
+5690	Keith
+5693	Parliament
+5694	Civil
+5695	Home
+5695	William Whitelaw's
+5695	Hansard
+5696	Whitelaw
+5697	Roy Hattersley
+5698	Law
+5699	Liberal
+5699	David Steel
+5699	Hansard
+5700	Hansard
+5701	Labour
+5703	Solomos
+5704	Parliament
+5708	Parliament
+5709	Civil
+5709	Roy Hattersley's
+5710	Labour
+5712	Southall
+5713	Hansard
+5714	Much
+5715	Parliament
+5717	States
+5717	Skolnick
+5717	Fogelson
+5717	Edelman
+5717	Knopf
+5723	Lord Scarman
+5731	Broadwater Farm
+5731	Tottenham
+5737	Peregrine
+5737	Tottenham
+5738	Enoch Powell's
+5743	Keith
+5745	Dear
+5750	Dear
+5756	Daily
+5756	Broadwater Farm
+5756	Like
+5756	Divis
+5757	Living Hell
+5759	Daily Mail
+5759	Broadwater Farm
+5760	Hansard
+5760	Birmingham
+5762	Much
+5767	Geoffrey Dear
+5767	Chief Constable
+5767	Dear
+5767	Douglas Hurd
+5767	Home
+5770	Dear's
+5773	Dear's
+5774	Home Office
+5775	Douglas Hurd
+5775	Times
+5776	Chief Constable
+5776	Geoffrey Dear
+5777	Guardian
+5784	Home
+5784	William Whitelaw
+5784	Police
+5784	Lord Scarman
+5786	Lord Scarman's
+5786	Kerner
+5788	Lord Scarman's
+5804	Lord Scarman
+5808	Lord Scarman's
+5809	Given
+5810	Lord Scarman
+5816	Parliament
+5826	Thatcher
+5827	While
+5827	Lord Scarman
+5827	Labour
+5828	Home
+5828	Lord Scarman
+5830	Home
+5834	Home
+5835	Hansard
+5836	Lord Scarman's
+5838	Police
+5838	Sir Kenneth Newman
+5838	Police
+5843	Lord Scarman
+5844	Home
+5844	Douglas Hurd
+5845	Hurd
+5849	Poor
+5853	Daily
+5856	General
+5857	Robson
+5864	Solomos
+5865	Action
+5865	DoE
+5865	Mrs Thatcher's
+5880	National
+5880	Union
+5880	Fields
+5881	Police
+5882	Culley
+5884	Court
+5884	King's Bench
+5884	Peel's
+5884	Police
+5885	Fields
+5887	Tory
+5890	Peel's
+5890	Police
+5891	Fields
+5892	Storch
+5893	Cohen
+5893	Brogden
+5894	Keith Blakelock
+5894	Broadwater Farm
+5894	Culley
+5895	Fields
+5895	Victorian
+5898	Malby
+5900	Critchley
+5900	Reith
+5900	Critchley
+5900	Ascoli
+5900	Stead
+5906	Bristol
+5906	Tottenham
+5911	Lord Scarman
+5912	Left
+5915	Benyon
+5916	Geoff Pearson
+5918	Pearson
+5920	Pearson
+5922	Street
+5922	Pearson
+5927	Times
+5929	Pearson
+5933	Law
+5933	Hood
+5936	Porter
+5937	Morgan
+5939	Garland
+5941	Bailey
+5942	Pearson's
+5944	Leonard Woolf's
+5947	Drury Lane
+5947	Dials
+5949	Pearson's
+5956	Gurr
+5956	Gatrell
+5956	Hadden
+5956	Gatrell
+5959	Emsley
+5963	Kinsey
+5965	Table
+5968	Bottomley
+5968	Pease
+5972	Wales
+5976	States
+5976	National
+5977	Overall
+5978	Box
+5980	States
+5982	States
+5982	Kingdom
+5984	Overall
+5987	Hough
+5987	Mayhew
+5987	Dowds
+5989	General
+5989	Survey's
+5990	General
+5990	Survey
+5990	Survey
+5990	Hough
+5990	Mayhew
+6000	Survey
+6003	Hough
+6003	Mayhew
+6003	Table
+6004	Left
+6004	Kinsey
+6004	Jones
+6006	Survey
+6008	Fear
+6009	Liverpool
+6009	Kinsey
+6011	David Downes
+6013	Rising
+6017	Geary
+6021	Dixon
+6021	Dock Green
+6022	Royal
+6022	Police
+6024	Royal
+6026	Survey
+6026	Survey
+6026	Jowell
+6031	Policy
+6031	Smith
+6037	Left
+6037	Jock Young
+6038	Kinsey
+6042	Hamlyn
+6053	Mrs Thatcher
+6054	Steven Box
+6055	Box
+6061	Much
+6065	Box
+6065	Box
+6067	Thornberry
+6067	Christenson
+6067	Farrington
+6078	James
+6078	Wilson
+6078	States
+6078	Wilson
+6078	Jock Young
+6078	Home Office
+6078	Young
+6082	Norman
+6082	Douglas Hurd's
+6084	Patten
+6085	Left
+6087	Older
+6089	Labour
+6089	Guardian
+6090	Left
+6093	Fenton
+6099	Left
+6100	Left
+6108	Lea
+6111	Reiner
+6113	Lea
+6113	Young
+6113	Lea
+6117	Reiner
+6124	Reiner
+6124	Mark
+6124	Daley
+6126	McCabe
+6127	Northam
+6130	Hurd
+6130	Police
+6130	Oxford
+6133	Reiner
+6136	Left
+6142	Susanne MacGregor
+6144	Mrs Thatcher
+6148	States
+6161	Bradford
+6167	Mrs Thatcher's
+6167	Labour
+6168	Labour
+6169	Labour's
+6174	Harris
+6174	Seldon
+6175	Rather
+6177	Mrs Thatcher
+6177	Walker
+6177	Walker
+6178	Johnston
+6179	Parliament
+6182	Mrs Thatcher's
+6183	Rather
+6185	Much
+6185	Left
+6187	Key
+6192	Mrs Thatcher
+6192	I'm
+6192	I'm
+6193	Bradford
+6194	Bradford
+6196	Leader
+6196	Council
+6196	Eric Pickles
+6196	Tory
+6196	Labour
+6196	Town Halls
+6199	Low
+6200	Scotland
+6201	Michael Heseltine
+6201	Westland
+6202	Left
+6202	Heseltine
+6204	Left
+6206	Thatcher
+6214	Labour
+6214	Heseltine
+6217	Hence
+6217	Tory
+6220	Stedman Jones
+6220	Glass
+6220	Ruth Glass
+6227	Mrs Thatcher
+6230	Arno Mayer
+6232	Key
+6234	John Redwood
+6234	Head
+6234	Prime Minister's Policy
+6234	World
+6243	World
+6245	Michael Howard
+6245	Minister
+6245	Week
+6245	Week
+6246	Tory
+6257	Young
+6259	John Moore
+6265	Charles Murray
+6265	Mr Moore's
+6267	Murray
+6268	John Moore
+6271	Western
+6272	Moore
+6273	Moore's
+6275	Mr Moore's
+6282	Charles Murray
+6288	Fund
+6289	Fund
+6295	Rather
+6297	Sir John
+6298	Head
+6298	Prime Minister's
+6299	Times
+6299	Mrs Thatcher's
+6303	Beveridge
+6304	Beveridge's
+6306	Want
+6307	Want
+6309	Beveridge
+6310	Beveridge
+6312	Poor Law
+6319	Ian Macleod
+6319	Enoch Powell
+6320	Given
+6322	Geoffrey Howe
+6324	Labour
+6325	Dorothy Wedderburn
+6325	Wedderburn
+6326	Roy Jenkins
+6327	Peter Townsend's
+6327	Roy Jenkins
+6329	Mr Townsend
+6333	Jenkins
+6341	Much
+6341	Leonard
+6342	Leonard
+6351	Peter Townsend
+6355	Townsend
+6356	Labour
+6361	MacGregor
+6363	Much
+6365	Thatcher
+6365	Ridley
+6366	States
+6368	Fear
+6368	MacGregor
+6369	Robin Corbett
+6369	York's Lower
+6369	Side
+6369	Home
+6370	John Banham
+6373	States
+6374	John Banham's
+6375	Lemann
+6376	Paper
+6376	Banham's
+6376	Lemann's
+6382	Daly
+6383	States
+6383	States
+6385	Redwood
+6386	John Macnicol
+6387	Sir Keith Joseph's
+6387	State
+6390	Joseph
+6390	Joseph
+6391	Joseph's
+6391	Birmingham
+6393	Keith Joseph
+6394	Stedman Jones
+6394	John Macnicol
+6407	Macnicol
+6408	Wall Street
+6410	Daniel Patrick Moynihan
+6410	Martin Luther King's
+6412	Rather
+6412	Wall Street
+6414	Much
+6416	Wall Street
+6416	Guardian
+6417	Mr John Moore
+6422	Townsend's
+6424	MacGregor
+6430	States
+6432	Truly
+6432	William Julius Wilson
+6432	Murray
+6432	Lemann
+6432	Wilson
+6437	Wilson
+6438	Wilson's
+6438	States
+6443	Wilson's
+6444	Reed
+6445	Wilson
+6448	Young
+6449	Rather
+6453	Wilson
+6455	Pahl
+6459	Wilson's
+6460	Reed
+6461	Wilson
+6461	Macnicol
+6465	Many
+6465	Macnicol
+6465	Becker
+6465	O'Bryan
+6465	Plant
+6478	Hugh Stretton
+6486	Townsend
+6486	Tawney
+6490	Townsend
+6496	Train
+6496	Ronnie Biggs
+6496	Brazil
+6502	Sting
+6502	Butch Cassidy
+6506	Locks
+6556	Laws
+6596	Part
+6612	Ditton
+6640	Ask
+6649	Better
+6682	Cesare
+6684	Rome
+6692	Sheldon
+6692	Eleanor Glueck
+6698	Hans
+6715	Many
+6716	John Bowlby
+6752	Given
+6754	Emile
+6755	Method
+6774	Merton
+6776	Merton
+6781	Certain
+6783	Merton
+6784	Merton
+6786	Merton
+6792	Merton's
+6796	Merton's
+6799	Merton
+6801	Hence
+6802	Merton
+6804	Albert Cohen
+6805	Boys
+6805	Cohen
+6808	Cohen
+6809	Schools
+6812	Cohen
+6813	Cohen's
+6813	Reading
+6814	Cohen
+6814	Merton
+6815	Merton's
+6817	Cohen
+6818	Cohen's
+6820	Merton
+6820	Cohen
+6820	Cloward
+6820	Ohlin
+6821	Cloward
+6821	Ohlin
+6822	Cohen's
+6845	Howard Becker
+6849	Becker
+6860	Justice
+6886	Jock Young's
+6886	Young
+6886	Cohen
+6887	Young
+6912	Marx
+6912	Engels
+6919	Jock Young
+6927	Taylor
+6927	Walton
+6927	Young
+6930	Taylor
+6937	Frank Pearce
+6937	William Chambliss
+6937	Washington
+6950	Many
+6974	Geoffrey Pearson's
+6977	Pearson
+6979	Pearson
+6980	Reading
+6984	Pearson's
+6985	Daily
+6987	Kenneth Oxford
+6987	Chief Constable
+6991	Tory
+6992	Teddy Boys
+6993	Rock
+6993	Teddy Boys
+6995	News
+6995	Teddy Boys
+6997	Teddy Boy
+6997	Teddy Boys
+6998	Teddy Boys
+7003	Second World War
+7011	World War
+7015	Baden Powell
+7015	Boys
+7018	Victorian
+7019	Victorian
+7025	Victorian
+7026	Victorian
+7027	Times
+7030	Henry Fielding
+7034	Pearson
+7037	Pearson's
+7040	Reading
+7040	Pearson's
+7045	Paul Corrigan
+7049	Corrigan
+7055	Corrigan
+7056	Corrigan
+7060	Corrigan's
+7069	Reading
+7069	Corrigan's
+7082	Williams
+7082	Dunning
+7082	Murphy
+7082	Leicester
+7090	Maybe
+7090	I'm
+7090	Leeds
+7094	Williams
+7098	Corrigan
+7098	Nottingham Forest'
+7108	Glasgow
+7110	Glasgow
+7112	World War
+7117	Oxford
+7117	Marsh
+7117	Rosser
+7117	Harre
+7120	Bank
+7120	End
+7120	Manchester
+7123	Marsh
+7126	Town Boys
+7135	Many
+7143	Oxford
+7143	Town
+7145	Oxford
+7154	Four
+7157	Edwin Sutherland's
+7161	Sutherland
+7163	Below
+7167	Chambliss
+7168	Take
+7168	Chambliss
+7168	Chambliss
+7169	Petty Crooks
+7170	Chambliss's
+7171	Chambliss
+7176	Sweeney
+7176	Minder
+7176	Juliet Bravo
+7176	Hill Street
+7182	Box
+7182	Box
+7186	Box's
+7195	Box
+7196	Early
+7196	Bay
+7196	County Cork
+7197	Irish
+7197	Court Judge
+7197	Mr Justice Declan Costello
+7215	Many
+7221	Laws
+7222	Kent
+7225	Box
+7228	Box
+7232	Levi
+7232	Levi
+7234	Over
+7235	Wales
+7239	Levi
+7240	Levi
+7242	Levi
+7249	Wales
+7259	Like
+7270	Levi
+7274	Reading
+7274	Levi's
+7279	Jason Ditton
+7283	Ditton
+7284	Rather
+7287	Ditton's
+7292	Robin Hood
+7297	Ditton's
+7299	Mars'
+7320	Ferrero
+7336	Sue Sharpe
+7336	Sharpe
+7340	Boys
+7363	Sun
+7363	Wave
+7363	Lib'
+7363	Daily Mail
+7363	Lib
+7365	Times
+7397	Guardian
+7407	Boys
+7412	Overall
+7425	Home Office
+7430	Home
+7430	William Whitelaw
+7438	Wales
+7439	King
+7441	Charles Dickens
+7445	Second World War
+7454	Urban
+7458	Table
+7460	Liverpool
+7460	Manchester
+7460	Liverpool
+7461	Table
+7465	Large
+7475	Reading
+7475	Cain's
+7476	Age
+7482	Older
+7490	Police
+7509	Class
+7537	Home Office
+7548	Chief Constable
+7557	Below
+7566	Rape
+7573	Minor
+7582	Below
+7585	Better
+7599	Second World War
+7604	Oh
+7606	McClure
+7606	Spike Island
+7649	Washington
+7674	Many
+7677	Survey
+7677	Home Office
+7678	Mike Hough
+7678	Pat Mayhew
+7678	Wales
+7682	Survey
+7684	Fear
+7689	Survey
+7707	Becker
+7707	Problems
+7708	Becker
+7711	Becker
+7713	Reading
+7728	Becker
+7733	Cohen
+7734	Boys
+7734	Cohen
+7735	Below
+7735	Cohen's
+7736	Reading
+7739	Mrs Jones
+7739	Johnny
+7746	Boy Scout
+7748	Cohen
+7748	Boys
+7754	Pearson
+7755	Pearson's
+7757	Reading
+7769	Pearson
+7770	Corrigan
+7771	Paul Corrigan's
+7772	Corrigan
+7774	Reading
+7777	Albert
+7779	Albert
+7780	Boys
+7780	Sunderland
+7790	Rather
+7792	Peter
+7795	Peter
+7797	Peter
+7800	Corrigan
+7800	Schooling
+7800	Street
+7803	Corrigan
+7807	Corrigan
+7808	Levi
+7809	Levi's
+7810	Below
+7811	Reading
+7820	Levi
+7824	Mars
+7825	Ditton's
+7826	Mars
+7826	Ditton
+7827	Mars
+7829	Mars'
+7831	Reading
+7847	Mars
+7847	Work
+7848	Mars
+7849	Mars
+7851	Reading
+7857	O'Brien
+7857	Magazine
+7860	O'Brien
+7864	O'Brien
+7867	Mars
+7867	Work
+7872	Mars
+7874	Campbell
+7875	Anne Campbell's
+7881	Over
+7883	Campbell
+7887	Campbell
+7888	Reading
+7902	Sharpe
+7902	Like
+7907	Campbell
+7913	Campbell
+7915	Cain
+7916	Cain's
+7918	Reading
+7936	Cain
+7936	Beat
+7936	Cohen
+7940	Cain
+7944	Pearson
+7944	Problems
+7946	Pearson's
+7947	Pearson's
+7948	Reading
+7965	Pearson
+7971	Smith
+7971	Gray
+7976	Policy
+7976	Police
+7985	Four
+7987	Reading
+7997	Smith
+7999	Smith
+7999	Gray
+7999	Police
+7999	People
+8006	Reading
+8008	Gray
+8008	Look
+8017	Smith
+8017	Gray
+8017	Police
+8022	Point
+8029	Mitchel Langford
+8029	David
+8029	Maguire
+8029	David
+8029	Unwin
+8031	Data
+8031	Burrough
+8034	Data
+8037	Openshaw
+8038	Robinson
+8038	Burrough
+8041	Green
+8043	Goodchild
+8043	Lam
+8043	Lam
+8044	Openshaw
+8055	Unwin
+8056	Lam
+8061	Tobler
+8062	Martin
+8062	Tobler's
+8063	Burrough
+8068	Lam
+8068	Tobler
+8069	Lam
+8069	Wagner
+8071	Jackson
+8071	Mason
+8073	Poisson
+8074	Lancashire
+8074	Parliament
+8075	National
+8083	World
+8083	Lo
+8083	Welch
+8083	Han
+8084	Collins
+8084	Hsu
+8084	Clayton
+8084	Estes
+8084	Hegedus
+8085	Lo
+8085	Griffiths
+8090	National
+8096	Data
+8096	National
+8097	Leicester
+8097	Fig
+8104	Forster
+8115	Fig
+8116	Jackson
+8116	Forster
+8116	Wheeler
+8116	Lam
+8116	Griffiths
+8131	Manchester
+8135	Table
+8135	Fig
+8141	Dunn
+8145	Poisson
+8145	Aitkin
+8151	Table
+8153	Poisson
+8157	Leicester's
+8157	Newton
+8159	Leicester
+8159	Castle
+8168	Poisson
+8168	Note
+8174	Leicester
+8174	Humberstone
+8174	Newton
+8174	Castle
+8176	Simple
+8180	Poisson
+8181	Fig
+8184	Survey
+8186	Simple
+8190	Fig
+8194	Table
+8194	Simple Poisson
+8195	Poisson
+8195	Simple
+8199	Leicester
+8199	Loughborough
+8203	Fig
+8203	Simple
+8212	Given
+8217	Monte Carlo
+8218	Stan Openshaw
+8218	Martin Charlton
+8218	Steve Carver
+8235	Blakemore
+8235	Chrisman
+8235	Drummond
+8235	Goodchild
+8235	Dubuc
+8235	Walsh
+8235	Burrough
+8237	National Center
+8239	Monte Carlo
+8247	Burrough
+8255	Group
+8256	Group
+8257	Group
+8263	Keefer
+8267	Blakemore
+8268	Going
+8275	Common
+8277	Burrough
+8279	Blakemore
+8281	Blakemore
+8283	Fig
+8285	Aldred
+8289	Douglas
+8289	Blakemore's
+8291	Traylor
+8291	Keefer
+8294	Much
+8295	McHarg
+8298	Much
+8298	McAlpine
+8298	Cook
+8298	Goodchild
+8301	McAlpine
+8301	Cook
+8303	Guinea
+8304	McAlpine
+8304	Cook
+8307	Goodchild
+8311	Goodchild
+8314	Newcomer
+8316	Newcomer
+8317	Newcomer
+8320	Walsh
+8322	Newcomer
+8322	Walsh
+8330	Walsh
+8334	Walsh
+8335	Walsh
+8354	Chrisman's
+8357	Monte Carlo
+8359	Monte Carlo
+8362	Monte Carlo
+8374	Monte Carlo
+8378	Monte Carlo
+8383	Monte Carlo
+8392	Monte Carlo
+8394	Monte Carlo
+8397	Table
+8399	Fig
+8410	Carry
+8427	Aronson
+8440	Held
+8444	Openshaw
+8459	Survey
+8459	Chapman
+8463	Fig
+8463	Table
+8466	Fig
+8469	Table
+8476	Table
+8495	Given
+8500	Table
+8504	Fig
+8512	Fig
+8515	Monte Carlo
+8533	Theissen
+8545	Monte Carlo
+8552	Fig
+8554	Jonathan
+8554	Raper
+8557	Rhind
+8562	Lord Chorley
+8562	DoE
+8567	Poor
+8571	Willis
+8571	Nutter
+8572	Rhind
+8572	Mounsey
+8576	Beard
+8589	Many
+8593	Helander
+8594	Early
+8594	Goldberg
+8594	Robson
+8595	Work
+8595	Smith
+8596	Apple Macintosh
+8598	Apple's
+8598	Human
+8598	Apple
+8604	See
+8619	Macintosh
+8619	Macintosh
+8621	Hayes
+8621	Baran
+8623	Windows
+8627	Windows
+8629	Alper
+8629	Cambridge
+8632	Hence
+8633	Gould
+8638	Hence
+8644	Frank
+8645	Cassel
+8645	Parker
+8647	Mark
+8648	Gould
+8649	Verplank
+8656	Hence
+8657	Gould
+8657	White
+8659	Early
+8659	McDermott
+8660	Palmer
+8660	Frank
+8662	Palmer
+8662	Frank
+8663	Mark
+8663	Frank
+8663	National Center
+8665	Mark
+8665	Johnson
+8667	Mark
+8667	Survey
+8668	Mark
+8682	Tutor
+8682	Raper
+8682	Green
+8688	Hence
+8688	Herring
+8688	Abel
+8688	Ingram
+8688	Phillips
+8692	Hence
+8694	Rhind
+8699	Shell
+8699	Action
+8701	Bertin
+8703	Kraak
+8706	Rhind
+8708	Raper
+8708	Green
+8709	Hence
+8712	Rhind
+8714	Fig
+8716	Apple Macintosh
+8717	Cowan
+8717	Love
+8717	Carolina
+8717	Office
+8721	Screen
+8725	Macintosh
+8727	Session
+8732	Screen
+8734	Raper
+8734	Bundock
+8739	Fig
+8749	Search
+8751	Raper
+8751	Bundock
+8759	Hence
+8760	Hence
+8763	Apple
+8763	Macintosh
+8763	Apple
+8763	Birkbeck College
+8766	Ian Masser
+8767	Given
+8782	Brown's
+8792	Gatrell
+8792	Vincent
+8797	Like
+8797	Gatrell
+8797	Vincent
+8798	Given
+8801	Shepherd
+8803	Shepherd
+8805	Brown
+8807	Brown
+8808	Brown
+8809	Like Gatrell
+8809	Vincent
+8809	Shepherd
+8810	Brown's
+8810	Openshaw
+8823	Campbell
+8826	Campbell
+8828	Openshaw
+8828	Part
+8830	David Rhind
+8832	Tickell
+8836	World
+8844	Rhine
+8847	Patten
+8848	Prime Minister
+8848	Thatcher
+8850	Mrs Thatcher
+8854	Mersey Basin
+8854	Thames
+8857	Thatcher
+8858	White Paper
+8859	DoE
+8863	Prime Minister
+8863	State
+8863	White Paper
+8864	Times
+8864	Civil
+8865	Pearce
+8866	Given
+8866	Table
+8872	Mrs Thatcher's
+8877	Fig
+8878	Los Angeles
+8880	El Nino
+8898	Much
+8902	Pacific
+8902	Drake Passage
+8903	Rhind
+8903	Mounsey
+8903	Mounsey
+8903	Tomlinson
+8907	Given
+8916	Trace
+8928	Much
+8930	Fig
+8930	Tyler
+8931	Stewart
+8940	UK's
+8940	Change
+8941	Robens
+8941	Royal
+8941	Sir John Mason
+8941	Director
+8941	Office
+8944	DoE
+8944	Health
+8944	Council
+8944	Survey
+8944	Friends
+8945	Union
+8949	Council
+8949	Group
+8963	Paris
+8963	Rasool
+8964	NASA's Master
+8966	Royal
+8966	House
+8966	Lords'
+8966	Royal
+8967	Fuchs
+8967	Jacobson
+8967	Price
+8968	Council
+8973	Study
+8978	Jacobson
+8978	Price
+8979	Human
+8979	Change
+8984	Green
+8984	Germany
+8986	Board
+8990	States
+8990	Rome
+8990	Council's
+8990	Rhodes
+8990	Single
+8993	States
+8999	Nations
+9001	State
+9007	Certain
+9009	Bergen
+9010	Birkbeck College
+9011	Many
+9015	Haber
+9015	Schaller
+9016	Man
+9016	National Park
+9017	Holling
+9017	Grossman
+9028	Haber
+9028	Schaller
+9033	Council
+9036	Briggs
+9036	Martin
+9037	Many
+9038	States
+9038	States
+9039	Rhind
+9039	Wiggins
+9039	Briggs
+9039	Martin
+9039	Briggs
+9039	Mounsey
+9042	Many
+9044	States
+9046	Rhind
+9046	Clark
+9058	Upper
+9058	Ocean
+9061	Space
+9064	Stockholm
+9066	Mooneyhan
+9067	Geneva
+9068	Latin
+9091	Muller
+9096	Portugal
+9099	National Space
+9099	Professor Pearce
+9099	State
+9100	Professor Didier
+9101	State
+9101	Data
+9121	Goodchild
+9121	Yang's
+9124	Goodchild
+9126	Data
+9126	Working Group
+9126	Change
+9134	Council
+9135	Pearce
+9135	Turner
+9136	Pearce
+9157	Turner
+9171	Change
+9173	Kitsos
+9173	Ashe
+9174	Table
+9177	World Ocean
+9177	World
+9183	Terney
+9184	Newby
+9193	Tina Buckle
+9193	Jonathan Raper
+9194	Birkbeck College
+9196	Anthony
+9196	Gatrell
+9196	Peter Vincent
+9205	Burton
+9205	Perry
+9206	Zeigler
+9207	Hazard
+9209	Hazard
+9211	Health
+9216	Tristan
+9216	Cunha
+9219	Fig
+9219	Burton
+9219	Kates
+9219	Zeigler
+9221	Zeigler
+9222	Nations
+9222	Table
+9226	Johnson
+9227	Lockerbie
+9228	Wales
+9229	Dutch
+9230	Table
+9239	Health
+9243	Petts
+9243	Health
+9246	Beek
+9246	Manfredonia
+9246	Major
+9247	Major
+9247	Hazard
+9248	Houston
+9253	Halton Borough
+9253	Cheshire
+9253	Petts
+9254	Health
+9254	Health
+9257	Health
+9262	Openshaw
+9263	Greenberg
+9263	Anderson
+9264	Openshaw
+9265	Waste
+9265	DoE
+9266	Wales
+9266	Scotland
+9266	Northern Ireland
+9269	Egger
+9269	Austria
+9271	Openshaw
+9272	Diggle
+9273	Crown
+9273	Gatrell
+9273	Lovett
+9277	Matthews
+9277	Pepper
+9278	Health
+9280	Collins
+9282	Zeigler
+9282	Mile Island
+9286	Oak Ridge National
+9286	Tennessee
+9286	Sorenson
+9286	Vogt
+9286	Sorenson
+9286	Delaware
+9287	Perry
+9292	Perry
+9294	Liverman
+9294	Wilson
+9299	Toronto
+9304	Mitchell
+9305	David
+9305	Frederick
+9306	Shah
+9310	Much
+9312	Second World War
+9313	Brief
+9314	Jones
+9321	Perry
+9324	Hewitt
+9324	Burton
+9328	Many
+9330	Morse
+9331	Channel
+9336	Cardiff
+9336	Council
+9336	Surrey
+9336	Robens
+9336	School
+9337	Small Area Health
+9337	Elliot
+9340	Greenberg
+9340	Greenberg
+9343	Elliot
+9343	Openshaw's
+9343	Ch
+9349	Perry
+9349	Wertheimer
+9349	Leeper
+9350	Perry
+9350	Pearl
+9351	Board
+9355	Matthews
+9355	Imperial College
+9355	Health
+9358	Richardson
+9359	Cornwall
+9359	Devon
+9363	Lioy
+9363	Daisey
+9364	Cancer
+9365	Warren Springs
+9366	Beresford
+9373	Much
+9375	Early
+9375	Vincent
+9375	Dunn
+9380	Full
+9387	Openshaw's
+9388	Openshaw
+9390	Openshaw
+9391	Heywood
+9391	Cornelius
+9392	Fig
+9396	Lancashire
+9398	DoE
+9404	Prestel
+9404	Gold
+9404	Jackson
+9406	Given
+9408	Kaspar
+9408	Baden
+9417	Vincent
+9424	Openshaw
+9425	Carver
+9425	Openshaw
+9425	Ch
+9429	Data
+9434	Jensen
+9434	Christiansen
+9434	Stewart
+9436	Foresman
+9437	Merchant
+9437	Barringer
+9437	Braun
+9438	Merchant
+9440	Foresman
+9441	Merchant
+9441	Estes
+9442	Barringer
+9444	Braun
+9444	Tucson
+9444	Arizona
+9446	Braun
+9448	Foresman's
+9448	Survey
+9448	Data
+9448	Foresman
+9452	Berke
+9452	Ruch
+9452	Texas
+9454	Brinkman
+9455	Berke
+9455	Ruch
+9455	Sea
+9455	Lake
+9455	Overland Surges
+9463	Virginia Beach City
+9465	Southworth
+9470	Kessell
+9470	National Parks
+9470	Service
+9472	Kessell
+9475	Wales
+9475	Smith
+9475	Greenaway
+9484	Gatrell
+9485	Diggle
+9486	Survey
+9489	Cuzick
+9489	Edwards
+9490	Diggle
+9491	Cross
+9492	Cross's
+9494	Fig
+9495	Wertheimer
+9495	Leeper
+9496	Wales
+9497	Matthews
+9497	Cancer
+9500	Morrill's
+9500	Hanford
+9500	Washington State
+9500	Morrill
+9502	Johnson
+9502	Rocky
+9502	Denver
+9502	Zeigler
+9510	Data
+9514	Rhind
+9520	Health
+9520	Petts
+9521	National
+9521	Board
+9521	Hallam
+9522	Code
+9528	Lioy
+9528	Daisey
+9528	Jersey
+9530	McMaster
+9530	Johnson
+9530	Santa Monica
+9534	Cutter
+9534	Solecki
+9535	Zeigler
+9535	Hewitt
+9535	Burton's
+9543	Waste
+9546	Gatrell
+9546	Lovett
+9550	Cancer
+9550	Manchester
+9554	Fund
+9554	Leeds
+9554	Alexander
+9558	Health
+9560	Lancaster
+9560	Preston
+9560	Health
+9563	National
+9563	Health
+9563	Townsend
+9565	National Health Service
+9570	Major Hazard
+9570	Data Service
+9570	Major
+9570	Health
+9573	Nile
+9584	Peirson
+9585	Lam
+9588	Streit
+9588	Estes
+9593	Green
+9597	Over
+9597	Kolesar
+9599	Kolesar
+9599	Walker
+9604	Belardo
+9606	Peel
+9606	Police Force
+9606	Scanlon
+9606	Padgham
+9608	Speed
+9618	Berke
+9618	Stubbs
+9621	Berke
+9621	Stubbs
+9624	Japan
+9625	Dong
+9628	Reitsma
+9628	Austria
+9631	Reitsma
+9633	Risk
+9633	Joint
+9636	Roads
+9645	USA's National
+9646	Apple Macintosh
+9649	Fire
+9651	Southworth
+9654	Model
+9655	Florida
+9655	Georgia
+9657	Hugo
+9658	Martin
+9658	Marconi
+9658	Marconi's
+9665	Fig
+9667	Perry
+9669	Piper Alpha
+9669	Sea
+9669	Thames
+9670	Lockerbie
+9670	King's Cross
+9678	Given
+9680	Council
+9680	Lancaster
+9691	Lorentz
+9692	Hawking
+9692	Ellis
+9701	Ellis
+9701	Schmidt
+9702	Riemann
+9705	Riemann
+9707	Riemann
+9710	Riemann
+9717	Riemann
+9720	Riemann
+9725	Khan
+9725	Penrose
+9727	Szekeres
+9729	Chandrasekhar
+9729	Xanthopoulos
+9729	Ferrari
+9729	Iba
+9729	Feinstein
+9729	Iba
+9732	Szekeres
+9733	Stoyanov
+9737	Bell
+9737	Szekeres
+9738	Clarke
+9738	Hayward
+9739	Chandrasekhar
+9739	Xanthopoulos
+9739	Xanthopoulos
+9745	Penrose
+9745	Rindler
+9748	Szekeres
+9748	Tipler
+9749	Penrose
+9749	Hawking
+9749	Ellis
+9751	Tipler
+9751	Let
+9751	Killing
+9756	Khan
+9756	Penrose
+9756	Ferrari
+9756	Iba
+9756	Chandrasekhar
+9756	Xanthopoulos
+9757	Bell
+9757	Szekeres
+9760	Chandrasekhar
+9760	Xanthopoulos
+9760	Kerr
+9761	Ferrari
+9761	Iba
+9762	Tipler's
+9766	Feinstein
+9766	Iba
+9768	Tipler's
+9774	Chandrasekhar
+9774	Xanthopoulos
+9778	Feinstein
+9778	Iba
+9780	Tipler's
+9783	Kasner
+9784	Kasner
+9789	Khan
+9789	Penrose
+9800	Matzner
+9800	Tipler
+9811	Matzner
+9811	Tipler
+9811	Minkowski
+9812	Figures
+9817	Matzner
+9817	Tipler
+9836	Minkowski
+9851	Penrose
+9851	Matzner
+9851	Tipler
+9855	Ellis
+9855	Schmidt
+9859	Points
+9866	Khan Penrose
+9880	Khan
+9880	Penrose
+9882	Konkowski
+9882	Helliwell
+9883	Szekeres
+9883	Ellis
+9883	Schmidt
+9912	Szekeres
+9914	Khan
+9914	Penrose
+9915	Szekeres
+9922	Szekeres
+9923	Szekeres
+9929	Weyl
+9930	Weyl
+9932	Szekeres
+9937	Szekeres
+9944	Brinkmann
+9946	Szekeres
+9962	Szekeres
+9966	Konkowski
+9966	Helliwell
+9970	Khan
+9970	Penrose
+9970	Szekeres
+9978	Szekeres
+9982	Weyl
+9988	Riemann's
+9988	Legendre
+9995	Feinstein
+9995	Iba
+9995	Bessel
+9995	Neumann
