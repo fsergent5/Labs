@@ -1,2 +1,0 @@
-pytest>=7.0
-language-tool-python>=2.7
