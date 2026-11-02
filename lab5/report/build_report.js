@@ -1,4 +1,4 @@
-// Builds Lab5_SVM_Person_Name_Extraction_Report.docx (APA 7 student paper).
+// Builds Lab5_SVM_Person_Name_Extraction_Report.docx (MLA 9 format).
 // Run: node build_report.js   (from this folder)
 const fs = require("fs");
 const {
@@ -27,7 +27,7 @@ const h1 = (text) => new Paragraph({
   spacing: DOUBLE, alignment: AlignmentType.CENTER,
   children: [new TextRun({ text, bold: true })] });
 const h2 = (text) => new Paragraph({
-  spacing: DOUBLE, children: [new TextRun({ text, bold: true })] });
+  spacing: DOUBLE, keepNext: true, keepLines: true, children: [new TextRun({ text, bold: true })] });
 const centered = (text, bold = false) => new Paragraph({
   spacing: DOUBLE, alignment: AlignmentType.CENTER,
   children: [new TextRun({ text, bold })] });
@@ -56,13 +56,10 @@ function flowCell(file, width) {
       new TextRun({ text: l.replace(/ /g, "\u00a0") || "\u00a0", font: "Courier New", size: 16 })] })),
   });
 }
-function captionCell(label, title, width) {
+function captionCell(text, width) {
   return new TableCell({
     width: { size: width, type: WidthType.DXA }, borders: noBorders,
-    children: [
-      new Paragraph({ spacing: SINGLE, children: [new TextRun({ text: label, bold: true, size: 22 })] }),
-      new Paragraph({ spacing: { ...SINGLE, after: 120 }, children: [new TextRun({ text: title, italics: true, size: 22 })] }),
-    ],
+    children: [new Paragraph({ spacing: { ...SINGLE, before: 120 }, children: [new TextRun({ text, size: 22 })] })],
   });
 }
 
@@ -70,39 +67,35 @@ const COL = 4680;
 const figures = new Table({
   width: { size: COL * 2, type: WidthType.DXA }, columnWidths: [COL, COL], borders: noBorders,
   rows: [
-    new TableRow({ children: [
-      captionCell("Flowchart 1", "Training the SVM Person-Name Tagger on the CoNLL Corpus", COL),
-      captionCell("Flowchart 2", "Extracting Person Names From the First 10,000 BNC Baby Sentences", COL),
-    ] }),
     new TableRow({ children: [flowCell("flowchart1.txt", COL), flowCell("flowchart2.txt", COL)] }),
+    new TableRow({ children: [
+      captionCell("Flowchart 1. Training the SVM person-name tagger on the CoNLL corpus.", COL),
+      captionCell("Flowchart 2. Extracting person names from the first 10,000 BNC Baby sentences.", COL),
+    ] }),
   ],
 });
 // --- content --------------------------------------------------------------
+// MLA first-page heading (flush left, double spaced) instead of a title page
+const left = (text) => new Paragraph({ spacing: DOUBLE, children: [new TextRun(text)] });
 const titlePage = [
-  blank(), blank(), blank(),
-  centered("Person-Name Extraction With Support Vector Machines:", true),
-  centered("Applying the CoNLL NER Corpus to the BNC Baby Corpus", true),
-  blank(),
-  centered("Faith James"),
-  centered("[Department], [University]"),
-  centered("COSC 645"),
-  centered("Dr. Huang"),
-  centered("November 2, 2026"),
-  new Paragraph({ children: [new PageBreak()] }),
+  left("Faith James"),
+  left("Dr. Huang"),
+  left("COSC 645"),
+  left("2 November 2026"),
+  centered("Person-Name Extraction with Support Vector Machines: Applying the CoNLL NER Corpus to the BNC Baby Corpus"),
 ];
 
 const text = [
-  h1("Person-Name Extraction With Support Vector Machines"),
-  body("Named entity recognition (NER) is the task of finding spans of text that name real-world things and labeling each span with a type such as person, location, or organization (Nadeau & Sekine, 2007). This report describes how a support vector machine (SVM) trained on *Conll_NER_corpus.txt* can identify person names in the first 10,000 sentences of the BNC Baby corpus, and reports results from a working implementation."),
+  body("Named entity recognition (NER) is the task of finding spans of text that name real-world things and labeling each span with a type such as person, location, or organization (Nadeau and Sekine). This report describes how a support vector machine (SVM) trained on *Conll_NER_corpus.txt* can identify person names in the first 10,000 sentences of the BNC Baby corpus, and reports results from a working implementation."),
 
   h2("Named Entities and the Training Data"),
-  body(`*Conll_NER_corpus.txt* is derived from the Annotated Corpus for Named Entity Recognition on Kaggle (Walia, n.d.) and follows the CoNLL column format (Tjong Kim Sang & De Meulder, 2003): one token per line, a tab, and the token's tag, with a blank line between sentences. The file holds 47,959 human-tagged sentences and ${R.train_tokens} tokens. Tags use the BIO scheme (Ramshaw & Marcus, 1995): *B-* marks the first word of an entity, *I-* marks a word inside it, and *O* marks a word outside any entity. Person names are tagged *B-per* (${R.b_per} tokens) and *I-per* (${R.i_per} tokens); in this corpus a title such as *President* or *Mr.* is part of the name, so "President Mahmoud Ahmadinejad" is tagged B-per I-per I-per. All other tags (geo, org, gpe, tim, art, eve, nat) are mapped to O, leaving three classes: B-PER, I-PER, and O.`),
+  body(`*Conll_NER_corpus.txt* is derived from the Annotated Corpus for Named Entity Recognition on Kaggle (Walia) and follows the CoNLL column format (Tjong Kim Sang and De Meulder): one token per line, a tab, and the token's tag, with a blank line between sentences. The file holds 47,959 human-tagged sentences and ${R.train_tokens} tokens. Tags use the BIO scheme (Ramshaw and Marcus): *B-* marks the first word of an entity, *I-* marks a word inside it, and *O* marks a word outside any entity. Person names are tagged *B-per* (${R.b_per} tokens) and *I-per* (${R.i_per} tokens); in this corpus a title such as *President* or *Mr.* is part of the name, so “President Mahmoud Ahmadinejad” is tagged B-per I-per I-per. All other tags (geo, org, gpe, tim, art, eve, nat) are mapped to O, leaving three classes: B-PER, I-PER, and O.`),
 
   h2("Why an SVM"),
-  body("An SVM finds the hyperplane that separates two classes with the largest margin (Cortes & Vapnik, 1995). Linear SVMs handle the very large, sparse feature vectors produced by text well and were a strong NER baseline before neural models (Isozaki & Kazawa, 2002). With three tags, one binary SVM is trained per tag (one-versus-rest) and each token receives the tag with the highest score. The implementation uses the LIBLINEAR solver (Fan et al., 2008) through scikit-learn's *LinearSVC* (Pedregosa et al., 2011), and NLTK's *BNCCorpusReader* to read the BNC XML files (Bird et al., 2009)."),
+  body("An SVM finds the hyperplane that separates two classes with the largest margin (Cortes and Vapnik). Linear SVMs handle the very large, sparse feature vectors produced by text well and were a strong NER baseline before neural models (Isozaki and Kazawa). With three tags, one binary SVM is trained per tag (one-versus-rest) and each token receives the tag with the highest score. The implementation uses the LIBLINEAR solver (Fan et al.) through scikit-learn's *LinearSVC* (Pedregosa et al.), and NLTK's *BNCCorpusReader* to read the BNC XML files (Bird et al.)."),
 
   h2("Procedure"),
-  body("The procedure has two phases, shown in Flowcharts 1 and 2. In training (Flowchart 1), every token becomes a feature dictionary describing the word itself (lowercased form, first and last three letters, capitalization, all-caps, digits, a trailing period as in *Mr.*), its shape (e.g., *McCain* becomes *XxXx*), and the same information for the two words on each side, since context such as *said* or a preceding title signals a name. A vectorizer builds a sparse matrix, 10% of sentences are held out to measure precision and recall, and the final model is retrained on all sentences with balanced class weights, because O covers about 97% of tokens."),
+  body("The procedure has two phases, shown in Flowcharts 1 and 2. In training (Flowchart 1), every token becomes a feature dictionary describing the word itself (lowercased form, first and last three letters, capitalization, all-caps, digits, a trailing period as in *Mr.*), its shape (for example, *McCain* becomes *XxXx*), and the same information for the two words on each side, since context such as *said* or a preceding title signals a name. A vectorizer builds a sparse matrix, 10% of sentences are held out to measure precision and recall, and the final model is retrained on all sentences with balanced class weights, because O covers about 97% of tokens."),
   body("In extraction (Flowchart 2), the first 10,000 sentences (*<s>* units) of BNC Baby are read in file order, given the same features, and tagged; each B-PER and its following I-PER tokens form a candidate name. A regular expression keeps only spans that look like names (capitalized words, initials, hyphens, apostrophes, and inner particles such as *van* or *de*). Names are written with their sentence numbers, followed by a frequency list."),
 ];
 
@@ -149,22 +142,22 @@ const results = [
 
 const refs = [
   new Paragraph({ spacing: DOUBLE, alignment: AlignmentType.CENTER, pageBreakBefore: true,
-    children: [new TextRun({ text: "References", bold: true })] }),
-  ref("Bird, S., Klein, E., & Loper, E. (2009). *Natural language processing with Python.* O'Reilly Media."),
-  ref("BNC Consortium. (2005). *The BNC Baby* (2nd ed.) [Data set]. Oxford Text Archive. http://hdl.handle.net/20.500.12024/2553"),
-  ref("Cortes, C., & Vapnik, V. (1995). Support-vector networks. *Machine Learning, 20*(3), 273–297. https://doi.org/10.1007/BF00994018"),
-  ref("Fan, R.-E., Chang, K.-W., Hsieh, C.-J., Wang, X.-R., & Lin, C.-J. (2008). LIBLINEAR: A library for large linear classification. *Journal of Machine Learning Research, 9*, 1871–1874."),
-  ref("Isozaki, H., & Kazawa, H. (2002). Efficient support vector classifiers for named entity recognition. In *Proceedings of the 19th International Conference on Computational Linguistics* (pp. 390–396). Association for Computational Linguistics. https://doi.org/10.3115/1072228.1072282"),
-  ref("Nadeau, D., & Sekine, S. (2007). A survey of named entity recognition and classification. *Lingvisticae Investigationes, 30*(1), 3–26. https://doi.org/10.1075/li.30.1.03nad"),
-  ref("Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, É. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research, 12*, 2825–2830."),
-  ref("Ramshaw, L. A., & Marcus, M. P. (1995). Text chunking using transformation-based learning. In *Proceedings of the Third Workshop on Very Large Corpora* (pp. 82–94). Association for Computational Linguistics."),
-  ref("Tjong Kim Sang, E. F., & De Meulder, F. (2003). Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition. In *Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003* (pp. 142–147). Association for Computational Linguistics."),
-  ref("Walia, A. (n.d.). *Annotated corpus for named entity recognition* [Data set]. Kaggle. Retrieved November 1, 2026, from https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus"),
+    children: [new TextRun("Works Cited")] }),
+  ref("Bird, Steven, et al. *Natural Language Processing with Python.* O'Reilly Media, 2009."),
+  ref("BNC Consortium. *The BNC Baby.* 2nd ed., Oxford Text Archive, 2005, hdl.handle.net/20.500.12024/2553."),
+  ref("Cortes, Corinna, and Vladimir Vapnik. \u201cSupport-Vector Networks.\u201d *Machine Learning*, vol. 20, no. 3, 1995, pp. 273\u201397, https://doi.org/10.1007/BF00994018."),
+  ref("Fan, Rong-En, et al. \u201cLIBLINEAR: A Library for Large Linear Classification.\u201d *Journal of Machine Learning Research*, vol. 9, 2008, pp. 1871\u201374."),
+  ref("Isozaki, Hideki, and Hideto Kazawa. \u201cEfficient Support Vector Classifiers for Named Entity Recognition.\u201d *Proceedings of the 19th International Conference on Computational Linguistics*, Association for Computational Linguistics, 2002, pp. 390\u201396, https://doi.org/10.3115/1072228.1072282."),
+  ref("Nadeau, David, and Satoshi Sekine. \u201cA Survey of Named Entity Recognition and Classification.\u201d *Lingvisticae Investigationes*, vol. 30, no. 1, 2007, pp. 3\u201326, https://doi.org/10.1075/li.30.1.03nad."),
+  ref("Pedregosa, Fabian, et al. \u201cScikit-learn: Machine Learning in Python.\u201d *Journal of Machine Learning Research*, vol. 12, 2011, pp. 2825\u201330."),
+  ref("Ramshaw, Lance A., and Mitchell P. Marcus. \u201cText Chunking Using Transformation-Based Learning.\u201d *Proceedings of the Third Workshop on Very Large Corpora*, Association for Computational Linguistics, 1995, pp. 82\u201394."),
+  ref("Tjong Kim Sang, Erik F., and Fien De Meulder. \u201cIntroduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition.\u201d *Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003*, Association for Computational Linguistics, 2003, pp. 142\u201347."),
+  ref("Walia, Abhinav. \u201cAnnotated Corpus for Named Entity Recognition.\u201d *Kaggle*, www.kaggle.com/abhinavwalia95/entity-annotated-corpus. Accessed 1 Nov. 2026."),
 ];
 
 const doc = new Document({
   creator: "Faith James",
-  title: "Person-Name Extraction With Support Vector Machines",
+  title: "Person-Name Extraction with Support Vector Machines",
   styles: { default: { document: { run: { font: FONT, size: 24 } } } },
   sections: [{
     properties: { page: {
@@ -172,7 +165,7 @@ const doc = new Document({
       margin: { top: 1440, bottom: 1440, left: 1440, right: 1440, header: 720 },
     } },
     headers: { default: new Header({ children: [new Paragraph({
-      alignment: AlignmentType.RIGHT, children: [new TextRun({ children: [PageNumber.CURRENT] })] })] }) },
+      alignment: AlignmentType.RIGHT, children: [new TextRun({ children: ["James ", PageNumber.CURRENT] })] })] }) },
     children: [...titlePage, ...text, ...pseudocode, ...results, ...refs],
   }],
 });
