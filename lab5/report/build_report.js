@@ -3,7 +3,7 @@
 const fs = require("fs");
 const {
   Document, Packer, Paragraph, TextRun, Header, AlignmentType, PageNumber,
-  ImageRun, Table, TableRow, TableCell, WidthType, BorderStyle, PageBreak,
+  Table, TableRow, TableCell, WidthType, BorderStyle, PageBreak,
   LineRuleType,
 } = require("docx");
 
@@ -47,12 +47,13 @@ function code(lines) {
 const NB = { style: BorderStyle.NONE, size: 0, color: "FFFFFF" };
 const noBorders = { top: NB, bottom: NB, left: NB, right: NB, insideHorizontal: NB, insideVertical: NB };
 
-function figureCell(path, w, h, width) {
+// Flowcharts drawn as monospaced text (see make_text_flowcharts.py)
+function flowCell(file, width) {
+  const lines = fs.readFileSync(file, "utf8").replace(/\n$/, "").split("\n");
   return new TableCell({
     width: { size: width, type: WidthType.DXA }, borders: noBorders,
-    children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [
-      new ImageRun({ type: "png", data: fs.readFileSync(path), transformation: { width: w, height: h } }),
-    ] })],
+    children: lines.map((l) => new Paragraph({ spacing: SINGLE, children: [
+      new TextRun({ text: l.replace(/ /g, "\u00a0") || "\u00a0", font: "Courier New", size: 16 })] })),
   });
 }
 function captionCell(label, title, width) {
@@ -64,33 +65,18 @@ function captionCell(label, title, width) {
     ],
   });
 }
-// image sizes in px (docx-js uses 96 dpi); keep aspect ratio of the PNGs
-const { imageSize } = (() => {
-  function imageSize(path) {
-    const b = fs.readFileSync(path);
-    return { w: b.readUInt32BE(16), h: b.readUInt32BE(20) };
-  }
-  return { imageSize };
-})();
-function scaled(path, targetW) {
-  const s = imageSize(path);
-  return [targetW, Math.round(targetW * s.h / s.w)];
-}
 
-const f1 = "fig1_training.png", f2 = "fig2_extraction.png";
-const [w1, hh1] = scaled(f1, 290), [w2, hh2] = scaled(f2, 290);
 const COL = 4680;
 const figures = new Table({
   width: { size: COL * 2, type: WidthType.DXA }, columnWidths: [COL, COL], borders: noBorders,
   rows: [
     new TableRow({ children: [
-      captionCell("Figure 1", "Training the SVM Person-Name Tagger on the CoNLL Corpus", COL),
-      captionCell("Figure 2", "Extracting Person Names From the First 10,000 BNC Baby Sentences", COL),
+      captionCell("Flowchart 1", "Training the SVM Person-Name Tagger on the CoNLL Corpus", COL),
+      captionCell("Flowchart 2", "Extracting Person Names From the First 10,000 BNC Baby Sentences", COL),
     ] }),
-    new TableRow({ children: [figureCell(f1, w1, hh1, COL), figureCell(f2, w2, hh2, COL)] }),
+    new TableRow({ children: [flowCell("flowchart1.txt", COL), flowCell("flowchart2.txt", COL)] }),
   ],
 });
-
 // --- content --------------------------------------------------------------
 const titlePage = [
   blank(), blank(), blank(),
@@ -116,8 +102,8 @@ const text = [
   body("An SVM finds the hyperplane that separates two classes with the largest margin (Cortes & Vapnik, 1995). Linear SVMs handle the very large, sparse feature vectors produced by text well and were a strong NER baseline before neural models (Isozaki & Kazawa, 2002). With three tags, one binary SVM is trained per tag (one-versus-rest) and each token receives the tag with the highest score. The implementation uses the LIBLINEAR solver (Fan et al., 2008) through scikit-learn's *LinearSVC* (Pedregosa et al., 2011), and NLTK's *BNCCorpusReader* to read the BNC XML files (Bird et al., 2009)."),
 
   h2("Procedure"),
-  body("The procedure has two phases, shown in Figures 1 and 2. In training (Figure 1), every token becomes a feature dictionary describing the word itself (lowercased form, first and last three letters, capitalization, all-caps, digits, a trailing period as in *Mr.*), its shape (e.g., *McCain* becomes *XxXx*), and the same information for the two words on each side, since context such as *said* or a preceding title signals a name. A vectorizer builds a sparse matrix, 10% of sentences are held out to measure precision and recall, and the final model is retrained on all sentences with balanced class weights, because O covers about 97% of tokens."),
-  body("In extraction (Figure 2), the first 10,000 sentences (*<s>* units) of BNC Baby are read in file order, given the same features, and tagged; each B-PER and its following I-PER tokens form a candidate name. A regular expression keeps only spans that look like names (capitalized words, initials, hyphens, apostrophes, and inner particles such as *van* or *de*). Names are written with their sentence numbers, followed by a frequency list."),
+  body("The procedure has two phases, shown in Flowcharts 1 and 2. In training (Flowchart 1), every token becomes a feature dictionary describing the word itself (lowercased form, first and last three letters, capitalization, all-caps, digits, a trailing period as in *Mr.*), its shape (e.g., *McCain* becomes *XxXx*), and the same information for the two words on each side, since context such as *said* or a preceding title signals a name. A vectorizer builds a sparse matrix, 10% of sentences are held out to measure precision and recall, and the final model is retrained on all sentences with balanced class weights, because O covers about 97% of tokens."),
+  body("In extraction (Flowchart 2), the first 10,000 sentences (*<s>* units) of BNC Baby are read in file order, given the same features, and tagged; each B-PER and its following I-PER tokens form a candidate name. A regular expression keeps only spans that look like names (capitalized words, initials, hyphens, apostrophes, and inner particles such as *van* or *de*). Names are written with their sentence numbers, followed by a frequency list."),
 ];
 
 const pseudocode = [
@@ -156,6 +142,7 @@ const pseudocode = [
 
 const results = [
   figures,
+  new Paragraph({ spacing: { ...SINGLE, after: 120 }, children: [] }),
   h2("Results"),
   body(`On the 10% held-out split, token-level scores for B-PER were precision ${R.bp_p}, recall ${R.bp_r}, and *F*1 ${R.bp_f}; for I-PER they were ${R.ip_p}, ${R.ip_r}, and ${R.ip_f}. Applied to the first ${R.n_sents} BNC Baby sentences (${R.n_files} academic texts), the program extracted ${R.mentions} person-name mentions covering ${R.distinct} distinct names. The most frequent were ${R.top}. As the lab allows, these errors were not corrected.`),
 ];

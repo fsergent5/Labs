@@ -1,0 +1,23 @@
+              ( Start )
+                   v
+/     Read Conll_NER_corpus.txt      /
+                   v
+[    Split into 47,959 sentences     ]
+                   v
+[    Map tags to B-PER, I-PER, O     ]
+                   v
+[   Build features for every token   ]<-----+
+                   v                        |
+[    Vectorize features into X, y    ]      |
+                   v                        |
+[       Train LinearSVC on 90%       ]      |
+                   v                        |
+[   Score precision/recall on 10%    ]      |
+                   v                        |
+<         Scores acceptable?         >-No---+
+                   v Yes
+[   Retrain LinearSVC on all data    ]
+                   v
+/      Trained SVM + vectorizer      /
+                   v
+               ( End )

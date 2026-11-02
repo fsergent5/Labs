@@ -1,0 +1,23 @@
+              ( Start )
+                   v
+/      Trained SVM + vectorizer      /
+                   v
+/      Read BNC Baby XML files       /
+                   v
+[    Keep first 10,000 sentences     ]
+                   v
+[ Take next sentence; build features ]<-----+
+                   v                        |
+[   SVM tags tokens B-PER/I-PER/O    ]      |
+                   v                        |
+[  Join B-PER + I-PER tokens = span  ]      |
+                   v                        |
+<      Span matches name regex?      >-No---+
+                   v Yes                    |
+[    Record (sentence no., name)     ]      |
+                   v                        |
+<        More sentences left?        >-Yes--+
+                   v No
+/       Write person_names.txt       /
+                   v
+               ( End )
