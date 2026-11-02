@@ -1,0 +1,4 @@
+{"train_tokens":"1,048,575","b_per":"16,990","i_per":"17,251",
+ "bp_p":".766","bp_r":".876","bp_f":".817","ip_p":".791","ip_r":".926","ip_f":".853",
+ "n_sents":"10,000","n_files":"eight","mentions":"1,213","distinct":"686",
+ "top":"Levin (20 mentions), Kahlo (16), Debord (16), Wilson (13), and Lord Scarman (13), alongside false positives such as *Second* (23), *GIS* (12), and *Monte Carlo* (12)"}
