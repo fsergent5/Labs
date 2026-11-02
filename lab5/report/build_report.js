@@ -97,11 +97,11 @@ const titlePage = [
   centered("Person-Name Extraction With Support Vector Machines:", true),
   centered("Applying the CoNLL NER Corpus to the BNC Baby Corpus", true),
   blank(),
-  centered("[Student Name]"),
+  centered("Faith James"),
   centered("[Department], [University]"),
-  centered("[Course Number]: [Course Name]"),
-  centered("[Instructor Name]"),
-  centered("[Due Date]"),
+  centered("COSC 645"),
+  centered("Dr. Huang"),
+  centered("November 2, 2026"),
   new Paragraph({ children: [new PageBreak()] }),
 ];
 
@@ -176,7 +176,7 @@ const refs = [
 ];
 
 const doc = new Document({
-  creator: "[Student Name]",
+  creator: "Faith James",
   title: "Person-Name Extraction With Support Vector Machines",
   styles: { default: { document: { run: { font: FONT, size: 24 } } } },
   sections: [{
