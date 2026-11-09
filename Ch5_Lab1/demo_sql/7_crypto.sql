@@ -1,0 +1,10 @@
+CREATE TABLE customers (id serial PRIMARY KEY, name text, ssn_enc bytea);
+INSERT INTO customers (name, ssn_enc) VALUES ('Dana Lee', pgp_sym_encrypt('123-45-6789', 'S3cretKey!', 'cipher-algo=aes256'));
+SELECT name, left(encode(ssn_enc, 'hex'), 40) || '...' AS ssn_as_stored FROM customers;
+SELECT name, pgp_sym_decrypt(ssn_enc, 'S3cretKey!') AS ssn FROM customers;
+SELECT pgp_sym_decrypt(ssn_enc, 'WrongKey') FROM customers;
+CREATE TABLE app_users (username text, pw_hash text);
+INSERT INTO app_users VALUES ('dana', crypt('Tr0ub4dor', gen_salt('bf', 8)));
+SELECT username, pw_hash FROM app_users;
+SELECT username, pw_hash = crypt('Tr0ub4dor', pw_hash) AS login_ok FROM app_users;
+SELECT username, pw_hash = crypt('guess123', pw_hash) AS login_ok FROM app_users;
